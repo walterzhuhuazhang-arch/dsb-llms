@@ -1,58 +1,2092 @@
-# DSB Medical
+# DSB Medical — llms-full.txt (EN)
 
-> Changzhou DSB Medical — incontinence care and drug-delivery devices (SMI inhalers, auto-injectors).
-
-- [Home](https://en.dsbmedical.com/): DSB Medical official homepage
+Full rendered content of core pages, for AI crawlers.
 
 
-## Products & Solutions
 
-- [Products](https://en.dsbmedical.com/products.html): Products and services overview
-- [Drug Delivery](https://en.dsbmedical.com/drug-delivery.html): SMI soft-mist inhalers and auto-injectors
-- [Inhalation Devices](https://en.dsbmedical.com/inhalation.html): Inhalation devices and metered-dose inhalers
-- [FluidMS® Fecal Management](https://en.dsbmedical.com/fluidms.html): Fecal drainage and management system
-- [FreeHala™ Inhalation Platform](https://en.dsbmedical.com/freehala.html): Drug-device combination inhalation platform (SMI/DPI/pMDI)
-- [DXneb™ Nebulizer](https://en.dsbmedical.com/dxneb.html): Portable mesh nebulizer
-- [Goldhaler® MDI](https://en.dsbmedical.com/goldhaler.html): Pressurised metered-dose inhaler (pMDI)
-- [Didun® Male External Catheter](https://en.dsbmedical.com/didun.html): External/condom catheter
-- [Urine Bag](https://en.dsbmedical.com/urine-bag.html): Urine collection bags and accessories
-- [Incontinence Care](https://en.dsbmedical.com/Incontinence.html): Adult incontinence care products
-- [Medical Consumables](https://en.dsbmedical.com/Consumables.html): Comprehensive medical consumables
-- [Disposable Care Consumables](https://en.dsbmedical.com/Disposable1.html): Single-use care and drainage consumables
-- [Mold & Tooling](https://en.dsbmedical.com/Mold.html): Precision injection molds and customization
-- [Biochip](https://en.dsbmedical.com/chip.html): Microfluidic chips and RFID biosensors
-- [Biologics Solutions](https://en.dsbmedical.com/biologic.html): Biologics packaging and delivery
-- [Anticoagulation Solutions](https://en.dsbmedical.com/anticoagulants.html): Anticoagulant market solutions
+============================================================
+## https://en.dsbmedical.com/
+TITLE: DSB Medical|End-to-End CDMO Manufacturing Group
+DESCRIPTION: DSB Medical is an end-to-end CDMO manufacturer for elder care — precision design, mold, automated production & compliance. EU MDR CE (Class IIa), FDA registered, SFDA Saudi registered, NMPA registered. OEM/ODM/JV partnerships.
 
-## Company
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical","alternateName":["Changzhou DSB Medical Co., Ltd.","帝斯博医疗"],"url":"https://en.dsbmedical.com","logo":"https://en.dsbmedical.com/logo.png","description":"FDA & CE certified medical device manufacturer specializing in SMI soft mist inhalers, external catheters, and incontinence care products with 20M annual production capacity.","foundingDate":"2010","address":{"@type":"PostalAddress","addressLocality":"Changzhou","addressRegion":"Jiangsu","addressCountry":"CN"},"contactPoint":[{"@type":"ContactPoint","telephone":"+86-519-88363800","contactType":"customer service","availableLanguage":["English","Chinese"]},{"@type":"ContactPoint","telephone":"+86-18651272568","contactType":"sales","availableLanguage":["English","Chinese"]}],"sameAs":["https://www.linkedin.com/company/dsbmedical","https://www.facebook.com/people/Changzhou-DSB-Medical-Male-External-Catheter/100083188479133","https://twitter.com/DSBMEDICAL23"],"makesOffer":[{"@type":"Offer","itemOffered":{"@type":"Product","name":"SMI Soft Mist Inhaler","category":"Drug Delivery Device"}},{"@type":"Offer","itemOffered":{"@type":"Product","name":"Male External Catheter","category":"Incontinence Care"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Medical Device CDMO Services","description":"Full-cycle contract development and manufacturing for drug delivery devices"}}],"numberOfEmployees":{"@type":"QuantitativeValue","value":"100"}},{"@type":"WebSite","@id":"https://en.dsbmedical.com/#website","url":"https://en.dsbmedical.com","name":"DSB Medical — FDA & CE Approved Medical Device Manufacturer","description":"FDA and CE certified medical device manufacturer in China. Specializing in SMI soft mist inhalers, external catheters, incontinence care products, and CDMO services for drug delivery devices.","inLanguage":"en","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://en.dsbmedical.com/search.html?q={search_term_string}"},"query-input":"required name=search_term_string"}}]},{"@type":"BreadcrumbList","@id":"https://en.dsbmedical.com/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://en.dsbmedical.com/"},{"@type":"ListItem","position":2,"name":"Home","item":"https://en.dsbmedical.com/"}]},{"@type":"MedicalDevice","@id":"https://en.dsbmedical.com/#medical-device","name":"DSB Medical end-to-end medical device manufacturing","manufacturer":{"@id":"https://en.dsbmedical.com/#organization"},"description":"DSB Medical provides end-to-end medical device manufacturing covering design, precision molding, automated production, and compliance for elder-care and incontinence products."},{"@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What CDMO services does DSB Medical offer?","acceptedAnswer":{"@type":"Answer","text":"OEM, ODM, co-branding, joint ventures, and capability transfer across the full supply chain from design and molding to automated production and compliance."}},{"@type":"Question","name":"Does DSB Medical have ISO 13485?","acceptedAnswer":{"@type":"Answer","text":"Yes. DSB Medical operates an ISO 13485 quality management system with CE and other international registrations for medical devices."}}]}]}
 
-- [About Us](https://en.dsbmedical.com/about.html): Company profile
-- [Brand](https://en.dsbmedical.com/brand.html): Brand and company introduction
-- [Quality & Compliance](https://en.dsbmedical.com/quality.html): Quality standards and regulatory compliance
-- [Regulatory Support](https://en.dsbmedical.com/support.html): Regulatory and technical support
-- [Partnerships](https://en.dsbmedical.com/partnerships.html): OEM/ODM and distribution
-- [CDMO](https://en.dsbmedical.com/cdmo.html): Contract development and manufacturing
-- [Compliance](https://en.dsbmedical.com/compliance.html): Compliance and certification information
-- [Careers](https://en.dsbmedical.com/careers.html): Join DSB Medical
-- [Investors](https://en.dsbmedical.com/investors.html): Investor relations
+BODY:
+About      Careers      Investors      Partnerships
 
-## Resources & Contact
+Products & Services
 
-- [News & Events](https://en.dsbmedical.com/news_list.html): Company news and industry updates
-- [Resources](https://en.dsbmedical.com/resources.html): Product and solution resources
-- [Contact](https://en.dsbmedical.com/contact.html): Inquiries and contact
+Markets
 
-## FAQ
+News & Events
 
-- [faq-01-male-external-vs-indwelling.html](https://en.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
-- [faq-02-condom-catheter-sizing.html](https://en.dsbmedical.com/faq-02-condom-catheter-sizing.html)
-- [faq-03-latex-free-silicone-vs-latex.html](https://en.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
-- [faq-04-reduce-cauti-5-ways.html](https://en.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
-- [faq-05-china-medical-device-quality.html](https://en.dsbmedical.com/faq-05-china-medical-device-quality.html)
-- [faq-06-male-urinary-incontinence-guide.html](https://en.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
-- [faq-07-oem-odm-buyers-guide.html](https://en.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
-- [faq-08-external-catheter-care.html](https://en.dsbmedical.com/faq-08-external-catheter-care.html)
-- [faq-09-smi-vs-traditional-nebulizer.html](https://en.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
-- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://en.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
-- [faq-11-soft-mist-high-lung-deposition.html](https://en.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
-- [faq-12-china-cdmo-inhalation-devices.html](https://en.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)
+Integrated Solutions
+
+Contact Us
+
+Language
+
+Combining products, technologies, and services into tailored solutions to improve people's lives.
+
+DSB Specializes In World-class Systems, Processes, and Services for the Pharmaceutical and Healthcare industry.
+
+DSB Medical was founded in Changzhou, China, 2010. We are a CE and FDA certified CDMO(Contract development and manufacturing organization). During the past decade, we partner with public and private sectors to create turnkey healthcare projects that are tailored to local needs and adhere to the highest international standards. Our successful key projects Intended application for Incontinence healthcare, Inhaled drug delivery, POCT sections.etc. Certified to ISO 13485. Our FluidMS fecal management system holds EU MDR CE Class IIa certification, a scope held by fewer than 10 companies worldwide.
+
+—— Learn about our CDMO capability
+
+EU MDR CE Certified · Class IIa · Among fewer than 10 companies worldwide with this certification · ISO 13485
+
+Products & Capabilities
+
+Drug Delivery Device
+
+Unique drug delivery solutions based on extensive contract manufacturing competences, integrated capabilities and proven technologies
+
+Discover More
+
+Incontinence Healthcare
+
+Provide incontinence devices and services for disabled individuals, with a professional incontinence product research and development team and mature integrated market application solutions
+
+Discover More
+
+Disposable Medical Consumables
+
+In the development and manufacture of disposable medical consumables solutions, we combine functionality and economy. Our products are of excellent quality and design to ensure their safety, reliability and effectiveness
+
+Discover More
+
+Biological Chip
+
+Widely used in health assessment, clinical diagnosis, individualized diagnosis and treatment, life science research, drug research and development, molecular breeding, food safety, judicial identification, and other fields
+
+Discover More
+
+Technologies & Manufacturing
+
+Mold Development
+
+Has several high-precision CNC machine tools imported from Japan, focusing on the development of multi-cavity medical equipment molds
+
+Discover More
+
+Automation Development
+
+A number of fully automated production lines with independent research and development and intellectual property rights
+
+Discover More
+
+Equipment/ Processing Capability
+
+Has the industry's high-end special film, precision plastic parts production equipment and production process
+
+Discover More
+
+Packaging Capablility
+
+100,000-level purification workshop intelligent packaging production line with customized solutions
+
+Discover More
+
+Service
+
+Analytical testing capabilities
+Perfect quality system, compliance
+Development assistance capability CDMO
+International service capability
+
+Male External Catheter Guide | Compliance | Partnerships
+
+Thanks to our long-term cooperation with customers in many different projects, we can flexibly design customized services
+
+Discover More
+
+News & Events
+
+Delegation from China Association for Social Welfare and Elderly Care Services Visits DSB Medical for Inspection and Research
+
+2025-11-07
+
+Join Us FIME 2024 Booth No.：E73 Date: June 19-21, 2024 Location: Miami Beach Convention Center, Florida, USA
+
+2024-06-15
+
+DSB Medical Invites You to ARAB HEALTH 2024
+
+2024-01-13
+
+Inhaled therapy is essential for the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+
+2023-11-30
+
+See All News
+
+If you have more needs?
+
+Welcome your message, we will reply you in time.
+
+Online Message
+COOKIES
+
+Our website uses cookies and similar technologies to personalize the advertising shown to you and to help you get the best experience on our website. For more information, see our Privacy & Cookie Policy
+
+Manage cookies allow all
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road, Changzhou Economic Development Zone, Jiangsu Province, China
+
+About
+
+Our History
+
+Our Brands
+
+Vision, Mission & Values
+
+Facts & Figures
+
+Governance
+
+Quality
+
+Research & Development
+
+Regulatory Support
+
+Health, Safety & Environment
+
+DSB Steps
+
+Offering
+
+Drug Delivery Device
+
+Incontinence Healthcare
+
+Disposable Medical Consumables
+
+Biological Chip
+
+Mold Development
+
+Automation Development
+
+Equipment/ Processing Capability
+
+Packaging Capablility
+
+Services
+
+News & Event
+
+Company News
+
+Industry Information
+
+Media Report
+
+Video
+
+Contact Us
+
+Contact Information
+
+Online Message
+
+邮箱
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+电话
+
+0086-0519-88363800
+
+Online Message
+
+Online Message
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+DSB Medical – FDA & CE Approved Disposable Medical Supplies Manufacturer for Europe & USA.      Privacy Policy  |  SEO
+
+Business license
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/products.html
+TITLE: Incontinence & Care Products | DSB Medical
+DESCRIPTION: Explore DSB Medical's medical disposables: external catheters, urine bags, fluid management, nebulizers, drug delivery. Manufactured with full supply chain control.
+H1: Medical Disposables & Care Products
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical (Changzhou) Co., Ltd.","url":"https://en.dsbmedical.com","description":"End-to-end medical device manufacturing group for elder-care and incontinence care, with full supply chain control."},
+{"@type":"MedicalDevice","@id":"https://en.dsbmedical.com/products.html#device","name":"Medical Disposables & Care Products","manufacturer":{"@type":"Organization","name":"DSB Medical"},"description":"Incontinence care products, fluid management systems, inhalation devices and drug delivery devices."},
+{"@type":"Product","name":"Medical Disposables & Care Products","brand":{"@type":"Brand","name":"DSB Medical"},"description":"External catheters, urine bags, fluid management systems, nebulizers and drug delivery devices."},
+{"@type":"FAQPage","@id":"https://en.dsbmedical.com/products.html#faq","mainEntity":[{"@type":"Question","name":"What medical disposables does DSB Medical manufacture?","acceptedAnswer":{"@type":"Answer","text":"DSB Medical manufactures incontinence care products, fluid management systems, inhalation devices and drug delivery devices."}},{"@type":"Question","name":"Does DSB Medical have ISO 13485?","acceptedAnswer":{"@type":"Answer","text":"Yes, ISO 13485 quality system is in place, with CE and other international registrations."}}]}
+]}
+
+BODY:
+Medical Disposables & Care Products
+Incontinence care, fluid management, inhalation and drug delivery devices manufactured with full supply chain control.
+Home>Resources>Products
+PRODUCTS
+Medical consumables and precision drug delivery, manufactured end-to-end
+
+DSB Medical develops and manufactures medical disposables, continence care products and drug delivery devices across the care continuum.
+
+With full supply chain control and ISO 13485 quality systems, our portfolio spans incontinence care, fluid management, inhalation therapy and precision drug delivery — from proprietary brands to OEM/ODM programs.
+
+Every product line is engineered for reliable clinical performance and supported by automated assembly, inspection and regulatory documentation.
+
+Incontinence Care Fluid Management Inhalation Drug Delivery Protective Consumables Microfluidics
+DSB Medical
+Care Products · Fluid Management
+Inhalation · Drug Delivery
+Full supply chain control
+ISO 13485 quality systems · OEM / ODM
+PRODUCT PORTFOLIO
+One manufacturing partner across the care continuum
+
+From hospital disposables to precision drug delivery, DSB Medical supports standard products and custom OEM/ODM development.
+
+🩹
+Incontinence Care · DIDUN
+
+External catheters, adult diapers and continence care products for hospital and home care.
+
+💧
+Fluid Management · FluidMS®
+
+Urine bags, fecal drainage and fluid monitoring systems for dependent care.
+
+💨
+Inhalation · DXneb™
+
+Vibration mesh nebulizers and respiratory care devices for efficient aerosol delivery.
+
+💉
+Drug Delivery · GoldHaler®
+
+Soft mist inhalers, auto-injectors and precision drug delivery systems.
+
+🧤
+Medical Protective Consumables
+
+Infection-control covers, isolation gowns and protective consumables for clinical environments.
+
+🧬
+Bio-microfluidic Chips
+
+Microfluidic chips and biosensing platforms for diagnostics and drug delivery.
+
+Explore the DSB Medical product portfolio
+From continence care to precision drug delivery, talk to us about standard products and OEM/ODM programs.
+Contact DSB Medical
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/drug-delivery.html
+TITLE: Drug Delivery Device Manufacturer | pMDI, DPI & Soft Mist Inhaler CDMO
+DESCRIPTION: Respiratory drug delivery devices and inhalation CDMO from DSB Medical: pMDI pressurized metered-dose inhalers, DPI dry powder inhalers, SMI soft mist inhalers, auto-injectors.
+H1: Drug Delivery Devices
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical (Changzhou) Co., Ltd.","url":"https://en.dsbmedical.com","description":"End-to-end medical device manufacturing group for elder-care and drug delivery."},
+{"@type":"MedicalDevice","@id":"https://en.dsbmedical.com/drug-delivery.html#device","name":"Drug Delivery Devices","manufacturer":{"@type":"Organization","name":"DSB Medical"},"description":"Auto-injectors and companion systems with automated assembly and ISO 13485 compliance."},
+{"@type":"FAQPage","@id":"https://en.dsbmedical.com/drug-delivery.html#faq","mainEntity":[{"@type":"Question","name":"What drug delivery devices does DSB Medical offer?","acceptedAnswer":{"@type":"Answer","text":"DSB Medical designs and manufactures auto-injectors and companion systems for drug delivery."}},{"@type":"Question","name":"Does DSB Medical provide automated assembly for drug-device combination products?","acceptedAnswer":{"@type":"Answer","text":"Yes, DSB Medical provides automated assembly and inspection under ISO 13485."}}]}
+]}
+
+BODY:
+Drug Delivery Devices
+Auto-injectors and companion systems with automated assembly and ISO 13485 compliance.
+Home>Resources>Drug Delivery Devices
+DRUG DELIVERY DEVICES
+From device concept to commercial supply
+
+DSB Medical designs, engineers and manufactures drug delivery devices for pharmaceutical and biotech partners.
+
+Our drug delivery portfolio spans precision auto-injectors, self-injection systems and connected companion platforms, backed by high-precision automated assembly and ISO 13485 quality management.
+
+From pre-filled autoinjector platforms to digital companion apps, we support OEM, ODM and joint-development programs from early device concept through commercial supply.
+
+Auto-Injectors Companion Systems Automated Assembly ISO 13485 OEM / ODM
+Drug Delivery
+Auto-Injectors · Self-Injection
+Companion Systems · Automated Assembly
+ISO 13485 quality systems
+OEM / ODM / Joint development
+CAPABILITIES
+Drug delivery devices for every stage of development
+
+From precision injection to connected care, our capabilities support pharmaceutical and drug-device combination products.
+
+💉
+Auto-Injectors
+
+Precision auto-injectors and pre-filled autoinjector platforms for subcutaneous and intramuscular drug delivery.
+
+📱
+Companion Systems
+
+Digital companion apps and connected drug delivery systems that support patient adherence and treatment monitoring.
+
+⚙️
+Automated Assembly
+
+High-precision automated assembly, inspection and packaging for drug-device combination products.
+
+🛡️
+ISO 13485 Compliance
+
+Manufacturing under ISO 13485 quality management systems with complete process traceability.
+
+🏠
+Self-Injection & Auto-Injection
+
+Self-injection and auto-injection devices designed for safe, convenient use at home and in clinical settings.
+
+🤝
+OEM / ODM Partnership
+
+Flexible OEM, ODM and joint-development programs from device concept to commercial supply.
+
+Bring your drug delivery device to market
+Talk to DSB Medical about auto-injectors, self-injection systems and drug-device combination product manufacturing.
+Contact DSB Medical
+Respiratory Drug Delivery Devices
+Respiratory drug delivery device — DSB Medical develops respiratory drug delivery devices across pMDI, DPI and SMI platforms.
+Dry powder inhaler manufacturer / soft mist inhaler supplier China — As a China CDMO, DSB Medical supports dry powder inhaler and soft mist inhaler development and contract manufacturing.
+Inhalation device CDMO — Inhalation device CDMO services cover device design, tooling, molding, assembly and quality documentation.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/inhalation.html
+TITLE: Inhalation Devices Manufacturer | Soft Mist, Dry Powder & Metered Dose Inhaler
+DESCRIPTION: DSB Medical designs and manufactures inhalation devices: soft mist inhaler (SMI), dry powder inhaler (DPI) and pressurized metered-dose inhaler (pMDI). China CDMO/OEM inhalation device supplier.
+H1: Inhalation & Nebulizer Devices
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical (Changzhou) Co., Ltd.","url":"https://en.dsbmedical.com","description":"End-to-end medical device manufacturing group for elder-care and respiratory care."},
+{"@type":"MedicalDevice","@id":"https://en.dsbmedical.com/inhalation.html#device","name":"Inhalation & Nebulizer Devices","manufacturer":{"@type":"Organization","name":"DSB Medical"},"description":"Piezoelectric mesh nebulizers and inhalation devices for hospital and home use, supporting drug-device combination therapy."},
+{"@type":"FAQPage","@id":"https://en.dsbmedical.com/inhalation.html#faq","mainEntity":[{"@type":"Question","name":"What inhalation devices does DSB Medical offer?","acceptedAnswer":{"@type":"Answer","text":"DSB Medical develops piezoelectric mesh nebulizers and inhalation devices for hospital and home use."}},{"@type":"Question","name":"Does DSB Medical support drug-device combination therapy?","acceptedAnswer":{"@type":"Answer","text":"Yes, DSB Medical supports drug-device combination therapy and B2B partnership programs."}}]}
+]}
+
+BODY:
+Inhalation & Nebulizer Devices
+Precision drug delivery for respiratory care — piezoelectric mesh nebulizers and inhalation devices engineered for efficient, low-residual aerosol drug delivery in hospital and home settings.
+Home>Resources>Inhalation Devices
+INHALATION & NEBULIZER DEVICES
+Precision respiratory drug delivery, from hospital to home
+
+DSB Medical engineers piezoelectric mesh nebulizers and inhalation devices for efficient, low-residual aerosol drug delivery.
+
+Our inhalation portfolio combines clinically focused hospital devices with compact home nebulizers, supporting pharmaceutical and device partners from feasibility through OEM/ODM manufacturing.
+
+The inhalation platform spans soft mist inhalers (SMI), dry powder inhalers (DPI), pressurized metered-dose inhalers (pMDI) and vibrating mesh nebulizers, giving pharmaceutical partners one engineering partner across respiratory delivery formats.
+
+DXneb™ vibration mesh nebulizers generate a fine, uniformly sized aerosol plume for better lung deposition, lower residual volume and quieter operation than conventional jet nebulizers.
+
+Mesh Nebulizers Hospital Use Home Use Drug-Device Combination OEM / ODM
+Vibration mesh nebulizers
+DXneb™ inhalation portfolio
+CAPABILITIES
+Inhalation devices for every care setting
+
+From clinical respiratory therapy to long-term home care, our devices are engineered for consistent, efficient aerosol delivery.
+
+💨
+Vibration Mesh Nebulizers
+
+Vibrating piezoelectric mesh nebulizers generate a consistent aerosol plume with fine, uniformly sized droplets for efficient lung deposition.
+
+🏥
+Hospital Use Devices
+
+Clinically focused inhalation devices built for reliable respiratory therapy, compatible with physician-prescribed medications and hospital workflows.
+
+🏠
+Home Use Devices
+
+Compact, portable, low-noise nebulizers for daily respiratory care and long-term home therapy.
+
+🧬
+Drug-Device Combination
+
+Partnership with pharmaceutical and device companies to develop drug-device combination products, including dry powder inhalers, soft mist inhalers and mesh nebulizers, from feasibility to OEM/ODM manufacturing.
+
+🔇
+Low-Residual & Quiet Operation
+
+Lower residual volume and quieter operation than conventional jet nebulizers for more comfortable, efficient therapy.
+
+🤝
+OEM / ODM Manufacturing
+
+Flexible OEM, ODM and joint-development programs from device concept to commercial supply.
+
+Precision inhalation, engineered for every breath
+Talk to DSB Medical about mesh nebulizers, inhalation devices and drug-device combination programs.
+Contact DSB Medical
+Inhalation Device Categories
+Metered dose inhaler / pMDI — A metered dose inhaler or pressurized metered-dose inhaler delivers a measured aerosol dose with or without a spacer.
+Dry powder inhaler — A dry powder inhaler delivers medication as a breath-activated powder for asthma and COPD care.
+Soft mist inhaler — A soft mist inhaler produces a slow-moving aerosol cloud with high lung deposition potential.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/fluidms.html
+TITLE: Fecal Management System (FMS) | Stool Management System | FluidMS® by DSB Medical
+DESCRIPTION: FluidMS® indwelling fecal management system (FMS) for stool & bowel management: soft silicone rectal catheter, retention balloon, irrigation port and closed drainage collection bag. China manufacturer in Changzhou, Jiangsu; EU MDR CE Class IIa, ISO 13485, FDA-registered facility, OEM/ODM.
+H1: FluidMS® Fecal Management System
+
+JSON-LD:
+{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://en.dsbmedical.com/#organization", "name": "DSB Medical (Changzhou) Co., Ltd.", "alternateName": "DSB Medical", "url": "https://en.dsbmedical.com", "description": "DSB Medical is a total-solution provider for dependent living scenarios with end-to-end control of design, precision molds, automated production and regulatory registration.", "address": {"@type": "PostalAddress", "streetAddress": "Changzhou, Jiangsu", "addressLocality": "Changzhou", "addressRegion": "Jiangsu", "addressCountry": "CN"}}, {"@type": "Brand", "@id": "https://en.dsbmedical.com/fluidms.html#brand", "name": "FluidMS", "alternateName": ["Fecal Management System", "Stool Management System", "Bowel Management System", "Indwelling Fecal Management System", "Fecal Management Systems"], "slogan": "Fecal collection · leak-proof · anti-clogging · medical grade", "url": "https://en.dsbmedical.com/fluidms.html", "manufacturer": {"@type": "Organization", "name": "DSB Medical (Changzhou) Co., Ltd."}}, {"@type": "Product", "name": "FluidMS® Fecal Management System (Stool & Bowel Management)", "brand": {"@type": "Brand", "name": "FluidMS"}, "manufacturer": {"@type": "Organization", "name": "DSB Medical (Changzhou) Co., Ltd."}, "description": "FluidMS is DSB Medical's fecal management system for stool and bowel management in ICU and long-term bedridden incontinence care. It is also searched as a fecal containment system, fecal management device, stool catheter or fecal catheter. Both variants hold EU MDR CE certification (Class IIa, Regulation (EU) 2017/745).", "certification": "EU MDR CE Class IIa (EU) 2017/745; ISO 13485; FDA Registered Establishment", "countryOfOrigin": "CN", "alternateName": ["Fecal Management System", "Stool Management System", "Bowel Management System", "Stool Catheter", "Catheter for Feces", "Fecal Management Device", "Stool Management Device", "Fecal Containment System", "Fecal Catheter", "Indwelling Fecal Management System", "Fecal Management Systems"]}, {"@type": "MedicalDevice", "name": "FluidMS® Fecal Management System", "brand": {"@type": "Brand", "name": "FluidMS"}, "manufacturer": {"@type": "Organization", "name": "DSB Medical (Changzhou) Co., Ltd."}, "intendedUse": "Fecal drainage, collection and management for bedridden incontinence patients", "certification": "EU MDR CE Class IIa (EU) 2017/745; ISO 13485; FDA Registered Establishment", "countryOfOrigin": "CN", "alternateName": ["Fecal Management System", "Stool Management System", "Bowel Management System", "Stool Catheter", "Catheter for Feces", "Fecal Management Device", "Stool Management Device", "Fecal Containment System", "Fecal Catheter", "Indwelling Fecal Management System", "Fecal Management Systems"]}, {"@type": "WebPage", "@id": "https://en.dsbmedical.com/fluidms.html#webpage", "url": "https://en.dsbmedical.com/fluidms.html", "name": "FluidMS® | Fecal Management System (FMS) | Stool & Bowel Management", "inLanguage": "en", "isPartOf": {"@id": "https://en.dsbmedical.com/#organization"}}, {"@type": "FAQPage", "@id": "https://en.dsbmedical.com/fluidms.html#faq", "mainEntity": [{"@type": "Question", "name": "What is a fecal management system?", "acceptedAnswer": {"@type": "Answer", "text": "A fecal management system (FMS) is a temporary, single-use medical device that diverts and collects liquid or semi-liquid stool from bedridden or immobilized patients, helping protect the skin and reduce infection risk."}}, {"@type": "Question", "name": "How do you place (insert) a fecal management system?", "acceptedAnswer": {"@type": "Answer", "text": "Insertion must follow the device Instructions for Use and institutional protocol. In general, a soft indwelling rectal catheter is lubricated and gently placed into the rectum; if the device has a retention balloon, it is filled with the specified volume to hold the device above the anal sphincter. Only trained clinicians should perform insertion."}}, {"@type": "Question", "name": "How do you remove a fecal management system?", "acceptedAnswer": {"@type": "Answer", "text": "Deflate the retention balloon, if present, using the specified syringe or port, then gently withdraw the catheter following the manufacturer IFU and facility protocol. Dispose of the single-use device per clinical waste guidelines."}}, {"@type": "Question", "name": "How long can a fecal management system stay in place?", "acceptedAnswer": {"@type": "Answer", "text": "Wear time depends on the specific device IFU and the patient clinical condition. Follow the manufacturer maximum indicated wear time and reassess regularly; do not exceed the labeled dwell time."}}, {"@type": "Question", "name": "How do you empty a fecal management system?", "acceptedAnswer": {"@type": "Answer", "text": "Open the drainage port and empty the collection bag into a bedpan or clinical waste container using standard precautions, then reseal the port. Follow the device IFU and facility infection-control policy."}}, {"@type": "Question", "name": "What are the contraindications of a fecal management system?", "acceptedAnswer": {"@type": "Answer", "text": "Contraindications can include recent colorectal surgery, severe rectal pathology or stricture, intestinal obstruction, and known allergy to device materials. Always confirm suitability against the device IFU and a clinician assessment."}}, {"@type": "Question", "name": "Is DSB Medical a certified fecal management system manufacturer?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Both variants of DSB Medical FluidMS® Fecal Management System hold CE certification under the EU Medical Device Regulation (EU) 2017/745 (Class IIa). The certification holder is DSB Medical (Changzhou) Co., Ltd., with production under ISO 13485 certified quality systems."}}, {"@type": "Question", "name": "Is a fecal management system the same as a stool management system?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. Fecal management system (FMS), stool management system, bowel management system and fecal collector are commonly used terms for a single-use medical device that diverts and collects liquid or semi-liquid stool in bedridden or critically ill patients."}}, {"@type": "Question", "name": "Is a fecal management system a catheter for feces?", "acceptedAnswer": {"@type": "Answer", "text": "It is a purpose-designed indwelling rectal catheter system for continuous collection and containment of liquid or semi-liquid stool. It is often searched as a stool catheter or catheter for feces, and is used in ICU, long-term care and home care."}}, {"@type": "Question", "name": "What is a stool management device?", "acceptedAnswer": {"@type": "Answer", "text": "A stool management device (also called a stool catheter or fecal management system) is a disposable medical device that collects and contains liquid stool, protects perineal skin and reduces caregiver workload for bedridden patients."}}, {"@type": "Question", "name": "Is a fecal containment system the same as a fecal management device?", "acceptedAnswer": {"@type": "Answer", "text": "They are closely related terms for a single-use medical device that diverts and contains liquid or semi-liquid stool. FluidMS® is a fecal containment system and fecal management device for ICU, long-term care and home care."}}]}]}
+
+BODY:
+Home>Products & Services>FluidMS® Fecal Management System
+FluidMS
+FECAL MANAGEMENT SYSTEM
+Philosophy
+Product Lines
+Applications
+Contact
+Contact FluidMS
+A DSB MEDICAL BRAND · FECAL & BOWEL MANAGEMENT
+FluidMS® Fecal Management System
+
+Fecal Management System (FMS) / Stool Management System — Fecal collection · Leak-proof · Anti-clogging · Medical grade
+
+FluidMS® Fecal Management System (FMS), also known as a stool management system or bowel management system, is a single-use indwelling fecal management device consisting of a soft silicone rectal catheter with a retention balloon and an irrigation port, connected to a closed drainage collection bag. Manufactured in Changzhou, Jiangsu, China by DSB Medical, it provides leak-proof, anti-clogging, medical-grade stool containment for ICU and long-term bedridden incontinence care.
+
+Explore Fecal Management
+Read the philosophy ↗
+WHAT IS A FECAL MANAGEMENT SYSTEM?
+Fecal Management System Definition
+
+A fecal management system (FMS) — also called a stool management system, bowel management system, fecal containment system or fecal collector — is a single-use indwelling medical device used to divert and collect liquid or semi-liquid stool. The device consists of a soft, biocompatible silicone catheter with a retention balloon placed in the rectum, an irrigation port, and a closed drainage collection bag that keeps stool away from the skin.
+
+FluidMS® is DSB Medical's FMS for ICU, long-term bedridden and home incontinence care, manufactured in Changzhou, Jiangsu, China under ISO 13485 quality systems and EU MDR CE Class IIa certification.
+
+CERTIFICATION & COMPLIANCE
+EU MDR CE Certification
+
+The two variants of DSB Medical's FluidMS® Fecal Management System each hold a CE certificate under the Medical Device Regulation (EU) 2017/745, classified as Class IIa. The certification holder is DSB Medical (Changzhou) Co., Ltd. Industry figures indicate that fewer than 10 manufacturers worldwide hold MDR CE certification for fecal management systems, and DSB Medical is among them — confirming independent, third-party conformity assessment under the EU medical device regulatory framework.
+
+FluidMS® fecal management systems are EU MDR CE certified. MDR CE certification streamlines procurement compliance for hospitals and ICU decision-makers, removing the need for secondary verification.
+
+Regulatory & clinical references: EU MDR (EU) 2017/745 · ISO 13485 · FDA-registered facility · PubMed: fecal management system, incontinence-associated dermatitis in critical care, C. difficile infection & fecal containment.
+
+BRAND PHILOSOPHY
+Dignified bedridden incontinence care
+
+Fecal management is not just cleanup — it is medical-grade infection control, skin protection and patient dignity.
+
+Making fecal management a dignified standard of care.
+
+FluidMS® uses single-use, leak-proof, anti-clogging designs to reduce stool leakage and skin irritation, easing caregiver burden.
+
+From hospital ICU to long-term bedridden and home care, we make stool management and bowel management systematic, standardized and dignified.
+
+In intensive care and long-term bedridden care, FluidMS is the hand that truly understands dignity.
+
+Stool & fecal management. Dignified care for ICU and long-term care.
+
+🛡️
+FluidMS® · Fecal Management System
+
+Leak-proof · Anti-clogging · Medical grade
+
+Stool & fecal management.
+Dignified care.
+
+PRODUCT LINES
+FluidMS® Fecal Management Product Lines
+
+From single-use fecal drainage to systematic management, covering the full bedridden incontinence and bowel management workflow.
+
+China supplier and manufacturer in Changzhou, Jiangsu: DSB Medical is a fecal management system supplier and manufacturer in Changzhou, Jiangsu, China, providing bowel management systems, stool management systems, fecal containment systems and fecal management devices for hospital, ICU, distributor and long-term-care buyers. Procurement teams evaluate MDR CE certification, ISO 13485 documentation, drainage capacity, OEM/ODM options and sample performance before ordering.
+
+Indwelling FMS: FluidMS® is an indwelling fecal management system for ICU, long-term care and bedridden patients, and is also searched as a fecal management device, stool management system, bowel management system or fecal containment system.
+
+Fecal Collector
+FECAL COLLECTOR
+Fecal Collector
+
+Single-use, medical-grade fecal drainage device with leak-proof seal and anti-clogging structure to reduce stool leakage and skin irritation.
+
+Fecal Management
+FECAL MANAGEMENT
+Fecal Management System
+
+Absorbent stool collection and management system with strong odor lock, leak-proof seal and easy replacement for dignified care.
+
+Monitoring & Accessories
+MONITORING & ACCESSORIES
+Monitoring & Accessories
+
+Companion tubing, fixation and monitoring accessories that systematically support fecal management across ICU and home settings.
+
+APPLICATIONS
+Fecal management and incontinence care scenarios
+
+FluidMS® delivers dignified, reliable fecal management in ICU, long-term bedridden and home care.
+
+🏥
+ICU
+
+ICU fecal management: single-use, leak-proof, anti-clogging fecal drainage for critically ill, bedridden and incontinent patients, reducing infection and skin injury.
+
+🛌
+Long-term bedridden care
+
+Long-term bedridden incontinence care: stool collection and management with strong leak protection, easy replacement and low odor to protect dignity.
+
+🏠
+Home elderly care
+
+Home incontinence care: medical-grade portable solutions that give elderly patients safe, comfortable and dignified fecal management at home.
+
+CLINICAL USE
+Indications and contraindications
+
+FluidMS® fecal management systems are intended for the containment and drainage of liquid or semi-liquid stool in patients who are incontinent, immobile, bedridden or critically ill and require reliable fecal management.
+
+Indications
+
+Liquid or semi-liquid stool management, skin protection and infection control for ICU, long-term bedridden and home-care patients with fecal incontinence.
+
+Contraindications
+
+Do not use in patients with confirmed or suspected rectal obstruction, recent rectal or anal surgery, severe rectal wall injury, or known allergy to device materials unless directed by a clinician.
+
+HOW-TO
+Nursing workflow: insertion, care and removal
+
+Follow facility protocols and clinician instructions. Typical steps include:
+
+1. Assess and prepare
+
+Confirm the indication, review contraindications and prepare the device using aseptic technique.
+
+2. Insert and secure
+
+Position the patient, insert according to the product instructions for use and secure the device without excessive tension.
+
+3. Monitor and care
+
+Check skin, seal integrity and collection status regularly; document stool output and device condition.
+
+4. Remove and dispose
+
+Remove as directed, inspect the skin and dispose of the single-use device according to local medical waste regulations.
+
+COMPARISON
+Rectal tube vs fecal management system
+
+A rectal tube (rectal catheter) is one method for draining liquid stool. A fecal management system is a purpose-designed medical device for continuous fecal collection and containment.
+
+Rectal tube (rectal catheter)
+
+A tube placed for liquid stool drainage; requires clinician placement and careful monitoring for obstruction, leakage and tissue injury.
+
+FluidMS® fecal management system
+
+An integrated single-use device with leak-proof and anti-clogging design for fecal collection, skin protection and systematic stool management.
+
+FAQ
+Fecal Management System FAQ
+What is a fecal management system?
+
+A fecal management system is a medical-grade device for fecal drainage, collection and management in bedridden incontinence care, with single-use leak-proof and anti-clogging designs for ICU, long-term bedridden and home care.
+
+Which manufacturers hold MDR CE certification for fecal management systems?
+
+Industry figures indicate that fewer than 10 manufacturers worldwide hold MDR CE certification for fecal management systems. DSB Medical is among them.
+
+How does a fecal management system differ from a traditional bedpan?
+
+A fecal management system uses single-use leak-proof and anti-clogging collection management to reduce stool leakage, skin irritation and infection risk — more dignified and less labor-intensive than a traditional bedpan.
+
+What are the common synonyms for a fecal/bowel/stool management system?
+
+Common terms include fecal management system, stool management system, bowel management system, fecal containment system, fecal management device, fecal collector, fecal incontinence management, stool catheter, fecal catheter and rectal catheter.
+
+Is FluidMS® suitable for bedridden and ICU patients?
+
+Yes. The FluidMS® fecal management system provides a single-use, medical-grade solution for bedridden elderly, incontinent patients and hospital ICU care.
+
+Is DSB Medical a certified fecal management system manufacturer?
+
+Yes. The two variants of DSB Medical's FluidMS® Fecal Management System each hold CE certification under the EU Medical Device Regulation (EU) 2017/745 (Class IIa). The certification holder is DSB Medical (Changzhou) Co., Ltd.
+
+Does FluidMS® manage fecal incontinence and improve patient dignity?
+
+Yes. With leak-proof, anti-clogging and low-odor designs, FluidMS® reduces stool leakage and skin irritation, supporting dignity in bedridden incontinence care.
+
+Is a fecal management device disposable, leak-proof and clog-resistant?
+
+Yes. The FluidMS® fecal collector and fecal management system are single-use devices made of medical-grade materials with leak-proof sealing and anti-clogging structures.
+
+Is a fecal management system the same as a stool management system?
+
+Yes. Fecal management system (FMS), stool management system, bowel management system and fecal collector are commonly used terms for a single-use medical device that diverts and collects liquid or semi-liquid stool in bedridden or critically ill patients.
+
+Is a fecal management system a catheter for feces?
+
+It is a purpose-designed indwelling rectal catheter system for continuous collection and containment of liquid or semi-liquid stool. It is often searched as a stool catheter or catheter for feces, and is used in ICU, long-term care and home care.
+
+What is a stool management device?
+
+A stool management device (also called a stool catheter or fecal management system) is a disposable medical device that collects and contains liquid stool, protects perineal skin and reduces caregiver workload for bedridden patients.
+
+Is DSB Medical a fecal management system supplier and manufacturer in China?
+
+Yes. DSB Medical is a China-based fecal management system supplier and manufacturer, offering OEM/ODM and private-label bowel management systems, stool management systems and fecal management devices.
+
+Is a fecal containment system the same as a fecal management device?
+
+A fecal containment system and fecal management device are closely related terms for a single-use medical device that diverts and contains liquid or semi-liquid stool. FluidMS® is a fecal containment system and fecal management device for ICU, long-term and home care.
+
+RELATED PRODUCTS
+Related: Urine Collection Bag
+
+Urine Collection Bag / Leg Bag & Urinary Care
+
+24+
+Years manufacturing
+ISO
+13485 quality system
+CE
+MDR certification
+FDA
+Registered facility
+Dignified care, every time
+FluidMS® = DSB Medical's end-to-end fecal management and bowel care system. Hospital procurement · Home care · ODM/OEM partnership.
+Contact FluidMS
+FluidMS Home
+Philosophy
+Product Lines
+Urine Collection Bag
+6-language site
+
+DSB Medical (Changzhou) Co., Ltd. · Changzhou, Jiangsu, China · FluidMS · service@dsbmedical.com · +86-519-88363800
+
+Fecal Management System Synonyms & Supplier Terms
+Bowel management system / stool management system — Fecal management system, bowel management system and stool management system describe the same family of single-use fecal containment devices.
+Fecal containment system — A fecal containment system diverts and collects liquid or semi-liquid stool while protecting perineal skin.
+Fecal management system manufacturer / supplier China — DSB Medical is a China manufacturer and supplier of MDR CE Class IIa fecal management systems with OEM/ODM programs.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/freehala.html
+TITLE: FreeHala™ Combination Drug-Device Inhaler | DSB Medical
+DESCRIPTION: FreeHala™ is DSB Medical combination drug-device inhalation platform covering SMI, DPI and pMDI delivery for hospital and home respiratory drug delivery.
+H1: FreeHala™ Combination Drug-Device Inhalation Platform
+One platform, three delivery modes
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "FreeHala™ Combination Drug-Device Inhalation Platform",
+  "brand": {
+    "@type": "Brand",
+    "name": "FreeHala™"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Changzhou DSB Medical Co., Ltd."
+  },
+  "description": "FreeHala™ is a combination drug-device inhalation platform covering SMI, DPI, and pMDI delivery, offered through DSB Medical CDMO for OEM/ODM/Joint Venture development and manufacturing.",
+  "url": "https://en.dsbmedical.com/freehala.html"
+}
+
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://en.dsbmedical.com/freehala.html#faq","url":"https://en.dsbmedical.com/freehala.html","mainEntity":[{"@type":"Question","name":"What is the DSB Soft Mist Inhaler (SMI)?","acceptedAnswer":{"@type":"Answer","text":"The DSB Soft Mist Inhaler (SMI) is a spring-powered, propellant-free inhalation device with a single-use cartridge, supplied unfilled as a drug-delivery platform for pharmaceutical partners."}},{"@type":"Question","name":"What is the intended use of the SMI?","acceptedAnswer":{"@type":"Answer","text":"It is an unfilled device platform (device plus cartridge) for partners to fill with their own aqueous or aqueous-ethanol solution. Indications and dosing belong to the partner's finished-product label."}},{"@type":"Question","name":"How does the SMI work?","acceptedAnswer":{"@type":"Answer","text":"A mechanical spring pressurizes the solution through a precision nozzle to produce a slow, prolonged soft mist. It is propellant-free and requires no battery or heating."}},{"@type":"Question","name":"What materials are used?","acceptedAnswer":{"@type":"Answer","text":"The body is polymer. The cartridge is a single-use, ethanol-tolerant polyethylene (PE) cartridge. Drug-contact materials are confirmed under ISO 10993 and extractables/leachables studies during partner qualification."}},{"@type":"Question","name":"What are the key specifications?","acceptedAnswer":{"@type":"Answer","text":"About 15 µL per actuation (nominal target); a respirable fine-particle fraction of 1–5 µm (MMAD ≤5 µm target); a 5 mL PE cartridge; and 60 or 120 actuations. Other parameters are project-specific."}},{"@type":"Question","name":"What is the regulatory status?","acceptedAnswer":{"@type":"Answer","text":"DSB supplies the SMI as an unfilled device platform. Classification and registration depend on the partner's finished combination product and target market. No CE, NMPA, or FDA clearance is claimed."}},{"@type":"Question","name":"How can I partner with DSB?","acceptedAnswer":{"@type":"Answer","text":"For partnership or distribution: walter@dsbmedical.com. For sales: sales@dsbmedical.com."}}]}
+
+BODY:
+Home>Resources>FreeHala™ Combination Inhalation Platform
+FreeHala™
+Brand
+Delivery Modes
+Why FreeHala
+FAQ
+Contact DSB Medical
+Under DSB Medical · Inhalation Portfolio · Combination Drug-Device Platform
+FreeHala™ Combination Drug-Device Inhalation Platform
+One platform, three delivery modes
+
+FreeHala™ is DSB Medical's combination drug-device inhalation platform covering Soft Mist Inhaler (SMI), Dry Powder Inhaler (DPI), and pressurized metered-dose inhaler (pMDI) device technologies for pharmaceutical combination products.
+
+Explore delivery modes
+Read the brand ↗
+BRAND
+One engineering partner across SMI, DPI and pMDI
+
+For pharmaceutical combination products, one platform should flex across delivery modes.
+
+FreeHala™ is the drug-device combination platform in DSB Medical's inhalation portfolio. It is designed for partners who need one engineering partner across multiple inhalation delivery modes — from gentle soft mist to portable dry powder and established pressurized metered-dose therapies.
+
+FreeHala™ is independent of, and strictly separated from, DSB Medical's DXneb™ device-only vibration mesh nebulizer brand, and is offered through the full-chain CDMO for OEM / ODM / Joint Venture development and manufacturing.
+
+SMI soft mist DPI dry powder pMDI pressurized
+FreeHala™
+Combination Drug-Device Platform
+SMI · DPI · pMDI
+Inhalation portfolio · DSB Medical
+Full-chain CDMO: OEM / ODM / JV
+DELIVERY MODES
+Three inhalation delivery modes, one platform
+
+FreeHala™ supports the delivery technologies needed across pharmaceutical combination products.
+
+FreeHala™ · SMI
+SOFT MIST INHALER
+SMI soft mist
+
+Gentle, slow-mist inhalation for controlled respiratory drug delivery across hospital and home care.
+
+✔ Soft mist inhalation
+FreeHala™ · DPI
+DRY POWDER INHALER
+DPI dry powder
+
+Portable, breath-actuated dry powder dosing for convenient respiratory therapy.
+
+✔ Breath-actuated dosing
+FreeHala™ · pMDI
+PRESSURIZED METERED-DOSE INHALER
+pMDI pressurized
+
+Pressurized metered-dose inhalation for established respiratory therapies.
+
+Established therapies
+WHY FREEHALA
+From device technology to combination-product partnership
+🔬
+Combination-ready
+
+Device technologies designed for pharmaceutical combination products across SMI, DPI and pMDI delivery.
+
+🧩
+Multi-mode coverage
+
+One engineering partner across multiple inhalation delivery modes, simplifying product and platform development.
+
+🏭
+Full-chain CDMO
+
+Offered through DSB Medical's full-chain CDMO for OEM, ODM and Joint Venture development and manufacturing.
+
+FAQ
+About FreeHala™
+What is FreeHala™?
+Which delivery modes does FreeHala™ cover?
+How does FreeHala™ relate to DXneb™?
+Is FreeHala™ available for OEM / ODM?
+One platform for combination drug-device delivery
+FreeHala™ is DSB Medical's combination drug-device inhalation platform. To learn about delivery modes and CDMO engagement, contact DSB Medical.
+Contact DSB Medical
+FreeHala™ Home
+Brand
+Delivery Modes
+6-language site
+
+Changzhou DSB Medical Co., Ltd. · FreeHala™ · Inhalation Portfolio · sales@dsbmedical.com · +86-519-88363800
+
+Medical device. Use under the guidance of a healthcare professional. FreeHala™ and DXneb™ are independent brands.
+
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/dxneb.html
+TITLE: Vibrating Mesh Nebulizer Manufacturer | Handheld Mesh Nebulizer | DXneb™
+DESCRIPTION: DXneb™ vibrating mesh nebulizer and handheld mesh nebulizer from DSB Medical, a China medical device manufacturer. NMPA-registered mesh nebulizer for hospital, home and COPD/asthma respiratory care.
+H1: DXneb™ Vibration Mesh Nebulizer
+Every dose of aerosol, delivered precisely
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://en.dsbmedical.com/dxneb.html#organization",
+      "name": "Changzhou DSB Medical Co., Ltd.",
+      "url": "https://en.dsbmedical.com",
+      "description": "DSB Medical provides integrated solutions for precision drug delivery, incontinence care and medical consumables."
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://en.dsbmedical.com/dxneb.html#brand",
+      "name": "DXneb™",
+      "alternateName": "DXneb™",
+      "url": "https://en.dsbmedical.com/dxneb.html",
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Changzhou DSB Medical Co., Ltd."
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "DXneb™-Solo Vibration Mesh Nebulizer",
+      "brand": {
+        "@type": "Brand",
+        "name": "DXneb™"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Changzhou DSB Medical Co., Ltd."
+      },
+      "description": "DXneb™-Solo is the registered vibration mesh nebulizer under DSB Medical's DXneb™ brand, suitable for mechanical ventilation and spontaneous-breathing aerosol delivery."
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://en.dsbmedical.com/dxneb.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What is DXneb™?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DXneb™ is DSB Medical's medical-device vibration mesh nebulizer platform."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Is DXneb™-Solo registered?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. DXneb™-Solo is the registered model under the DXneb™ brand."
+          }
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+Home>Resources>DXneb™ Vibration Mesh Nebulizer
+DXneb™
+Brand
+Models
+Why DXneb
+CDMO
+FAQ
+Contact DSB Medical
+Under DSB Medical · Medical Device Direction · Standalone Vibration Mesh Nebulizer
+DXneb™ Vibration Mesh Nebulizer
+Every dose of aerosol, delivered precisely
+
+DXneb™ is DSB Medical's piezoelectric vibration mesh nebulizer brand. As a medical piezoelectric vibration mesh nebulizer using vibrating mesh technology, it converts liquid medication into a fine, uniform aerosol for hospital nebulization therapy, ICU and respiratory care, and home nebulizer use — available as portable vibration mesh nebulizers, handheld nebulizers and home use nebulizer devices.
+
+Explore the models
+Read the brand ↗
+BRAND
+A standalone device brand for precise delivery
+
+Vibrating mesh technology turns medication into a mist — fine, uniform, accessible.
+
+DXneb™ is a medical piezoelectric vibration mesh nebulizer that uses piezoelectric vibrating mesh technology to convert liquid medication into a uniform, fine aerosol for aerosol delivery during mechanical ventilation and spontaneous breathing — covering hospital, ICU/respiratory and home nebulization.
+
+DXneb™ is a standalone medical device brand, independent of, and strictly separated from, DSB Medical's FreeHala™ combination drug-device platform, focusing on device-direction nebulized delivery.
+
+Piezoelectric vibrating mesh Fine uniform aerosol Hospital & home portable
+DXneb™
+Vibration Mesh Nebulizer Platform
+Vibration Mesh Nebulizer
+Registered models: DXneb™-Solo / DXneb™-Pro
+NMPA: Su-Xie-Zhu-Zhun 20262080132
+MODELS
+DXneb™ core models
+
+Three medical vibration mesh nebulizers covering multi-patient hospital use and home portable nebulization.
+
+DXneb™ · Solo
+REGISTERED MODEL
+DXneb™-Solo (Registered)
+
+The DXneb-Solo vibrating mesh medical nebulizer provides precise aerosol delivery during mechanical ventilation and spontaneous breathing.
+
+View DXneb™-Solo product details → ✔ Registered · 20262080132
+DXneb™ · Pro
+REGISTERED MODEL
+DXneb™-Pro (Registered)
+
+The DXneb-Pro piezoelectric vibration mesh nebulizer is designed for multi-patient, repeated use in hospital settings.
+
+✔ Registered
+DXneb™ · Ultra
+PLANNED MODEL
+DXneb™-Ultra (Planned)
+
+A medical vibration mesh nebulizer planned for portable, extended-use scenarios. Launch details subject to official release.
+
+Planned
+WHY DXNEB
+From nebulization to delivery, every step counts
+💨
+Precise nebulization
+
+Piezoelectric vibrating mesh nebulizes medication into a fine, stable aerosol with controllable delivery, for both mechanical ventilation and spontaneous breathing.
+
+✔️
+Registered compliance
+
+DXneb-Solo and DXneb-Pro are registered medical piezoelectric vibration mesh nebulizer models (Su-Xie-Zhu-Zhun 20262080132), meeting medical device registration requirements.
+
+🏠
+Hospital & home
+
+From multi-patient reuse in ICU/respiratory care to portable, handheld home nebulization, one DXneb™ line covers the full therapy scenario.
+
+CDMO CAPABILITY
+From vibration mesh nebulizer concept to commercial supply
+
+DXneb™ is backed by DSB Medical's full in-house CDMO capability — device design, tooling, high-precision automated assembly, regulatory and quality compliance — supporting OEM, ODM and joint-development programs for piezoelectric vibration mesh nebulizers.
+
+DSB Medical holds MDR CE, NMPA, FDA and ISO 13485 quality certifications, providing a compliant, traceable manufacturing pathway for medical piezoelectric vibration mesh nebulizer programs.
+
+FAQ
+About DXneb™
+What is the DXneb™ brand?
+Is DXneb™-Solo registered?
+How does DXneb™ relate to FreeHala™?
+Which scenarios does DXneb™ cover?
+Deliver every breath precisely
+DXneb™ is DSB Medical's medical vibration mesh nebulizer brand. To learn about models, certification and hospital/home nebulization solutions, contact DSB Medical.
+Contact DSB Medical
+DXneb™ Home
+Brand
+Models
+6-language site
+
+Changzhou DSB Medical Co., Ltd. · DXneb™ · FreeHala™ · Su-Xie-Zhu-Zhun 20262080132 · service@dsbmedical.com · +86-519-88363800
+
+Medical device. Use under the guidance of a healthcare professional. DXneb™ and FreeHala™ are independent brands.
+
+Vibrating Mesh Nebulizer Buying Terms
+Handheld mesh nebulizer — A handheld mesh nebulizer delivers medication quietly and portably for home and hospital use.
+Medical vibrating mesh nebulizer — A medical vibrating mesh nebulizer uses a vibrating mesh plate for low residual volume aerosol delivery.
+Mesh nebulizer manufacturer China — DSB Medical is a China mesh nebulizer manufacturer and supplier with NMPA registration and OEM/ODM support.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/goldhaler.html
+TITLE: GoldHaler® Neonatal RDS Nebulization | DSB Medical
+DESCRIPTION: GoldHaler® is DSB Medical's nebulization platform designed for neonatal respiratory distress syndrome (RDS) care in neonatal intensive care settings.
+H1: GoldHaler® Neonatal RDS Nebulization
+Gentle aerosol care for the smallest airways
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "Product",
+  "name": "GoldHaler® Neonatal RDS Nebulization Platform",
+  "brand": {
+    "@type": "Brand",
+    "name": "GoldHaler®"
+  },
+  "manufacturer": {
+    "@type": "Organization",
+    "name": "Changzhou DSB Medical Co., Ltd."
+  },
+  "description": "GoldHaler® is a mesh nebulizer platform for neonatal respiratory distress (RDS), using gentle vibration-mesh nebulization for newborn respiratory care.",
+  "url": "https://en.dsbmedical.com/goldhaler.html"
+}
+
+BODY:
+Home>Resources>GoldHaler® Neonatal RDS Nebulization
+GoldHaler®
+Brand
+Neonatal Care
+Why GoldHaler
+FAQ
+Contact DSB Medical
+Under DSB Medical · Inhalation Portfolio · Neonatal RDS Nebulization
+GoldHaler® Neonatal RDS Nebulization
+Gentle aerosol care for the smallest airways
+
+GoldHaler® is DSB Medical's vibration-mesh nebulization platform designed for neonatal respiratory distress syndrome (RDS) care. It is engineered for gentle, low-stress aerosol delivery in neonatal intensive care and newborn respiratory support.
+
+Explore neonatal care
+Read the brand ↗
+BRAND
+Gentle vibration-mesh nebulization for neonatal RDS
+
+For newborn respiratory care, delivery must be gentle — small doses, low stress, precise aerosol.
+
+GoldHaler® addresses the delicate delivery needs of neonatal respiratory support. Its vibration-mesh approach nebulizes without heat or high shear, supporting formulations that require gentle handling while enabling consistent aerosol generation.
+
+GoldHaler® is part of DSB Medical's inhalation portfolio and is offered through the company's full-chain CDMO for OEM / ODM / Joint Venture development and manufacturing.
+
+Vibration-mesh technology Neonatal RDS care Gentle aerosol delivery
+GoldHaler®
+Neonatal RDS Nebulization Platform
+Vibration-Mesh Nebulizer
+Inhalation portfolio · DSB Medical
+Full-chain CDMO: OEM / ODM / JV
+NEONATAL CARE
+Care scenarios for newborn respiratory support
+
+A single platform line for neonatal RDS nebulization and related newborn respiratory support.
+
+GoldHaler® · RDS
+NEONATAL RESPIRATORY CARE
+Neonatal RDS nebulization
+
+Gentle aerosol delivery designed for neonatal respiratory distress syndrome care in neonatal intensive care settings.
+
+✔ Neonatal RDS care
+GoldHaler® · Gentle
+GENTLE TECHNOLOGY
+Gentle by design
+
+Vibration-mesh nebulization delivers without heat or high shear, engineered for minimal stress on the smallest airways.
+
+✔ Vibration-mesh
+GoldHaler® · CDMO
+PLATFORM DEVELOPMENT
+CDMO engagement
+
+Offered through DSB Medical's full-chain CDMO for OEM, ODM and Joint Venture development and manufacturing.
+
+OEM / ODM / JV
+WHY GOLDHALER
+From gentle delivery to manufacturing partnership
+👶
+Neonatal-first design
+
+Built for newborn respiratory support, where treatment conditions demand minimal stress and precise aerosol delivery.
+
+💨
+Gentle nebulization
+
+Vibration-mesh delivery avoids heat and high shear, supporting gentle formulations and consistent aerosol generation.
+
+🏭
+Full-chain CDMO
+
+GoldHaler® is part of DSB Medical's inhalation portfolio with OEM / ODM / Joint Venture development and manufacturing.
+
+FAQ
+About GoldHaler®
+What is GoldHaler®?
+What technology does GoldHaler® use?
+Is GoldHaler® available for OEM / ODM?
+Where can I learn more about DSB Medical's CDMO?
+Gentle care for the smallest airways
+GoldHaler® is DSB Medical's neonatal RDS nebulization platform. To learn about the platform and CDMO engagement, contact DSB Medical.
+Contact DSB Medical
+GoldHaler® Home
+Brand
+Neonatal Care
+6-language site
+
+Changzhou DSB Medical Co., Ltd. · GoldHaler® · Inhalation Portfolio · sales@dsbmedical.com · +86-519-88363800
+
+Medical device. Use under the guidance of a healthcare professional. GoldHaler® is part of DSB Medical's inhalation portfolio.
+
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/didun.html
+TITLE: Adult Incontinence Products Manufacturer | Adult Pull-Ups, Diapers & Bed Pads
+DESCRIPTION: Didun adult incontinence care by DSB Medical: adult pull-ups, overnight diapers, incontinence pads, bed pads and underpads for elderly and long-term care.
+H1: Crafted with care.
+Guarding your dignity.
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"Changzhou DSB Medical Co., Ltd.","alternateName":"DSB Medical","url":"https://en.dsbmedical.com","description":"DSB Medical is a total-solution provider for the living scenarios of people with disabilities, with end-to-end control of design, precision molds, automated production and regulatory registration."},
+{"@type":"Brand","@id":"https://en.dsbmedical.com/didun.html#brand","name":"Didun","alternateName":"帝盾","slogan":"Crafted with care. Guarding your dignity.","url":"https://en.dsbmedical.com/didun.html","manufacturer":{"@type":"Organization","name":"Changzhou DSB Medical Co., Ltd."}},
+{"@type":"Product","name":"Didun Adult Incontinence Care Series","brand":{"@type":"Brand","name":"Didun"},"manufacturer":{"@type":"Organization","name":"Changzhou DSB Medical Co., Ltd."},"description":"Premium, Active, Care and Catheter series for adult incontinence care, adult diapers and external catheters."},
+{"@type":"FAQPage","@id":"https://en.dsbmedical.com/didun.html#faq","mainEntity":[{"@type":"Question","name":"What product lines does Didun offer?","acceptedAnswer":{"@type":"Answer","text":"Didun offers Premium, Active and Care series plus a Catheter series, covering adult diapers, external catheters and incontinence care products."}},{"@type":"Question","name":"Which company does Didun belong to?","acceptedAnswer":{"@type":"Answer","text":"Didun is the incontinence care brand of DSB Medical."}}]}
+]}
+
+BODY:
+Home>Products>Didun Incontinence Care
+Didun · DSB Medical
+Brand Story
+Product Lines
+Our Promises
+FAQ
+Contact
+Contact Didun
+A DSB MEDICAL BRAND · SOLUTIONS FOR DAILY LIVING
+Crafted with care.
+Guarding your dignity.
+
+Incontinence should not be the beginning of loss, but the beginning of being cared for. Didun provides adult diapers and dignity incontinence care products, turning DSB Medical's heritage of cleanliness into a line of defense that stands guard for dignity — so every person lives with grace, comfort and self-respect.
+
+Explore Didun Series
+Read the brand story ↗
+BRAND STORY
+In life, there is always a line of defense that belongs to you
+
+“Didun” comes from “DSB” — inspired by Disposable care consumables.
+
+From its first day, DSB Medical has been a company rooted in “single-use cleanliness” and committed to the dignity of people living with disability. Didun carries that purpose into every home: not a nappy, but a shield standing guard for dignity.
+
+Every absorbent core is a silent promise; every close-fitting layer gently places “we've got you” on the wearer. Behind it all is DSB Medical's full-chain, end-to-end control — from design and precision tooling to automated production and regulatory registration — locking in quality at the source.
+
+We protect not only the body, but the dignity worn by time. We deliver more than a product — we deliver peace of mind for a person's entire living scenario.
+
+DSB Medical = a comprehensive solution provider for the living scenarios of people with disabilities.
+Didun = that mission, gently realized in every home.
+
+🛡️
+Didun · A quiet promise
+
+Multi-layer absorbent core · Close-fitting protection · A silent commitment
+
+Full-chain-backed quality.
+Every layer you can trust.
+
+PRODUCT LINES
+Didun Product Lines
+
+From daytime to nighttime, covering the full care scenario for people with incontinence — every one made for reassurance.
+
+Didun · Premium
+PREMIUM
+Premium Series
+
+Precisely made, thin yet strong — for those seeking enhanced comfort.
+
+Didun · Active
+ACTIVE
+Active Series
+
+Close-fitting and flexible, free daytime movement, at ease all day.
+
+Didun · Care
+CARE
+Care Series
+
+Long-lasting overnight absorption for peaceful, uninterrupted sleep.
+
+Didun · Catheter
+CATHETER
+Catheter Series
+
+Precise drainage, leak protection and clean external catheter care with Didun catheters.
+
+THREE PROMISES
+Three quiet promises
+
+Every layer of Didun design is a promise that needs no words.
+
+🫂
+Guard Dignity
+
+More than absorption — protecting the self-respect worn by time. Every use is dignified and reassuring; incontinence is no longer a synonym for loss.
+
+🛡️
+Close-Fit Protection
+
+Multi-layer absorbent core and precision close-fitting design, quietly placing “we've got you” on the wearer — day and night.
+
+🌈
+Affordable Access
+
+DSB Medical's full-chain cost advantage makes quality care accessible to more people — supported by long-term care insurance and public procurement.
+
+CARE BY NEED
+The right protection for every need
+
+Incontinence care is not one-size-fits-all. Didun designs by scenario to make care more precise and less stressful.
+
+🧓
+Elderly care
+
+Long-term care focus: absorbency, breathability and pressure-sore protection for day and night.
+
+🛏️
+Post-op / bedridden
+
+High absorbency and leak protection to reduce turning and lower skin-damage risk.
+
+👩
+For women
+
+Contoured, thin and breathable designs for comfortable everyday wear.
+
+👨
+For men
+
+Works with male external catheters for precise drainage, day and night.
+
+FAQ
+Incontinence care FAQs
+
+Common questions on choosing and using incontinence products.
+
+How do I choose incontinence products for men, women or the elderly?
+Adult diapers vs pull-ups — which is better?
+How can I prevent skin damage in incontinence care?
+Can I buy wholesale or OEM?
+Choose a line of reassurance for your loved ones
+Didun is DSB Medical's full-chain-backed care for the living scenarios of people with disabilities. Talk to us about products and services.
+Contact Didun
+Didun Home
+Brand Story
+Product Lines
+Incontinence Care
+6-language Site
+
+Changzhou DSB Medical Co., Ltd. · Didun · service@dsbmedical.com · +86-519-88363800
+
+Adult Incontinence Product Types
+Adult pull-ups / overnight diapers — Adult pull-ups and overnight diapers support dignity, fit and extended protection.
+Bed pads / underpads — Bed pads and underpads protect mattresses and reduce linen changes.
+Incontinence pads — Incontinence pads are available for light-to-heavy protection in long-term care.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/urine-bag.html
+TITLE: Urine Drainage Bag Manufacturer & Supplier China | Leg Bag, Night Bag, Anti-Reflux
+DESCRIPTION: DSB Medical manufactures and supplies urine drainage bags, anti-reflux urine bags, catheter leg bags and night drainage bags. China OEM/ODM manufacturer for hospital, long-term care and home use.
+H1: Urinary Drainage Bag / Catheter Bag with Anti-Reflux Valve, 2000ml
+
+JSON-LD:
+{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://en.dsbmedical.com/#organization", "name": "Changzhou DSB Medical Co., Ltd.", "url": "https://en.dsbmedical.com"}, {"@type": "Product", "name": "Urinary Drainage Bag / Catheter Bag with Anti-Reflux Valve, 2000ml", "brand": {"@type": "Brand", "name": "DSB Medical"}, "manufacturer": {"@type": "Organization", "name": "Changzhou DSB Medical Co., Ltd."}, "description": "Disposable urinary drainage bag and catheter bag with anti-reflux valve and 2000ml capacity for hospital ICU, bedridden care and home use. Manufactured under ISO 13485 certified quality management systems."}, {"@type": "FAQPage", "@id": "https://en.dsbmedical.com/urine-bag.html#faq", "mainEntity": [{"@type": "Question", "name": "What is a urine collection bag?", "acceptedAnswer": {"@type": "Answer", "text": "A urine collection bag is a disposable medical device that collects urine from a catheter or external collection device, with graduated measurement and anti-reflux protection."}}, {"@type": "Question", "name": "What is a urine drainage bag?", "acceptedAnswer": {"@type": "Answer", "text": "A urine drainage bag is a closed drainage system connected to a urinary catheter, designed for continuous bedside urine drainage with leak-proof valves."}}, {"@type": "Question", "name": "Can DSB Medical provide OEM/ODM urine bag manufacturing?", "acceptedAnswer": {"@type": "Answer", "text": "Yes. DSB Medical provides OEM/ODM manufacturing for disposable urine collection bags and urine drainage bags with compliance documentation."}}]}]}
+
+BODY:
+Home>Resources>Urine Bag & Drainage Solutions
+Urine Bag & Drainage
+Brand
+Product Lines
+Why DSB
+FAQ
+Contact DSB Medical
+Under DSB Medical · Incontinence Care · Medical Consumables
+Urinary Drainage Bag / Catheter Bag with Anti-Reflux Valve, 2000ml
+
+Urine Meter / Urometer 2000ml · Urine Output Monitoring
+
+Explore product lines
+Read the brand ↗
+BRAND
+Disposable urine management for hospital and home care
+
+From ICU drainage to home incontinence care, fluid management must be safe and reliable.
+
+Also known as a urinary drainage bag or catheter bag, this single-use system is available for both external (sheath/condom) and indwelling (Foley) catheter use, including bedside and leg bag configurations. For hourly urine output monitoring, choose the urine meter (urometer) with a 2000 ml measurement chamber and clear volume markings; use a fluid balance chart as the nursing documentation reference.
+
+DSB Medical's urine collection bags and urine drainage bags are single-use medical consumables designed for bedside urine management, pediatric specimen collection, and long-term care. Each product is engineered for secure connections, reliable volume measurement, and leak-resistant performance.
+
+The urine bag line is part of DSB Medical's incontinence care portfolio and is offered through the full-chain CDMO for OEM / ODM / Joint Venture development and manufacturing.
+
+Single-use medical consumables ICU & bedridden care OEM / ODM available
+Urine Bag
+Urine Collection & Drainage Solutions
+Incontinence Care
+Incontinence care portfolio · DSB Medical
+Full-chain CDMO: OEM / ODM / JV
+PRODUCT LINES
+Urine collection and bedside drainage bags
+
+Disposable, single-use bags for secure urine management in hospital and home care settings.
+
+Urine Bag · Collection
+URINE COLLECTION BAG
+Urine collection bags
+
+Disposable, single-use urine collection bags for bedside use, specimen collection and routine drainage.
+
+✔ Single-use
+Urine Bag · Drainage
+URINE DRAINAGE BAG
+Urine drainage bags
+
+Bedside urine drainage bags for hospital ICU, long-term bedridden care and home incontinence management.
+
+✔ Bedside drainage
+Urine Bag · Accessories
+COLLECTION & ACCESSORIES
+Specimen & pediatric
+
+Collection accessories for pediatric specimen collection and controlled urine measurement.
+
+OEM / ODM
+WHY DSB
+Reliable fluid management from materials to manufacturing
+🛡️
+Safe materials
+
+Medical-grade, single-use materials engineered for safe urine contact and reliable bedside use.
+
+💧
+Leak-resistant design
+
+Secure connections and leak-resistant construction support consistent collection and drainage.
+
+🏭
+Full-chain CDMO
+
+Offered through DSB Medical's full-chain CDMO for OEM, ODM and Joint Venture development and manufacturing.
+
+FAQ
+About urine collection & drainage bags
+What is a urine collection bag?
+What is a urine drainage bag?
+Can DSB Medical provide OEM/ODM urine bag manufacturing?
+Which scenarios do DSB urine bags cover?
+Safe, leak-proof urine management
+DSB Medical manufactures single-use urine collection and drainage bags. To learn about the product line and CDMO engagement, contact DSB Medical.
+Contact DSB Medical
+Urine Bag Home
+Brand
+Product Lines
+6-language site
+
+Changzhou DSB Medical Co., Ltd. · Urine Bag · Incontinence Care · sales@dsbmedical.com · +86-519-88363800
+
+Medical device. Use under the guidance of a healthcare professional. Urine Bag is part of DSB Medical's incontinence care portfolio.
+
+Urine Drainage Bag Types & OEM/ODM
+Urine drainage bag / urinary drainage bag — Disposable urine drainage bags collect urine from a Foley or external catheter and are offered in 2000 mL and other volumes.
+Leg bag / night drainage bag — Catheter leg bags support daytime mobility, while night drainage bags provide higher-capacity overnight collection.
+Anti-reflux urine bag — Anti-reflux urine bags reduce backflow and support infection-control workflows in hospitals and long-term care.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/Incontinence.html
+TITLE: Incontinence Care - Male External Catheters & Urine Bags | DSB Medical
+DESCRIPTION: DSB Medical incontinence care solutions: male external catheters (condom catheters), urine bags and drainage bags in 100% medical-grade, latex-free silicone.
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical (Changzhou) Co., Ltd.","url":"https://en.dsbmedical.com","description":"End-to-end medical device manufacturing group for elder-care and incontinence care, with full supply chain control."},
+{"@type":"MedicalDevice","@id":"https://en.dsbmedical.com/incontinence.html#device","name":"Incontinence Care Products","manufacturer":{"@type":"Organization","name":"DSB Medical"},"description":"External catheters, urine bags and adult incontinence care products under the DIDUN and FluidMS brands."},
+{"@type":"Brand","@id":"https://en.dsbmedical.com/incontinence.html#brand","name":"DIDUN","url":"https://en.dsbmedical.com/incontinence.html","manufacturer":{"@type":"Organization","name":"DSB Medical"}},
+{"@type":"FAQPage","@id":"https://en.dsbmedical.com/incontinence.html#faq","mainEntity":[{"@type":"Question","name":"What incontinence care products does DSB Medical supply?","acceptedAnswer":{"@type":"Answer","text":"DSB Medical supplies external catheters, urine bags and adult care products under the DIDUN and FluidMS brands."}},{"@type":"Question","name":"Does DSB Medical have ISO 13485?","acceptedAnswer":{"@type":"Answer","text":"Yes, ISO 13485 quality system is in place, with CE and other international registrations."}}]}
+]}
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Incontinence Healthcare","url":"https://en.dsbmedical.com/Incontinence.html","description":"DSB Medical incontinence care solutions: male external catheters (condom catheters), urine bags and drainage bags in 100% medical-grade, latex-free silicone."},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://en.dsbmedical.com/"},{"@type":"ListItem","position":2,"name":"Incontinence Healthcare","item":"https://en.dsbmedical.com/Incontinence.html"}]}]}
+
+BODY:
+About      Careers      Investors      Partnerships
+
+Products & Services
+
+Markets
+
+News & Events
+
+Integrated Solutions
+
+Contact Us
+
+Language
+
+Incontinence Healthcare
+
+Patient-centered incontinence & delivery devices
+
+Product Center
+
+Technology and Equipment
+
+Service
+
+Incontinence
+Explore categories:
+Male External Catheter
+Male external catheter manufacturer
+Fecal Management System
+
+Product Center
+
+Didun™ Male External Catheter (Condom Catheter)
+
+FluidMS® Urine bag
+
+Vomit bag
+
+FluidMS® Fecal Management System
+
+Didun™ Male External Catheter (Condom Catheter)
+
+FluidMS® Urine bag
+
+Vomit bag
+
+FluidMS® Fecal Management System
+
+Didun™ Male External Catheter (Condom Catheter)
+
+FluidMS® Urine bag
+
+Vomit bag
+
+FluidMS® Fecal Management System
+
+Feature Product:
+
+Male external catheter
+
+1.Reduce risk of catheter‐associated urinary  tract infection (CAUTI);
+
+2.Completely external, noninvasive solution  to urinary incontinence;
+
+3.ilicone made, eliminate the risk of latex‐  related allergic reactions;
+
+Discover More
+
+Incontinence Healthcare
+
+Provide incontinence devices and services such as urine and urine for disabled persons, serving multiple countries and regions.
+
+Incontinence product solutions
+
+Management of male and female urinary incontinence, instead of diapers, to solve eczema and bedsore; Substitute catheterization to reduce urinary tract infection; Greatly improve the quality of life of disabled and disabled people.
+
+Characteristic
+
+Product specialization
+
+Management and intelligent nursing of male and female incontinence
+
+Fully reinforced
+
+Own the world's leading production line and fully automated production
+
+Huge production capacity
+
+The annual capacity of urethral catheters is 20 million pcs, which is in the forefront of the world
+
+High quality environment
+
+100000 level purification workshop to ensure an excellent manufacturing environment
+
+Our Advantages
+
+DSB has a professional incontinence product research and development team, and has cooperated with many universities, disabled persons' federations and social groups to form an integrated solution for research and development, clinical research and market application.
+
+DSB Advantages
+
+● Perfect quality system
+
+● Professional R&D team
+
+● Sufficient capacity
+
+Incontinence Care FAQs
+
+1. How do I choose incontinence products?
+Focus on absorbency, breathability, leak protection, and whether the user is active or bed-bound.
+
+2. Adult diapers vs pull-ups — which is better?
+Pull-ups suit active users; side-tab diapers are easier for bed-bound care.
+
+3. How can I prevent skin damage?
+Change frequently, keep skin dry, and use gentle cleansing plus a skin barrier.
+
+4. Can I buy wholesale or OEM?
+Yes — DSB Medical supports wholesale, OEM/ODM and B2B distribution. Learn about Didun
+
+Global Services
+
+It sells well in 90 countries and regions around the world, and provides CDMO solutions and products for many international medical companies.
+
+North America
+Asia
+Africa
+Europe
+South America
+Australia
+
+If you have more needs?
+
+Welcome your message, we will reply you in time.
+
+Online Message
+COOKIES
+
+Our website uses cookies and similar technologies to personalize the advertising shown to you and to help you get the best experience on our website. For more information, see our Privacy & Cookie Policy
+
+Manage cookies allow all
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road, Changzhou Economic Development Zone, Jiangsu Province, China
+
+About
+
+Our History
+
+Our Brands
+
+Vision, Mission & Values
+
+Facts & Figures
+
+Governance
+
+Quality
+
+Research & Development
+
+Regulatory Support
+
+Health, Safety & Environment
+
+DSB Steps
+
+Offering
+
+Drug Delivery Device
+
+Incontinence Healthcare
+
+Disposable Medical Consumables
+
+Biological Chip
+
+Mold Development
+
+Automation Development
+
+Equipment/ Processing Capability
+
+Packaging Capablility
+
+Services
+
+News & Event
+
+Company News
+
+Industry Information
+
+Media Report
+
+Video
+
+Contact Us
+
+Contact Information
+
+Online Message
+
+邮箱
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+电话
+
+0086-0519-88363800
+
+Online Message
+
+Online Message
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+DSB Medical – FDA & CE Approved Disposable Medical Supplies Manufacturer for Europe & USA.      Privacy Policy  |  SEO
+
+Business license
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/about.html
+TITLE: About DSB Medical | 24+ Years Manufacturing
+DESCRIPTION: DSB Medical is an end-to-end manufacturing group for elder care: design, mold, automated production, compliance. 24+ years, ISO 13485. EU MDR CE certified (Class IIa), FDA registered, SFDA Saudi registered, NMPA medical device registered.
+H1: About DSB Medical — End-to-End Manufacturing Group
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical (Changzhou) Co., Ltd.","url":"https://en.dsbmedical.com","description":"DSB Medical is an end-to-end manufacturing group for elder care: design, mold, automated production, compliance.","foundingDate":"2010","foundingLocation":{"@type":"Place","name":"Changzhou, Jiangsu, China"}},
+{"@type":"AboutPage","@id":"https://en.dsbmedical.com/about.html#about","name":"About DSB Medical","url":"https://en.dsbmedical.com/about.html","description":"DSB Medical is an end-to-end manufacturing group for elder care, with 24+ years in medical disposables.","mainEntity":{"@id":"https://en.dsbmedical.com/#organization"}}
+]}
+
+BODY:
+About DSB Medical — End-to-End Manufacturing Group
+Founded in Changzhou, China, DSB Medical is an end-to-end manufacturing group with 24+ years in medical disposables, controlling design, mold, automation, and compliance.
+Home>Resources>About DSB Medical
+ABOUT DSB MEDICAL
+An end-to-end manufacturing group for care and drug delivery
+
+DSB Medical is an end-to-end manufacturing group headquartered in Changzhou, China, with 24+ years of experience in medical disposables.
+
+We control design, precision molding, automation and compliance under one group — enabling faster development and consistent quality for partners worldwide.
+
+Our portfolio spans elder-care solutions, precision drug delivery and fluid management, supported by ISO 13485 quality systems and full supply chain control.
+
+End-to-End Manufacturing Medical Disposables Elder Care Drug Delivery ISO 13485 OEM / ODM
+DSB Medical
+24+ Years · Changzhou, China
+Design · Mold · Automation · Compliance
+End-to-end manufacturing group
+ISO 13485 · Global sales
+WHY DSB MEDICAL
+One group, from concept to compliant production
+
+We combine decades of manufacturing experience with in-house engineering and quality systems.
+
+🏭
+End-to-End Manufacturing
+
+Design, precision molding, automated production and compliance under one group.
+
+📅
+24+ Years of Medical Disposables
+
+Founded in Changzhou, China, with decades of manufacturing experience.
+
+🧓
+Elder-Care Solutions
+
+Incontinence care, drug delivery and fluid management for dependent living.
+
+🛡️
+ISO 13485 Quality
+
+Certified quality management systems and international compliance.
+
+🔧
+Full Supply Chain Control
+
+In-house mold, tooling and automation for consistent, scalable production.
+
+🌍
+Global Partnership
+
+Products sold worldwide with a six-language website and OEM/ODM programs.
+
+Partner with an end-to-end manufacturer
+Talk to DSB Medical about standard products and OEM/ODM manufacturing programs.
+Contact DSB Medical
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/partnerships.html
+TITLE: Global Partnership Program | Respiratory & Incontinence Care | DSB Medical
+DESCRIPTION: Partner with DSB Medical across respiratory therapy and aging-care management. Regional distribution, OEM/ODM/CDMO, co-branding, and local registration support worldwide.
+H1: Partner with DSB Medical
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://en.dsbmedical.com/partnerships.html#organization",
+      "name": "Changzhou DSB Medical Co., Ltd.",
+      "url": "https://en.dsbmedical.com",
+      "description": "DSB Medical provides integrated solutions for precision drug delivery, continence care, and medical consumables."
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://en.dsbmedical.com/partnerships.html#webpage",
+      "name": "Global Partnership Program | Respiratory & Incontinence Care | DSB Medical",
+      "url": "https://en.dsbmedical.com/partnerships.html",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "DSB Medical",
+        "url": "https://en.dsbmedical.com"
+      },
+      "inLanguage": "en"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://en.dsbmedical.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Partnerships",
+          "item": "https://en.dsbmedical.com/partnerships.html"
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+Home>Partnerships
+Global Partnership Program
+Partner with DSB Medical
+
+A Global Partner Program Across Respiratory Therapy & Incontinence Care
+
+For more than 16 years, Changzhou DSB Medical has built precision in medical disposables and drug-delivery devices. Today we open our Global Partnership Program across two growth-defining care tracks — respiratory therapy and aging-care (incontinence) management — to distributors, device brands, home-care providers, and OEM/ODM/CDMO partners worldwide.
+
+Who We Are
+
+Changzhou DSB Medical Co., Ltd. (帝斯博(常州)医疗用品股份有限公司) is a medical-device manufacturer headquartered in China's Yangtze River Delta manufacturing heartland, within the Changzhou Economic & Technological Development Zone. We design and manufacture medical consumables and drug-delivery devices for global sale, backed by 16+ years of manufacturing experience. Our ability to move from concept to certified, serial-produced device under one transparent supply chain makes DSB Medical a reliable long-term manufacturing and design partner.
+
+Two Growth Tracks, One Capable Partner
+Track A — Respiratory Therapy
+
+DSB Medical develops respiratory drug-delivery platforms across the inhalation device spectrum, including SMI (soft-mist inhaler), DPI and pMDI technologies, the DXneb™ vibration mesh nebulizer platform, and combination drug–device platforms featuring the GoldHaler® and FreeHala™ device ranges. These support respiratory care across COPD, asthma, ICU, NICU, and both pediatric and geriatric patient groups; the GoldHaler® platform is designed for premature-infant NRDS (neonatal respiratory distress syndrome) and NICU applications.
+
+Track B — Aging Society & Continence Care
+
+With global populations aging and long-term care demand rising, DSB Medical offers an integrated incontinence-management portfolio: adult incontinence products, the DIDUN male external (condom-type) catheter, urinary drainage bags, the FluidMS® fecal-management system, and Sorafree — an AI-driven continence-and-pressure-injury (wound) intensive-care platform that supports caregivers with data-informed, individualised care guidance and monitoring across incontinence-related care settings. These serve long-term care, in-home/aging-at-home, and ICU settings across institutional and home channels.
+
+Technology Foundation & Compliance Profile
+
+16+ years of device engineering, cleanroom manufacturing capability, and disciplined quality management underpin our platforms.
+
+FDA compliance — applicable device lines. DSB Medical maintains FDA compliance for applicable device lines manufactured in our US FDA-registered establishment. As supporting detail, our FDA Establishment Registration 3008850249 (federal device listing active) documents the facility and its listed devices; facility registration and device listing do not constitute FDA approval of any specific product.
+ISO 13485. We maintain an ISO 13485 quality-management system governing our design and manufacturing processes.
+CE MDR Class IIa. Devices are designed within the framework of CE MDR Class IIa requirements.
+Global events. We are an active exhibitor at international medical-technology trade events including MEDICA and CPHI.
+Full-chain OEM/ODM. From concept and design for manufacturability through tooling, validated production, and global regulatory-file support, we act as an OEM/ODM/CDMO partner across the full chain.
+A Market Supported by Global Demand
+Chronic respiratory disease. Persistent prevalence of COPD and asthma, plus hospital-acquired-infection controls, continues to expand the need for effective, lower-infection-risk inhalation therapy across clinics, ICU and NICU.
+Aging populations. Rising senior populations and household size shifts are lifting demand for dignified, cost-effective continuing care.
+Long-term & home care. Care is migrating out of hospitals toward long-term-care facilities and the home — widening the addressable channel for both respiratory and incontinence products.
+Hospital-acquired-infection control. Non-invasive, single-patient-use designs are increasingly preferred in institutional procurement.
+How We Partner
+Regional distribution. Exclusive or non-exclusive distribution, and brand licensing, across defined territories.
+Private label & full manufacturing. OEM / ODM / CDMO engagement from product design through serial supply.
+Co-branding & local registration support. Joint-brand programs and support for local regulatory registration wherever you sell.
+Channel co-building. Joint development of hospital, KOL, pharmacy-chain, and home-care channels.
+Localized operation. Clinical, training, after-sales, and market-access collaboration tailored to each market.
+Who We're Looking For
+Distributors building respiratory or continence-care portfolios in their region.
+Medical-device brands seeking a certified, full-chain OEM/ODM manufacturing partner.
+Pharmacy chains & consumables platforms sourcing quality care products at scale.
+Home-care service providers delivering aging-care and continence solutions to end users.
+CDMO customers wanting design, regulatory-file, and validated-production support in one place.
+How We Support Our Partners
+Regulatory & registration files for device submissions in your market.
+Samples and configurable product specifications.
+Technical & clinical training and on-site support.
+Clinical documentation to support market and tender positioning.
+Marketing collateral and localized materials under your brand.
+Joint exhibition presence at global events.
+Rapid-response commercial and technical support with a single accountable point of contact.
+Start the Conversation
+
+Becoming a DSB Medical partner begins with a short conversation about your market, your channels, and your product goals. Tell us where you operate and what you need — distribution, brand/OEM manufacturing, or co-development — and our partnerships team will respond with a concrete, tailored proposal.
+
+Contact — Partnerships / OEM & Distribution inquiries: walter@dsbmedical.com
+
+Headquarters — Changzhou Economic & Technological Development Zone, Changzhou, Jiangsu, China.
+
+Let's build your market together
+
+Talk to us about distribution, brand/OEM manufacturing, or co-development in your region.
+
+Contact DSB Medical
+
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/cdmo.html
+TITLE: Medical Device Manufacturer & Supplier China | ISO 13485 CDMO
+DESCRIPTION: DSB Medical is a full-chain China medical device manufacturer, supplier and CDMO. ISO 13485 certified, OEM/ODM and contract manufacturing for disposable medical products, inhalation devices and fluid management.
+H1: Full-Chain Medical Device CDMO
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "Service",
+  "serviceType": "Medical Device CDMO",
+  "name": "Full-Chain Medical Device CDMO",
+  "provider": {
+    "@type": "Organization",
+    "name": "Changzhou DSB Medical Co., Ltd.",
+    "alternateName": "DSB Medical",
+    "url": "https://en.dsbmedical.com/"
+  },
+  "areaServed": "Worldwide",
+  "description": "Full-chain medical device CDMO covering design, precision mold tooling, automated assembly, regulatory compliance, and OEM/ODM/Joint Venture manufacturing for drug-delivery and care devices.",
+  "url": "https://en.dsbmedical.com/cdmo.html"
+}
+
+BODY:
+Full-Chain Medical Device CDMO
+From microfluidics to compliance — we design, mold, automate and validate drug-delivery and care devices end-to-end.
+Home>Resources>OEM/ODM & CDMO Services
+WHY DSB MEDICAL
+One partner, full control, global compliance
+
+DSB Medical is a full-chain CDMO partner for drug-delivery and care devices, from device concept through mold, automation and validation.
+
+EU MDR CE Certified · Class IIa — among fewer than 10 companies worldwide with this certification. ISO 13485 certified, with full regulatory compliance across OEM / ODM / Joint Venture engagement models.
+
+Certification scope note: the EU MDR CE Class IIa certification referenced here applies to our FluidMS fecal management system. We present regulatory claims only for certified devices.
+
+CDMO
+Design · Mold · Automation
+Compliance · OEM / ODM / JV
+EU MDR CE Class IIa · ISO 13485
+Full-chain device manufacturing
+OUR CAPABILITIES
+Full-chain capabilities, from component to finished device
+
+One engineering and manufacturing partner across design, mold, automation and compliance.
+
+📐
+Design
+
+Precision drug-delivery engineering, microfluidics and micro-perforation, device architecture and human-factor design.
+
+🔧
+Mold
+
+In-house micro-precision mold design and tooling for consistent, high-tolerance components.
+
+⚙️
+Automation
+
+Automated assembly and inspection lines for high-volume, consistent output.
+
+🛡️
+Compliance
+
+EU MDR Class IIa, ISO 13485, NMPA registration and global regulatory pathways.
+
+🤝
+Engagement
+
+OEM, ODM and Joint Venture models, from component to finished device.
+
+🧬
+Large-Molecule Delivery
+
+Vibration-mesh nebulization without heat or high shear, preserving proteins and nucleic acids.
+
+CAPABILITY IN ACTION
+Platforms that prove our full-chain capability
+FreeHala™
+
+Combination drug-device inhalation platform: SMI / DPI / pMDI.
+
+DXneb™
+
+Vibration mesh nebulizer platform with gentle vibration-mesh nebulization that preserves large molecules.
+
+GoldHaler®
+
+Nebulization for neonatal respiratory distress (RDS).
+
+Let’s build together
+Have a device in mind, or a pipeline to nebulize? Tell us your vision.
+Contact DSB Medical
+Medical Device Supplier & CDMO Capabilities
+Medical device supplier China / manufacturer China — DSB Medical is a full-chain medical device supplier and manufacturer in China.
+ISO 13485 certified manufacturer — Manufacturing runs under an ISO 13485 certified quality management system.
+Disposable medical products manufacturer — DSB Medical provides OEM/ODM for disposable medical products, inhalation devices and fluid management lines.
+d
++
+
+
+============================================================
+## https://en.dsbmedical.com/contact.html
+TITLE: Contact Us - DSB Medical
+DESCRIPTION: Contact DSB Medical for male external catheters, incontinence care products, drug delivery devices and CDMO manufacturing quotes.
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://en.dsbmedical.com/#organization","name":"DSB Medical","alternateName":["Changzhou DSB Medical Co., Ltd.","帝斯博医疗"],"url":"https://en.dsbmedical.com","logo":"https://en.dsbmedical.com/logo.png","description":"FDA & CE certified medical device manufacturer specializing in SMI soft mist inhalers, external catheters, and incontinence care products with 20M annual production capacity.","foundingDate":"2010","address":{"@type":"PostalAddress","addressLocality":"Changzhou","addressRegion":"Jiangsu","addressCountry":"CN"},"contactPoint":[{"@type":"ContactPoint","telephone":"+86-519-88363800","contactType":"customer service","availableLanguage":["English","Chinese"]},{"@type":"ContactPoint","telephone":"+86-18651272568","contactType":"sales","availableLanguage":["English","Chinese"]}],"sameAs":["https://www.linkedin.com/company/dsbmedical","https://www.facebook.com/people/Changzhou-DSB-Medical-Male-External-Catheter/100083188479133","https://twitter.com/DSBMEDICAL23"],"makesOffer":[{"@type":"Offer","itemOffered":{"@type":"Product","name":"SMI Soft Mist Inhaler","category":"Drug Delivery Device"}},{"@type":"Offer","itemOffered":{"@type":"Product","name":"Male External Catheter","category":"Incontinence Care"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"Medical Device CDMO Services","description":"Full-cycle contract development and manufacturing for drug delivery devices"}}],"numberOfEmployees":{"@type":"QuantitativeValue","value":"100"}},{"@type":"WebSite","@id":"https://en.dsbmedical.com/#website","url":"https://en.dsbmedical.com","name":"DSB Medical — FDA & CE Approved Medical Device Manufacturer","description":"FDA and CE certified medical device manufacturer in China. Specializing in SMI soft mist inhalers, external catheters, incontinence care products, and CDMO services for drug delivery devices.","inLanguage":"en","potentialAction":{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://en.dsbmedical.com/search.html?q={search_term_string}"},"query-input":"required name=search_term_string"}}]},{"@type":"BreadcrumbList","@id":"https://en.dsbmedical.com/contact.html#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://en.dsbmedical.com/"},{"@type":"ListItem","position":2,"name":"Contact","item":"https://en.dsbmedical.com/contact.html"}]}]}
+
+BODY:
+About      Careers      Investors      Partnerships
+
+Products & Services
+
+Markets
+
+News & Events
+
+Integrated Solutions
+
+Contact Us
+
+Language
+
+Contact info
+
+Home>Resources>Contact Us
+DSB Medical · Contact Us
+Contact Us
+
+Contact DSB Medical for products, partnerships and regulatory support.
+
+Contact Information
+
+Changzhou DSB Medical Co., Ltd.
+
+📞
+Phone
+
+0086-519-88363800
+
+📧
+Email
+
+service@dsbmedical.com
+sales@dsbmedical.com
+
+📍
+Address
+
+355 Longjin Road, Changzhou Economic Development Zone, Jiangsu, China
+
+Need more information?
+
+Contact us for company profiles, regulatory documents or partnership materials.
+
+Contact Us
+
+Message
+
+Submit Message
+ 
+
+If you have more needs?
+
+Welcome your message, we will reply you in time.
+
+Online Message
+COOKIES
+
+Our website uses cookies and similar technologies to personalize the advertising shown to you and to help you get the best experience on our website. For more information, see our Privacy & Cookie Policy
+
+Manage cookies allow all
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road, Changzhou Economic Development Zone, Jiangsu Province, China
+
+About
+
+Our History
+
+Our Brands
+
+Vision, Mission & Values
+
+Facts & Figures
+
+Governance
+
+Quality
+
+Research & Development
+
+Regulatory Support
+
+Health, Safety & Environment
+
+DSB Steps
+
+Offering
+
+Drug Delivery Device
+
+Incontinence Healthcare
+
+Disposable Medical Consumables
+
+Biological Chip
+
+Mold Development
+
+Automation Development
+
+Equipment/ Processing Capability
+
+Packaging Capablility
+
+Services
+
+News & Event
+
+Company News
+
+Industry Information
+
+Media Report
+
+Video
+
+Contact Us
+
+Contact Information
+
+Online Message
+
+邮箱
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+电话
+
+0086-0519-88363800
+
+Online Message
+
+Online Message
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+DSB Medical – FDA & CE Approved Disposable Medical Supplies Manufacturer for Europe & USA.      Privacy Policy  |  SEO
+
+Business license
+d
++

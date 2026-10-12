@@ -1,58 +1,2002 @@
-# DSB Medical（ディーエスビー・メディカル）
+# DSB Medical — llms-full.txt (JA)
 
-> 常州ディーエスビー・メディカル — 失禁ケアと薬物送達デバイス（SMI吸入器・自動注射器）。
-
-- [ホーム](https://ja.dsbmedical.com/): DSBメディカル公式ホームページ
+Full rendered content of core pages, for AI crawlers.
 
 
-## 製品・ソリューション
 
-- [製品センター](https://ja.dsbmedical.com/products.html): 製品・サービス概要
-- [薬物送達デバイス](https://ja.dsbmedical.com/drug-delivery.html): SMI吸入器・自動注射器プラットフォーム
-- [吸入デバイス](https://ja.dsbmedical.com/inhalation.html): 吸入デバイス・定量吸入器
-- [FluidMS® 排便管理システム](https://ja.dsbmedical.com/fluidms.html): 排便ドレナージ・管理システム
-- [FreeHala™ 吸入プラットフォーム](https://ja.dsbmedical.com/freehala.html): 薬剤-デバイス複合吸入プラットフォーム（SMI/DPI/pMDI）
-- [DXneb™ ネブライザー](https://ja.dsbmedical.com/dxneb.html): ポータブルメッシュネブライザー
-- [Goldhaler® MDI](https://ja.dsbmedical.com/goldhaler.html): 加圧式定量吸入器（pMDI）
-- [帝盾® 男性用外部カテーテル](https://ja.dsbmedical.com/didun.html): 外部/コンドームカテーテル
-- [蓄尿バッグ](https://ja.dsbmedical.com/urine-bag.html): 蓄尿バッグ・関連用品
-- [失禁ケア](https://ja.dsbmedical.com/Incontinence.html): 成人失禁ケア製品
-- [医療消耗品](https://ja.dsbmedical.com/consumbles.html): 使い捨て医療消耗品
-- [使い捨てケア消耗品](https://ja.dsbmedical.com/Disposable1.html): 単回使用ケア・ドレナージ消耗品
-- [金型・ツーリング](https://ja.dsbmedical.com/Mold.html): 精密射出成形金型・カスタム
-- [バイオチップ](https://ja.dsbmedical.com/chip.html): マイクロ流体チップ・RFIDバイオセンサー
-- [バイオ医薬品ソリューション](https://ja.dsbmedical.com/biologic.html): バイオ医薬品の包装・送達
-- [抗凝固ソリューション](https://ja.dsbmedical.com/anticoaugulants.html): 抗凝固市場ソリューション
+============================================================
+## https://ja.dsbmedical.com/
+TITLE: DSB Medical | 男性用外部カテーテル・尿バッグ・成人用おむつ・SMI吸入器CDMOメーカー
+DESCRIPTION: DSB Medicalは中国常州の医療機器メーカー。男性用外部カテーテル、尿バッグ、失禁ケア用品、SMIソフトミスト吸入器・圧電メッシュネブライザーなどの薬物送達デバイスのCDMOサービスを提供。NMPA医療機器登録、EU MDR CE認証（Class IIa）、FDA登録、SFDAサウジアラビア登録、ISO13485認証取得。
+H1: 
+                            
+                            生物学的チップ
+                            
+                        
 
-## 会社情報
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ja.dsbmedical.com/#organization",
+      "name": "DSB Medical",
+      "alternateName": [
+        "Changzhou DSB Medical Co., Ltd."
+      ],
+      "url": "https://ja.dsbmedical.com",
+      "logo": "https://ja.dsbmedical.com/logo.png",
+      "description": "NMPA、FDA QSR、CE MDR、ISO 13485認証の医療機器メーカー。SMIソフトミスト吸入器、男性用外部カテーテル、失禁ケア製品、薬物送達デバイスのCDMOサービスを提供。",
+      "foundingDate": "2010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Changzhou",
+        "addressRegion": "Jiangsu",
+        "addressCountry": "CN"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-519-88363800",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "English",
+            "Chinese"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-18651272568",
+          "contactType": "sales",
+          "availableLanguage": [
+            "English",
+            "Chinese"
+          ]
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/dsbmedical",
+        "https://www.facebook.com/people/Changzhou-DSB-Medical-Male-External-Catheter/100083188479133",
+        "https://twitter.com/DSBMEDICAL23"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SMIソフトミスト吸入器",
+            "category": "薬物送達デバイス"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "男性用外部カテーテル",
+            "category": "失禁ケア"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "医療機器CDMOサービス",
+            "category": null
+          }
+        }
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": "100"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ja.dsbmedical.com/#website",
+      "url": "https://ja.dsbmedical.com",
+      "name": "DSB Medical",
+      "description": "中国の医療機器メーカー。男性用外部カテーテル、尿バッグ、失禁ケア製品、SMI吸入器などの薬物送達デバイスCDMOサービスを提供。",
+      "inLanguage": "ja",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://ja.dsbmedical.com/search.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://ja.dsbmedical.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://ja.dsbmedical.com/"
+        }
+      ]
+    }
+  ]
+}
 
-- [会社概要](https://ja.dsbmedical.com/about.html): 会社概要
-- [ブランド](https://ja.dsbmedical.com/brand.html): ブランド・会社紹介
-- [品質・認証](https://ja.dsbmedical.com/quality.html): 品質基準・規制適合
-- [規制サポート](https://ja.dsbmedical.com/support.html): 規制・技術サポート
-- [パートナーシップ](https://ja.dsbmedical.com/partnerships.html): OEM/ODM・代理店
-- [CDMO](https://ja.dsbmedical.com/cdmo.html): 受託開発・製造サービス
-- [コンプライアンス](https://ja.dsbmedical.com/compliance.html): コンプライアンス・認証情報
-- [採用情報](https://ja.dsbmedical.com/careers.html): DSBメディカル採用
-- [投資家情報](https://ja.dsbmedical.com/investors.html): 投資家向け情報
+BODY:
+について     キャリア     投資家     パートナーシップ
 
-## リソース・お問い合わせ
+製品 & サービス
 
-- [ニュース・イベント](https://ja.dsbmedical.com/news_list.html): 企業ニュース・業界情報
-- [リソース](https://ja.dsbmedical.com/resources.html): 製品・ソリューション資料
-- [お問い合わせ](https://ja.dsbmedical.com/contact.html): お問い合わせ
+市場
 
-## FAQ
+ニュース & イベント
 
-- [faq-01-male-external-vs-indwelling.html](https://ja.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
-- [faq-02-condom-catheter-sizing.html](https://ja.dsbmedical.com/faq-02-condom-catheter-sizing.html)
-- [faq-03-latex-free-silicone-vs-latex.html](https://ja.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
-- [faq-04-reduce-cauti-5-ways.html](https://ja.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
-- [faq-05-china-medical-device-quality.html](https://ja.dsbmedical.com/faq-05-china-medical-device-quality.html)
-- [faq-06-male-urinary-incontinence-guide.html](https://ja.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
-- [faq-07-oem-odm-buyers-guide.html](https://ja.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
-- [faq-08-external-catheter-care.html](https://ja.dsbmedical.com/faq-08-external-catheter-care.html)
-- [faq-09-smi-vs-traditional-nebulizer.html](https://ja.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
-- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://ja.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
-- [faq-11-soft-mist-high-lung-deposition.html](https://ja.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
-- [faq-12-china-cdmo-inhalation-devices.html](https://ja.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)
+ソリューション
+
+お問い合わせ
+
+言語の選択
+
+製品、テクノロジー、サービスを組み合わせる 人々の生活を改善するためのカスタマイズされたソリューション。
+
+DSBは、製薬およびヘルスケア業界向けの世界クラスのシステム、プロセス、およびサービスを専門としています。
+
+DSB Medicalは、2010年に中国の常州で設立されました。私たちはCEおよびFDA認定CDMO (契約開発および製造組織) です。過去10年間、私たちは公的および民間部門と提携して、地域のニーズに合わせて高の国際基準を遵守するターンキーヘルスケアプロジェクトを作成しています。私たちの成功した主要プロジェクト失禁ヘルスケア、吸入ドラッグデリバリー、POCTセクションなどの意図されたアプリケーション。
+
+-- 続きを読む
+
+製品 & 機能
+
+ドラッグデリバリー装置
+
+広範な契約製造能力、統合機能、実績のあるテクノロジーに基づく独自のドラッグデリバリーソリューション
+
+もっと見る
+
+失禁ヘルスケア
+
+プロの失禁製品研究開発チームと成熟した統合市場アプリケーションソリューションにより、障害者向けの失禁デバイスとサービスを提供します
+
+もっと見る
+
+使い捨て医療消耗品
+
+使い捨て医療消耗品ソリューションの開発と製造において、機能性と経済性を兼ね備えています。当社の製品は、安全性、信頼性、有効性を確保するための優れた品質とデザインです
+
+もっと見る
+
+バイオチップ
+
+健康評価、臨床診断、個別診断と治療、ライフサイエンス研究、薬物研究開発、分子育種、食品安全、司法の特定などの分野で広く使用されています
+
+もっと見る
+
+テクノロジー & 製造
+
+金型開発
+
+マルチキャビティ医療機器金型の開発に焦点を当て、日本から輸入されたいくつかの高精度CNC工作機械を持っています
+
+もっと見る
+
+オートメーション開発
+
+独立した研究開発と知的財産権を持つ完全に自動化された多数の生産ライン
+
+もっと見る
+
+装置/ 処理能力
+
+業界のハイエンドの特殊フィルム、精密プラスチック部品の生産設備と生産プロセスを持っています
+
+もっと見る
+
+包装のCapablility
+
+カスタマイズされたソリューションを備えた100,000レベルの浄化ワークショップインテリジェント包装生産ライン
+
+もっと見る
+
+サービス
+
+分析テスト機能
+完璧な品质システム、コンプライアンス
+開発支援機能CDMO
+国際サービス能力
+
+さまざまなプロジェクトのお客様との長期的な協力のおかげで、カスタマイズされたサービスを柔軟に設計できます
+
+もっと見る
+COOKIES
+
+当社の Web サイトでは、お客様に表示される広告をパーソナライズし、お客様が当社の Web サイトで最高のエクスペリエンスを得られるよう、Cookie および同様のテクノロジーを使用しています。 詳細については、プライバシーと Cookie ポリシーをご覧ください。
+
+Cookieを管理する すべて許可
+
+ニュース & イベント
+
+中国社会福祉・高齢者ケアサービス協会の代表団が、DSBメディカルを訪問し、視察と調査を行いました。
+
+2025-11-07
+
+DSBメディカルがあなたをアラブの健康2024に招待します
+
+2024-01-13
+
+吸入療法は、喘息および慢性閉塞性肺疾患 (COPD) の治療に不可欠です。
+
+2023-11-30
+
+MEDICA 2023招待状
+
+2023-11-13
+
+すべてのニュースを見る
+
+もっとニーズがあれば?
+
+あなたのメッセージを歓迎し、私たちは時間内に返信します。
+
+オンラインメッセージ
+
+shawn@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road,常州経済開発区,江蘇省,中国
+
+について
+
+私たちの遺産
+
+当社のブランド
+
+ビジョン、ミッション &amp; 価値観
+
+事実と数字
+
+ガバナンス
+
+品質
+
+研究開発
+
+規制サポート
+
+健康、安全、環境
+
+DSBステップ
+
+提供
+
+ドラッグデリバリー装置
+
+失禁ヘルスケア
+
+使い捨て医療消耗品
+
+生物学的チップ
+
+金型開発
+
+オートメーション開発
+
+装置/処理能力
+
+包装のCapablility
+
+サービス
+
+ニュース &amp; イベント
+
+会社ニュース
+
+業界情報
+
+メディアレポート
+
+ビデオ
+
+お問い合わせ
+
+連絡先情報
+
+オンラインメッセージ
+
+shawn@dsbmedical.com
+
+shawn@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+0086-519-88363800
+
+0086-519-88363800
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+  プライバシーポリシー | SEO
+
+ビジネスライセンス
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/products.html
+TITLE: 医療用ディスポーザブルとケア製品 | DSB Medical
+DESCRIPTION: DSB Medicalの医療用ディスポーザブル：外部カテーテル、採尿バッグ、流体管理、ネブライザー、薬剤送達。サプライチェーン一貫管理。
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"失禁・ケア製品","url":"https://ja.dsbmedical.com/products.html","inLanguage":"ja","description":"DSB Medicalの医療消耗品：外部カテーテル、尿バッグ、体液管理、ネブライザー、薬物送達。完全なサプライチェーン管理のもと製造。"}]}
+
+BODY:
+ホーム>リソース>製品概要
+製品
+医療消耗品と精密薬物送達をエンドツーエンドで一貫製造
+
+DSB Medicalは、ケア全体にわたって医療用ディスポーザブル、排泄ケア製品、薬物送達デバイスの開発・製造を行っています。
+
+完全なサプライチェーン管理とISO 13485品質システムにより、当社のポートフォリオは排泄ケア、体液管理、吸入療法、精密薬物送達にわたり、自社ブランドからOEM/ODMプログラムまで対応しています。
+
+すべての製品ラインは信頼性の高い臨床性能を実現するよう設計され、自動組立・検査・規制文書によって支えられています。
+
+排泄ケア体液管理吸入薬物送達保護消耗品マイクロ流体
+DSB Medical
+ケア製品・体液管理
+吸入・薬物送達
+完全なサプライチェーン管理
+ISO 13485品質システム・OEM / ODM
+製品ポートフォリオ
+ケア全体を通じてワンストップの製造パートナー
+
+病院用ディスポーザブルから精密薬物送達まで、DSB Medicalは標準製品とカスタムOEM/ODM開発をサポートします。
+
+🩹
+排泄ケア・DIDUN
+
+病院および在宅ケア向けの外部カテーテル、大人用おむつ、排泄ケア製品。
+
+💧
+体液管理・FluidMS®
+
+要介護ケア向けの蓄尿バッグ、排泄ドレナージ、体液モニタリングシステム。
+
+💨
+吸入・DXneb™
+
+効率的なエアロゾル送達のための圧電メッシュネブライザーおよび呼吸ケアデバイス。
+
+💉
+薬物送達・GoldHaler®
+
+ソフトミスト吸入器、自動注射器、精密薬物送達システム。
+
+🧤
+医療用保護消耗品
+
+臨床環境向けの感染管理カバー、アイソレーションガウン、保護消耗品。
+
+🧬
+バイオマイクロ流体チップ
+
+診断および薬物送達のためのマイクロ流体チップとバイオセンシングプラットフォーム。
+
+DSB Medicalの製品ポートフォリオをご覧ください
+排泄ケアから精密薬物送達まで、標準製品およびOEM/ODMプログラムについてお気軽にお問い合わせください。
+DSB Medicalにお問い合わせ
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/drug-delivery.html
+TITLE: 薬剤送達デバイス | オートインジェクター製造 | DSB
+DESCRIPTION: DSB Medicalのオートインジェクターと自己注射システム。ISO 13485準拠の自動組立。OEM/ODM対応。
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"自動注射器メーカー | ドラッグデリバリーデバイス","url":"https://ja.dsbmedical.com/drug-delivery.html","inLanguage":"ja","description":"自動注射器およびプレフィルド自動注射器メーカー。ドラッグデリバリーデバイス、自動注射デバイス、自己注射デバイスを提供。ISO 13485準拠の自動組立に対応し、OEM/ODMも御相談ください。"}]}
+
+BODY:
+ホーム>リソース>薬剤送達デバイス
+ドラッグデリバリーデバイス
+デバイスの構想から商業供給まで
+
+DSB Medicalは、製薬・バイオテクノロジーパートナー向けにドラッグデリバリーデバイスの設計、開発、製造を行っています。
+
+当社のドラッグデリバリーポートフォリオは、精密オートインジェクター、自己注射システム、接続型コンパニオンプラットフォームにわたり、高精度自動組立とISO 13485品質管理に支えられています。
+
+プレフィルドオートインジェクタープラットフォームからデジタルコンパニオンアプリまで、OEM、ODM、および共同開発プログラムを初期デバイス構想から商業供給までサポートします。
+
+オートインジェクターコンパニオンシステム自動組立ISO 13485OEM / ODM
+ドラッグデリバリー
+オートインジェクター · 自己注射
+コンパニオンシステム · 自動組立
+ISO 13485品質システム
+OEM / ODM / 共同開発
+ケイパビリティ
+開発のあらゆる段階に対応するドラッグデリバリーデバイス
+
+精密注射からコネクテッドケアまで、当社のケイパビリティは医薬品および医薬品・デバイス複合製品をサポートします。
+
+💉
+オートインジェクター
+
+皮下注射および筋肉内注射用の精密オートインジェクターとプレフィルドオートインジェクタープラットフォーム。
+
+📱
+コンパニオンシステム
+
+患者の服薬アドヒアランスと治療モニタリングをサポートするデジタルコンパニオンアプリと接続型ドラッグデリバリーシステム。
+
+⚙️
+自動組立
+
+医薬品・デバイス複合製品のための高精度自動組立、検査、包装。
+
+🛡️
+ISO 13485 準拠
+
+完全なプロセストレーサビリティを備えたISO 13485品質マネジメントシステムのもとでの製造。
+
+🏠
+自己注射 & オートインジェクション
+
+自宅および臨床現場で安全かつ便利に使用できるよう設計された自己注射・オートインジェクション機器。
+
+🤝
+OEM / ODM パートナーシップ
+
+デバイスの構想から商業供給までの柔軟なOEM、ODM、共同開発プログラム。
+
+ドラッグデリバリーデバイスを市場に届けましょう
+オートインジェクター、自己注射システム、医薬品・デバイス複合製品の製造について、DSB Medicalにご相談ください。
+DSB Medical に問い合わせる
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/inhalation.html
+TITLE: ネブライザーと吸入デバイス | DSB Medical
+DESCRIPTION: DSB Medicalの吸入デバイス：病院・在宅向け圧電メッシュネブライザー。薬剤デバイス複合とB2Bパートナーシップ。
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"ネブライザー・吸入デバイス","url":"https://ja.dsbmedical.com/inhalation.html","inLanguage":"ja","description":"DSB Medicalの吸入デバイス：病院・家庭用の圧電メッシュネブライザー。薬剤・デバイス組み合わせ、B2Bパートナーシップ。"}]}
+
+BODY:
+ホーム>リソース>吸入・ネブライゼーションソリューション
+吸入 & ネブライザーデバイス
+病院から在宅まで、精密な呼吸器薬物送達
+
+DSB Medicalは、効率的で低残量のエアロゾル薬物送達を実現する圧電メッシュネブライザーおよび吸入デバイスを設計・開発しています。
+
+当社の吸入製品ポートフォリオは、臨床に重点を置いた病院用デバイスとコンパクトな家庭用ネブライザーを組み合わせ、実現可能性調査からOEM/ODM製造まで製薬・デバイスパートナーを支援します。
+
+吸入プラットフォームは、ソフトミスト吸入器（SMI）、乾燥粉末吸入器（DPI）、加圧定量吸入器（pMDI）、振動メッシュネブライザーにわたり、呼吸器送達方式全体で製薬パートナーに単一のエンジニアリングパートナーを提供します。
+
+DXneb™ メッシュネブライザーは、従来のジェットネブライザーよりも優れた肺内沈着、低い残液量、静かな動作を実現する、微細で均一なサイズのエアロゾルプルームを生成します。
+
+メッシュネブライザー病院用家庭用医薬品・デバイス組み合わせOEM / ODM
+圧電メッシュネブライザー
+DXneb™ 吸入製品ポートフォリオ
+開発・製造能力
+あらゆるケア環境に対応する吸入デバイス
+
+臨床呼吸療法から長期在宅ケアまで、当社のデバイスは一貫性のある効率的なエアロゾル送達を実現するよう設計されています。
+
+💨
+圧電メッシュネブライザー
+
+振動する圧電メッシュネブライザーは、微細で均一なサイズの液滴を含む一貫性のあるエアロゾルプルームを生成し、効率的な肺内沈着を実現します。
+
+🏥
+病院用デバイス
+
+臨床に重点を置いた吸入デバイスで、信頼性の高い呼吸療法のために設計され、医師が処方する薬剤や病院のワークフローに対応します。
+
+🏠
+家庭用デバイス
+
+毎日の呼吸ケアと長期在宅療法のための、コンパクトで携帯性に優れ、騒音の少ないネブライザーです。
+
+🧬
+医薬品・デバイス組み合わせ
+
+製薬・デバイス企業とのパートナーシップにより、乾燥粉末吸入器、ソフトミスト吸入器、メッシュネブライザーなどの医薬品・デバイス組み合わせ製品を、実現可能性調査からOEM/ODM製造まで開発します。
+
+🔇
+低残量 & 静音動作
+
+従来のジェットネブライザーよりも低残量で静かな動作を実現し、より快適で効率的な治療を提供します。
+
+🤝
+OEM / ODM 製造
+
+デバイスのコンセプトから商業供給まで、柔軟なOEM、ODM、共同開発プログラムを提供します。
+
+すべての呼吸のために設計された精密吸入
+メッシュネブライザー、吸入デバイス、医薬品・デバイス組み合わせプログラムについて、DSB Medicalにお問い合わせください。
+DSB Medical へお問い合わせ
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/fluidms.html
+TITLE: FluidMS® 流体管理と便ドレナージ | DSB Medical
+DESCRIPTION: FluidMS®は、要介護ケアにおける採尿バッグ、便ドレナージ、流体モニタリングのDSB Medicalプラットフォームです。
+H1: FluidMS® 排泄管理システム
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"FluidMS® 排泄管理システム","url":"https://ja.dsbmedical.com/fluidms.html","inLanguage":"ja","description":"FluidMS®はDSB Medicalの排泄管理システム。ICUおよび長期臥床の失禁ケア向けで、MDR認証を取得。両モデルがEU MDR CE認証（Class IIa、規則(EU)2017/745）を保有。"}]}
+
+BODY:
+ホーム>リソース>FluidMS® 便管理システム
+漏れ防止・詰まり防止・医療グレード
+FluidMS® 排泄管理システム
+
+病院ICUから長期臥床、在宅ケアまで、尊厳ある確実な排泄管理を提供します。
+
+認証とコンプライアンス
+
+EU MDR CE認証
+
+FluidMS®排泄管理システムの2バリアントは、それぞれ医療機器規則(EU)2017/745に基づくCE認証をClass IIaとして保有しています。認証取得者はDSB Medical (Changzhou) Co., Ltd.です。業界指標によると、排泄管理システムのMDR CE認証を保有するメーカーは世界中で10社未満であり、DSB Medicalもその1社です。
+
+EU MDR CE認証 — Class IIa、規則(EU)2017/745
+認証取得者 — DSB Medical (Changzhou) Co., Ltd.
+世界のMDR CE認証取得者 — 10社未満
+ブランド哲学
+
+尊厳あるベッドridden失禁ケア
+
+排泄管理は単なる清掃ではなく、医療グレードの感染管理、皮膚保護、患者の尊厳を守るものです。FluidMS®は使い捨て、漏れ防止、詰まり防止設計により、便漏れや皮膚刺激を軽減し、介護者の負担を和らげます。
+
+使い捨て設計 — 漏れ防止・詰まり防止・医療グレード
+対象 — 病院ICU、長期臥床、在宅ケア
+製品ライン
+
+FluidMS® 排泄管理製品ライン
+
+使い捨ての便排出から体系的な管理まで、ベッドridden失禁および腸管管理ワークフロー全体をカバーします。
+
+便コレクター — 使い捨て・医療グレードの便排出デバイス。漏れ防止シールと詰まり防止構造で便漏れと皮膚刺激を軽減。
+排泄管理システム — 吸収性の便収集・管理システム。強い防臭、漏れ防止シール、簡単交換で尊厳あるケアを実現。
+モニタリング・付属品 — ICUおよび在宅設定で排泄管理を体系的にサポートするチューブ、固定具、モニタリング付属品。
+用途
+
+排泄管理と失禁ケアのシーン
+
+🏥 ICU — 重症患者、ベッドridden、失禁患者向けの使い捨て・漏れ防止・詰まり防止の便排出デバイス。感染と皮膚損傷を軽減。
+🛌 長期臥床 — 強い漏れ防止、簡単交換、低臭で尊厳を守る便収集・管理。
+🏠 在宅高齢者ケア — 医療グレードのポータブルソリューションで、安全で快適な排泄管理を在宅で提供。
+FAQ
+
+排泄管理システムに関するよくある質問
+
+排泄管理システムとは何ですか？ — 排泄管理システムは、ベッドridden失禁ケアにおける便の排出・収集・管理のための医療グレードのデバイスです。使い捨て、漏れ防止、詰まり防止設計で、ICU、長期臥床、在宅ケアに対応します。
+排泄管理システムのMDR CE認証を保有しているメーカーは？ — 業界指標によると、世界で10社未満と言われています。DSB Medicalもその1社です。
+従来の差し桶（ベッドパン）とどう違うのですか？ — 使い捨ての漏れ防止・詰まり防止の収集管理により、便漏れ、皮膚刺激、感染リスクを軽減。従来のベッドパンより尊厳があり、労力も少なくて済みます。
+便・腸管管理システムの同義語は？ — fecal management system、stool management system、bowel management system、fecal collector、fecal incontinence management、rectal catheterなどがあります。
+FluidMS®はベッドridden患者とICU患者に適していますか？ — はい。FluidMS®排泄管理システムは、ベッドridden高齢者、失禁患者、病院ICUケア向けの使い捨て・医療グレードのソリューションです。
+DSB Medicalは認定された排泄管理システムメーカーですか？ — はい。FluidMS®排泄管理システムの2バリアントは、それぞれEU医療機器規則(EU)2017/745（Class IIa）に基づくCE認証を保有しています。認証取得者はDSB Medical (Changzhou) Co., Ltd.です。
+FluidMS®は便失禁を管理し、患者の尊厳を向上させますか？ — はい。漏れ防止、詰まり防止、低臭設計により、便漏れと皮膚刺激を軽減し、ベッドridden失禁ケアの尊厳をサポートします。
+排泄管理デバイスは使い捨てで、漏れ防止・詰まり防止ですか？ — はい。FluidMS®便コレクターおよび排泄管理システムは、医療グレードの素材で作られた使い捨てデバイスで、漏れ防止シールと詰まり防止構造を備えています。
+関連製品
+
+尿コレクションバッグ
+
+尿コレクションバッグ — Leg Bag / 尿路ケア
+会社概要
+
+DSB Medicalについて
+
+24年以上の製造実績、ISO 13485品質システム、CE MDR認証、FDA登録施設。
+
+ISO 13485 — 品質システム
+CE MDR — 認証
+FDA — 登録施設
+
+FluidMSへのお問い合わせ
+
+病院調達、在宅ケア、ODM/OEMパートナーシップをご検討の方は、お問い合わせください。
+
+お問い合わせ
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/freehala.html
+TITLE: FreeHala™ 薬剤デバイス吸入プラットフォーム | DSB Medical
+DESCRIPTION: FreeHala™は、定用量SMI吸入器向けのDSB Medical薬剤デバイス複合プラットフォームで、包括的CDMOが支えます。
+H1: FreeHala™ 医薬品-デバイス複合吸入プラットフォーム
+1つのプラットフォーム、3つの送達モード
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"FreeHala™ 配合薬剤・デバイス吸入プラットフォーム","url":"https://ja.dsbmedical.com/freehala.html","inLanguage":"ja","description":"FreeHala™ は、SMI・DPI・pMDIデバイス技術を網羅するDSB Medicalの配合薬剤・デバイス吸入プラットフォーム。病院・在宅での呼吸器薬物送達に対応します。"}]}
+
+BODY:
+ホーム>リソース>FreeHala® SMI吸入器
+FreeHala™
+ブランド
+送達モード
+FreeHalaの特長
+よくあるご質問
+DSB Medicalへお問い合わせ
+DSB Medical傘下 · 吸入ポートフォリオ · 医薬品-デバイス複合プラットフォーム
+FreeHala™ 医薬品-デバイス複合吸入プラットフォーム
+1つのプラットフォーム、3つの送達モード
+
+FreeHala™は、医薬品複合製品向けにソフトミスト吸入器（SMI）、乾式粉末吸入器（DPI）、加圧定量吸入器（pMDI）のデバイス技術を網羅する、DSB Medicalの医薬品-デバイス複合吸入プラットフォームです。
+
+送達モードを見るブランド詳細 ↗
+ブランド
+SMI・DPI・pMDIにわたる単一のエンジニアリングパートナー
+
+医薬品複合製品には、送達モードを横断して柔軟に対応できるプラットフォームが必要です。
+
+FreeHala™は、DSB Medicalの吸入ポートフォリオにおける医薬品-デバイス複合プラットフォームです。やさしいソフトミストから携帯型ドライパウダー、確立された加圧定量療法まで、複数の吸入送達モードに対応する単一のエンジニアリングパートナーを必要とするパートナーのために設計されています。
+
+FreeHala™は、DSB MedicalのデバイスのみのメッシュネブライザーブランドであるDXneb™から独立しており、厳格に分離されています。また、フルチェーンCDMOを通じて、OEM / ODM / ジョイントベンチャーの開発および製造に提供されています。
+
+SMI ソフトミストDPI ドライパウダーpMDI 加圧式
+FreeHala™
+医薬品-デバイス複合プラットフォーム
+SMI・DPI・pMDI
+吸入ポートフォリオ · DSB Medical
+フルチェーンCDMO：OEM / ODM / JV
+送達モード
+3つの吸入送達モード、1つのプラットフォーム
+
+FreeHala™は、医薬品複合製品に必要な送達技術をサポートします。
+
+FreeHala™ · SMI
+ソフトミスト吸入器
+SMI ソフトミスト
+
+病院および在宅ケアにおいて、制御された呼吸器向け薬剤送達を実現する、やさしく緩やかなミスト吸入。
+
+✔ ソフトミスト吸入
+FreeHala™ · DPI
+乾式粉末吸入器
+DPI ドライパウダー
+
+携帯型で吸気駆動式のドライパウダー投与により、便利な呼吸器治療を実現します。
+
+✔ 吸気駆動式投与
+FreeHala™ · pMDI
+加圧定量吸入器
+pMDI 加圧式
+
+確立された呼吸器治療のための加圧定量吸入です。
+
+確立された治療法
+FreeHalaの特長
+デバイス技術から複合製品パートナーシップへ
+🔬
+複合製品対応
+
+SMI・DPI・pMDI送達に対応し、医薬品複合製品向けに設計されたデバイス技術。
+
+🧩
+マルチモード対応
+
+複数の吸入送達モードにわたる単一のエンジニアリングパートナーとして、製品およびプラットフォーム開発を簡素化します。
+
+🏭
+フルチェーンCDMO
+
+DSB MedicalのフルチェーンCDMOを通じて、OEM・ODM・ジョイントベンチャーの開発および製造に提供されます。
+
+よくあるご質問
+FreeHala™について
+FreeHala™とは何ですか？
+FreeHala™はどの送達モードに対応していますか？
+FreeHala™とDXneb™の関係は？
+FreeHala™はOEM / ODMに対応していますか？
+医薬品-デバイス複合送達のための単一プラットフォーム
+FreeHala™は、DSB Medicalの医薬品-デバイス複合吸入プラットフォームです。送達モードおよびCDMO連携についての詳細は、DSB Medicalまでお問い合わせください。
+DSB Medicalへお問い合わせ
+FreeHala™ホーム
+ブランド
+送達モード
+6言語サイト
+
+常州DSB Medical株式会社 · FreeHala™ · 吸入ポートフォリオ · sales@dsbmedical.com · +86-519-88363800
+
+医療機器です。医療従事者の指導のもとで使用してください。FreeHala™とDXneb™は独立したブランドです。
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/dxneb.html
+TITLE: DXneb™ 振動メッシュ式ネブライザープラットフォーム | DXneb™-Solo 登録モデル | DSB Medical
+DESCRIPTION: DXneb™はDSB Medicalの振動メッシュ式ネブライザープラットフォームです。DXneb™-Soloは登録済みモデルで、振動メッシュ技術により院内・在宅の吸入療法に対応します。
+H1: DXneb™ 振動メッシュ式ネブライザー
+エアロゾルの一つひとつの投与量を、正確に送達
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ja.dsbmedical.com/dxneb.html#organization",
+      "name": "Changzhou DSB Medical Co., Ltd.",
+      "url": "https://ja.dsbmedical.com",
+      "description": "DSB Medicalは、精密薬物送達、失禁ケア、医療用消耗品の統合ソリューションを提供します。"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://ja.dsbmedical.com/dxneb.html#brand",
+      "name": "DXneb™",
+      "alternateName": "DXneb™",
+      "url": "https://ja.dsbmedical.com/dxneb.html",
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Changzhou DSB Medical Co., Ltd."
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "DXneb™-Solo 振動メッシュ式ネブライザー",
+      "brand": {
+        "@type": "Brand",
+        "name": "DXneb™"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Changzhou DSB Medical Co., Ltd."
+      },
+      "description": "DXneb™-SoloはDSB MedicalのDXneb™ブランドにおける登録済み振動メッシュ式ネブライザーで、機械換気および自発呼吸でのエアロゾル投与に適しています。"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://ja.dsbmedical.com/dxneb.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "DXneb™とは何ですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DXneb™はDSB Medicalの医療機器振動メッシュ式ネブライザープラットフォームです。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "DXneb™-Soloは登録済みですか？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "はい。DXneb™-SoloはDXneb™ブランドの登録モデルです。"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+ホーム>リソース>DXneb™ メッシュネブライザー
+DXneb™
+ブランド
+モデル
+DXnebの特長
+CDMO
+FAQ
+DSB Medicalへのお問い合わせ
+DSB Medical · 医療機器分野 · スタンドアロンメッシュネブライザー
+DXneb™ 振動メッシュ式ネブライザー
+エアロゾルの一つひとつの投与量を、正確に送達
+
+DXneb™は、DSB Medicalの圧電メッシュ式ネブライザーブランドです。振動メッシュ技術を採用した医療用圧電メッシュ式ネブライザーとして、液体の薬剤を微細で均一なエアロゾルに変換し、病院での吸入療法、ICU・呼吸器ケア、在宅でのネブライザー使用に対応します。ポータブルメッシュネブライザー、ハンドヘルドネブライザー、在宅用ネブライザーデバイスとしてご利用いただけます。
+
+モデルを見る
+ブランドについて ↗
+ブランド
+精密な送達のためのスタンドアロンデバイスブランド
+
+振動メッシュ技術が薬剤をミストへ変える——微細で、均一で、手軽に使える。
+
+DXneb™は、圧電振動メッシュ技術を用いて液体の薬剤を均一で微細なエアロゾルに変換し、人工呼吸中および自発呼吸中のエアロゾル送達を実現する医療用圧電メッシュ式ネブライザーです。病院、ICU・呼吸器ケア、在宅での吸入療法に対応します。
+
+DXneb™は、DSB MedicalのFreeHala™コンビネーション薬剤デバイスプラットフォームから独立し、厳密に分離されたスタンドアロンの医療機器ブランドであり、デバイス主導の吸入送達に特化しています。
+
+圧電振動メッシュ微細で均一なエアロゾル病院・在宅で使えるポータブル
+DXneb™
+医療用メッシュネブライザーブランド
+振動メッシュ式ネブライザー
+登録モデル：DXneb™-Solo / DXneb™-Pro
+NMPA：Su-Xie-Zhu-Zhun 20262080132
+モデル
+DXneb™ 主要モデル
+
+多患者での病院使用から在宅ポータブル吸入までをカバーする3つの医療用メッシュネブライザー。
+
+DXneb™ · Solo
+登録モデル
+DXneb™-Solo（登録済み）
+
+DXneb-Solo振動メッシュ式医療用ネブライザーは、人工呼吸中および自発呼吸中の精密なエアロゾル送達を提供します。
+
+✔ 登録済み · 20262080132
+DXneb™ · Pro
+登録モデル
+DXneb™-Pro（登録済み）
+
+DXneb-Pro圧電メッシュ式ネブライザーは、病院内での多患者・繰り返し使用向けに設計されています。
+
+✔ 登録済み
+DXneb™ · Ultra
+計画モデル
+DXneb™-Ultra（計画中）
+
+ポータブルでの長時間使用を想定して計画されている医療用メッシュネブライザー。発売の詳細は公式発表に基づきます。
+
+計画中
+DXNEBの特長
+噴霧から送達まで、すべての工程が重要です
+💨
+精密な噴霧
+
+圧電振動メッシュが薬剤を微細で安定したエアロゾルに噴霧し、人工呼吸中・自発呼吸中のいずれでも制御された送達を実現します。
+
+✔️
+登録済みの規制適合
+
+DXneb-SoloおよびDXneb-Proは、登録済みの医療用圧電メッシュ式ネブライザーモデル（Su-Xie-Zhu-Zhun 20262080132）であり、医療機器登録要件を満たしています。
+
+🏠
+病院と在宅
+
+ICU・呼吸器ケアでの多患者再利用から、ポータブル・ハンドヘルドの在宅吸入まで、DXneb™シリーズは治療シナリオ全体をカバーします。
+
+CDMOケイパビリティ
+メッシュネブライザーのコンセプトから商業供給まで
+
+DXneb™は、DSB Medicalの社内CDMOケイパビリティ（デバイス設計、金型設計、高精度自動組立、規制・品質コンプライアンス）に支えられており、圧電メッシュ式ネブライザーのOEM、ODM、共同開発プログラムを支援します。
+
+DSB MedicalはMDR CE、NMPA、FDA、ISO 13485の品質認証を取得しており、医療用圧電メッシュ式ネブライザープログラムにコンプライアンス準拠かつトレーサブルな製造経路を提供します。
+
+FAQ
+DXneb™について
+DXneb™ブランドとは何ですか？
+DXneb™-Soloは登録されていますか？
+DXneb™とFreeHala™の関係は？
+DXneb™はどのようなシーンをカバーしますか？
+すべての呼吸を正確に届ける
+DXneb™はDSB Medicalの医療用メッシュネブライザーブランドです。モデル、認証、病院・在宅での吸入ソリューションについての詳細は、DSB Medicalまでお問い合わせください。
+DSB Medicalへのお問い合わせ
+DXneb™ ホーム
+ブランド
+モデル
+6言語サイト
+
+常州DSB Medical有限公司 · DXneb™ · FreeHala™ · Su-Xie-Zhu-Zhun 20262080132 · service@dsbmedical.com · +86-519-88363800
+
+医療機器です。医療専門家の指導のもとで使用してください。DXneb™およびFreeHala™は独立したブランドです。
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/goldhaler.html
+TITLE: GoldHaler® 新生児RDSネブライゼーションプラットフォーム | DSB Medical
+DESCRIPTION: GoldHaler®は、新生児呼吸窮迫症候群(RDS)向けのDSB Medical振動メッシュネブライゼーションプラットフォームで、NICUおよび新生児呼吸サポートに。
+H1: GoldHaler® 新生児RDSネブライゼーション
+小さな気道への優しいエアロゾルケア
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"GoldHaler® 新生児RDSネブライゼーション","url":"https://ja.dsbmedical.com/goldhaler.html","inLanguage":"ja","description":"GoldHaler®は、新生児呼吸窮迫症候群（RDS）ケアのために設計されたDSB Medicalの振動メッシュ式ネブライゼーションプラットフォームです。"}]}
+
+BODY:
+ホーム>リソース>GoldHaler® 新生児RDSネブライゼーション
+GoldHaler®
+ブランド
+新生児ケア
+GoldHalerが選ばれる理由
+FAQ
+DSB Medicalへお問い合わせ
+DSB Medical提供 · 吸入ポートフォリオ · 新生児RDSネブライゼーション
+GoldHaler® 新生児RDSネブライゼーション
+小さな気道への優しいエアロゾルケア
+
+GoldHaler®は、新生児呼吸窮迫症候群（RDS）ケアのために設計されたDSB Medicalの振動メッシュ式ネブライザープラットフォームです。新生児集中治療および新生児呼吸サポートにおいて、優しく低ストレスなエアロゾル送達を実現するよう設計されています。
+
+新生児ケアを見るブランド紹介を読む ↗
+ブランド
+新生児RDSのための優しい振動メッシュ式ネブライゼーション
+
+新生児の呼吸ケアでは、送達は優しくなければなりません — 少量、低ストレス、精密なエアロゾル。
+
+GoldHaler®は、新生児呼吸サポートに必要な繊細な送達ニーズに対応します。振動メッシュ方式により、熱や高いせん断力をかけずにネブライズし、穏やかな取り扱いを必要とする製剤をサポートしながら、一貫したエアロゾル生成を可能にします。
+
+GoldHaler®はDSB Medicalの吸入ポートフォリオの一部であり、同社のフルチェーンCDMOを通じてOEM / ODM / ジョイントベンチャーによる開発および製造に対応しています。
+
+振動メッシュ技術新生児RDSケア優しいエアロゾル送達
+GoldHaler®
+新生児RDSネブライゼーションプラットフォーム
+振動メッシュ式ネブライザー
+吸入ポートフォリオ · DSB Medical
+フルチェーンCDMO：OEM / ODM / JV
+新生児ケア
+新生児呼吸サポートのケアシナリオ
+
+新生児RDSネブライゼーションおよび関連する新生児呼吸サポートのための単一プラットフォームライン。
+
+GoldHaler® · RDS
+新生児呼吸ケア
+新生児RDSネブライゼーション
+
+新生児集中治療環境での新生児呼吸窮迫症候群ケアのために設計された優しいエアロゾル送達。
+
+✔ 新生児RDSケア
+GoldHaler® · Gentle
+優しい技術
+設計による優しさ
+
+振動メッシュ式ネブライゼーションは熱や高いせん断力をかけずに送達し、最も小さな気道へのストレスを最小限に抑えるよう設計されています。
+
+✔ 振動メッシュ
+GoldHaler® · CDMO
+プラットフォーム開発
+CDMO連携
+
+DSB MedicalのフルチェーンCDMOを通じて、OEM、ODM、ジョイントベンチャーによる開発および製造に対応します。
+
+OEM / ODM / JV
+GoldHalerが選ばれる理由
+優しい送達から製造パートナーシップまで
+👶
+新生児ファースト設計
+
+治療条件に最小限のストレスと精密なエアロゾル送達が求められる新生児呼吸サポートのために設計されています。
+
+💨
+優しいネブライゼーション
+
+振動メッシュ送達は熱や高いせん断力を避け、穏やかな製剤と一貫したエアロゾル生成をサポートします。
+
+🏭
+フルチェーンCDMO
+
+GoldHaler®はDSB Medicalの吸入ポートフォリオの一部であり、OEM / ODM / ジョイントベンチャーによる開発および製造に対応しています。
+
+FAQ
+GoldHaler®について
+GoldHaler®とは何ですか？
+GoldHaler®はどのような技術を使用していますか？
+GoldHaler®はOEM / ODMに対応していますか？
+DSB MedicalのCDMOについて詳しく知るには？
+小さな気道への優しいケア
+GoldHaler®はDSB Medicalの新生児RDSネブライゼーションプラットフォームです。プラットフォームとCDMO連携についてのお問い合わせは、DSB Medicalまでご連絡ください。
+DSB Medicalへお問い合わせ
+GoldHaler®ホーム
+ブランド
+新生児ケア
+6言語サイト
+
+常州DSB Medical Co., Ltd. · GoldHaler® · 吸入ポートフォリオ · sales@dsbmedical.com · +86-519-88363800
+
+医療機器です。医療専門家の指導のもとでご使用ください。GoldHaler®はDSB Medicalの吸入ポートフォリオの一部です。
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/didun.html
+TITLE: DIDUN 失禁ケア | DSB Medical
+DESCRIPTION: DIDUNは、大人用おむつ、外部カテーテル、排泄ケア製品を展開するDSB Medicalの失禁ケアブランドです。
+H1: 丁寧に作る。
+あなたの尊厳を守る。
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"Didun 失禁ケア | 大人用失禁製品","url":"https://ja.dsbmedical.com/didun.html","inLanguage":"ja","description":"DidunはDSB Medicalの大人用失禁ケアブランド。大人用おむつ、Didunカテーテル、尊厳を守る失禁ケア製品を高齢者ユーザーに提供します。"}]}
+
+BODY:
+ホーム>リソース>DIDUN 成人用失禁ケア
+Didun · DSB Medical
+ブランドストーリー
+製品ライン
+私たちの約束
+FAQ
+お問い合わせ
+Didunに問い合わせる
+DSB Medicalブランド・日常生活のためのソリューション
+丁寧に作る。
+あなたの尊厳を守る。
+
+失禁は喪失の始まりではなく、ケアされることの始まりであるべきです。Didunは大人用おむつと尊厳ある失禁ケア製品を提供し、DSB Medicalの清潔への遺産を、尊厳を守る防御線へと変えます—すべての人が品位と快適さ、自尊心を持って暮らせるように。
+
+Didunシリーズを見るブランドストーリーを読む ↗
+ブランドストーリー
+人生には、いつもあなたのための防御線がある
+
+「Didun」は「DSB」に由来します—ディスポーザブルケア消耗品からインスピレーションを得て。
+
+設立当初から、DSB Medicalは「使い捨ての清潔さ」に根ざし、障害を持つ人々の尊厳にコミットしてきた会社です。Didunはその使命をすべての家庭に届けます：おむつではなく、尊厳を守る盾です。
+
+すべての吸収体コアは静かな約束であり、すべての密着層は「私たちが守ります」という想いを着用者にそっと届けます。その背後には、設計から精密金型製作、自動生産、規制登録に至るまでのDSB Medicalのフルチェーン・エンドツーエンド管理体制があり、品質を根源で確保しています。
+
+私たちが守るのは体だけでなく、時間に刻まれた尊厳です。私たちが届けるのは製品以上のもの—その人の生活シーン全体への安心です。
+
+DSB Medical = 障害を持つ人々の生活シーンの包括的ソリューション提供者。
+Didun = その使命をすべての家庭でやさしく実現するブランド。
+
+🛡️
+Didun・静かな約束
+
+多層吸収体コア・密着フィット保護・無言のコミットメント
+
+フルチェーンで裏付けられた品質。
+すべての層を信頼できます。
+
+製品ライン
+Didun製品ライン
+
+昼から夜まで、失禁のある人々のケアシーン全体をカバー—すべては安心のために作られています。
+
+Didun・プレミアム
+プレミアム
+プレミアムシリーズ
+
+精密に作られ、薄くて強い—より高い快適さを求める方に。
+
+Didun・アクティブ
+アクティブ
+アクティブシリーズ
+
+密着して柔軟、日中は自由に動けて、一日中安心。
+
+Didun・ケア
+ケア
+ケアシリーズ
+
+長時間の夜間吸収で、途切れることのない安らかな睡眠を。
+
+Didun・カテーテル
+カテーテル
+カテーテルシリーズ
+
+Didunカテーテルによる正確な排液、漏れ防止、清潔な外部カテーテルケア。
+
+3つの約束
+3つの静かな約束
+
+Didunデザインのすべての層は、言葉を必要としない約束です。
+
+🫂
+尊厳を守る
+
+吸収以上のもの—時間に刻まれた自尊心を守ります。毎回の使用が尊厳と安心をもたらし、失禁はもはや喪失の同義語ではありません。
+
+🛡️
+密着フィット保護
+
+多層吸収体コアと精密な密着フィット設計が、「私たちが守ります」という想いを昼夜問わず着用者にそっと届けます。
+
+🌈
+手頃な価格で利用可能
+
+DSB Medicalのフルチェーンコスト優位性により、質の高いケアをより多くの人々に提供—介護保険や公共調達にも対応しています。
+
+ニーズに合わせたケア
+あらゆるニーズに適した保護
+
+失禁ケアは画一的ではありません。Didunはシーンごとにデザインし、ケアをより正確で負担の少ないものにします。
+
+🧓
+高齢者ケア
+
+長期ケアに重点：昼夜の吸収性、通気性、褥瘡（床ずれ）予防。
+
+🛏️
+術後・寝たきり
+
+高い吸収性と漏れ防止で体勢変換の頻度を減らし、皮膚ダメージのリスクを低減。
+
+👩
+女性向け
+
+体にフィットする薄型で通気性のあるデザインで、毎日快適に着用できます。
+
+👨
+男性向け
+
+男性用外部カテーテルと組み合わせて、昼夜を問わず正確な排液を実現。
+
+FAQ
+失禁ケアFAQ
+
+失禁製品の選び方と使い方に関するよくある質問。
+
+男性・女性・高齢者向けの失禁製品はどう選べばよいですか？
+大人用おむつとパンツ型おむつ—どちらが良いですか？
+失禁ケアで皮膚トラブルを防ぐにはどうすればよいですか？
+卸売りやOEMは可能ですか？
+大切な人に安心のラインを選んでください
+Didunは、障害を持つ人々の生活シーンのためのDSB Medicalのフルチェーン体制によるケアです。製品とサービスについてお気軽にご相談ください。
+Didunに問い合わせる
+Didunホーム
+ブランドストーリー
+製品ライン
+失禁ケア
+6言語サイト
+
+Changzhou DSB Medical Co., Ltd. · Didun · service@dsbmedical.com · +86-519-88363800
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/urine-bag.html
+TITLE: 蓄尿バッグ・尿ドレナージバッグメーカー | DSB Medical
+DESCRIPTION: 病院ICU、寝たきりケア、小児尿検体採取、在宅失禁管理向けのディスポーザブル蓄尿バッグ・尿ドレナージバッグ。医療グレード、防漏、ISO13485およびMDR CE認証。
+H1: 尿採取バッグ & ベッドサイド尿ドレナージバッグ
+安全で漏れのない体液管理
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","@id":"https://ja.dsbmedical.com/#organization","name":"Changzhou DSB Medical Co., Ltd.","url":"https://ja.dsbmedical.com"},{"@type":"Product","name":"ディスポーザブル蓄尿バッグ・尿ドレナージバッグ","brand":{"@type":"Brand","name":"DSB Medical"},"manufacturer":{"@type":"Organization","name":"Changzhou DSB Medical Co., Ltd."},"description":"病院ICU、寝たきりケア、小児尿検体採取、在宅失禁管理向けのディスポーザブル蓄尿バッグ・尿ドレナージバッグ。医療グレード、防漏、ISO13485およびMDR CE認証。"},{"@type":"FAQPage","@id":"https://ja.dsbmedical.com/urine-bag.html#faq","mainEntity":[{"@type":"Question","name":"蓄尿バッグとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"蓄尿バッグは、カテーテルや体外採尿装置から尿を回収する医療用ディスポーザブルデバイスで、目盛り計量と逆流防止機能を備えています。"}},{"@type":"Question","name":"尿ドレナージバッグとは何ですか？","acceptedAnswer":{"@type":"Answer","text":"尿ドレナージバッグは尿道カテーテルに接続する密閉式ドレナージシステムで、防漏弁を備えた継続的なベッドサイド尿ドレナージ用です。"}},{"@type":"Question","name":"DSB MedicalはOEM/ODM尿バッグ製造に対応できますか？","acceptedAnswer":{"@type":"Answer","text":"はい。DSB Medicalはコンプライアンス文書を含む、ディスポーザブル蓄尿バッグ・尿ドレナージバッグのOEM/ODM製造を提供します。"}}]}]}
+
+BODY:
+ホーム>リソース>蓄尿バッグ・ドレナージソリューション
+Urine Bag & ドレナージ
+ブランド
+製品ライン
+DSBの強み
+FAQ
+DSB Medicalへのお問い合わせ
+DSB Medical · 失禁ケア · 医療消耗品
+尿採取バッグ & ベッドサイド尿ドレナージバッグ
+安全で漏れのない体液管理
+
+DSB Medicalは、病院ICU、長期臥床ケア、小児検体採取、在宅失禁管理向けに、単回使用の尿採取バッグと尿ドレナージバッグを製造しています。
+
+製品ラインを見る
+ブランドについて読む ↗
+ブランド
+病院と在宅ケアのための使い捨て尿管理
+
+ICUドレナージから在宅失禁ケアまで、体液管理は安全かつ信頼できるものでなければなりません。
+
+DSB Medicalの尿採取バッグと尿ドレナージバッグは、ベッドサイドの尿管理、小児検体採取、長期ケア向けに設計された単回使用の医療消耗品です。各製品は、確実な接続、信頼性の高い容量測定、耐漏れ性能を備えて設計されています。
+
+この尿バッグ製品ラインはDSB Medicalの失禁ケアポートフォリオの一部であり、フルチェーンCDMOを通じてOEM / ODM / ジョイントベンチャーの開発・製造に対応しています。
+
+単回使用医療消耗品 ICU & ベッドケア OEM / ODM対応可能
+Urine Bag
+尿採取・ドレナージソリューション
+失禁ケア
+失禁ケアポートフォリオ · DSB Medical
+フルチェーンCDMO: OEM / ODM / JV
+製品ライン
+尿採取およびベッドサイドドレナージバッグ
+
+病院および在宅ケア環境における安全な尿管理のための使い捨て・単回使用バッグ。
+
+Urine Bag · 採取
+尿採取バッグ
+尿採取バッグ
+
+ベッドサイドでの使用、検体採取、日常的なドレナージのための使い捨て・単回使用の尿採取バッグ。
+
+✔ 単回使用
+Urine Bag · ドレナージ
+尿ドレナージバッグ
+尿ドレナージバッグ
+
+病院ICU、長期臥床ケア、在宅失禁管理のためのベッドサイド尿ドレナージバッグ。
+
+✔ ベッドサイドドレナージ
+Urine Bag · アクセサリー
+採取 & アクセサリー
+検体 & 小児
+
+小児検体採取と管理された尿量測定のための採取アクセサリー。
+
+OEM / ODM
+DSBの強み
+材料から製造までの信頼性の高い体液管理
+🛡️
+安全な材料
+
+安全な尿接触と信頼性の高いベッドサイド使用のために設計された、医療グレードの単回使用材料。
+
+💧
+耐漏れ設計
+
+確実な接続と耐漏れ構造により、安定した採取とドレナージをサポートします。
+
+🏭
+フルチェーンCDMO
+
+DSB MedicalのフルチェーンCDMOを通じて、OEM、ODM、ジョイントベンチャーの開発・製造に対応しています。
+
+FAQ
+尿採取・ドレナージバッグについて
+尿採取バッグとは何ですか？
+尿ドレナージバッグとは何ですか？
+DSB MedicalはOEM/ODMでのUrine Bag製造に対応できますか？
+DSBのUrine Bagはどのような場面をカバーしていますか？
+安全で漏れのない尿管理
+DSB Medicalは、単回使用の尿採取・ドレナージバッグを製造しています。製品ラインやCDMO連携についてのお問い合わせは、DSB Medicalまでご連絡ください。
+DSB Medicalに問い合わせる
+Urine Bagホーム
+ブランド
+製品ライン
+6言語サイト
+
+Changzhou DSB Medical Co., Ltd. · Urine Bag · 失禁ケア · sales@dsbmedical.com · +86-519-88363800
+
+医療機器です。医療専門家の指導の下で使用してください。Urine Bagは、DSB Medicalの失禁ケアポートフォリオの一部です。
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/Incontinence.html
+TITLE: `失禁ケア | DSB Medical`
+DESCRIPTION: `DSB Medicalは男性用外部カテーテル、尿バッグ、成人用おむつなど失禁ケア用品を製造しています。`
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"`失禁ケア | DSB Medical`","url":"https://ja.dsbmedical.com/Incontinence.html","inLanguage":"ja","description":"`DSB Medicalは男性用外部カテーテル、尿バッグ、成人用おむつなど失禁ケア用品を製造しています。`"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"ホーム","item":"https://ja.dsbmedical.com/"},{"@type":"ListItem","position":2,"name":"`失禁ケア | DSB Medical`","item":"https://ja.dsbmedical.com/Incontinence.html"}]}]}
+
+BODY:
+について     キャリア     投資家     パートナーシップ
+
+製品 & サービス
+
+市場
+
+ニュース & イベント
+
+ソリューション
+
+お問い合わせ
+
+言語の選択
+
+失禁ヘルスケア
+
+毎日、誰にとっても健康的な生活を刺激する
+
+プロダクトセンター
+
+技術と設備
+
+サービス
+
+失禁ヘルスケア
+
+プロダクトセンター
+
+Didun™ 男性用外部カテーテル（コンドームカテーテル）
+
+FluidMS® 尿バッグ
+
+嘔吐袋
+
+FluidMS® 便管理システム
+
+Didun™ 男性用外部カテーテル（コンドームカテーテル）
+
+FluidMS® 尿バッグ
+
+嘔吐袋
+
+FluidMS® 便管理システム
+
+Didun™ 男性用外部カテーテル（コンドームカテーテル）
+
+FluidMS® 尿バッグ
+
+嘔吐袋
+
+FluidMS® 便管理システム
+
+特徴プロダクト:
+
+男性外部カテーテル
+
+1.カテーテル関連尿路感染症 (CAUTI) のリスクを減らす。
+
+2.完全に外的な、尿失禁への非侵袭的な解决;
+
+3.作られたiliconeは、latex- 関连のアレルギー反応の危険を除去します;
+
+もっと見る
+
+失禁ヘルスケア
+
+障害者のための尿や尿などの失禁装置やサービスを提供し、複数の国や地域にサービスを提供します。
+
+失禁制品ソリューション
+
+湿疹や床ずれを解決するために、おむつの代わりに男性と女性の尿失禁を管理します。尿路感染症を減らすための代替カテーテル; 障害者や障害者の生活の質を大幅に向上させます。
+
+特徴的
+
+製品の特殊化
+
+男性と女性の失禁の管理とインテリジェントな授乳
+
+完全に強化された
+
+世界有数の生産ラインと完全に自動化された生産を所有する
+
+巨大な生産能力
+
+尿道カテーテルの年間容量は世界の最前線にある20百万PCです
+
+高品质の环境
+
+優れた製造環境を確保するための100000レベルの浄化ワークショップ
+
+私たちの利点
+
+DSBには、専門の失禁製品の研究開発チームがあり、多くの大学、障害者連盟、社会団体と協力して、研究開発、臨床研究、市場応用のための統合ソリューションを形成しています。
+
+DSBの利点
+
+● 完璧な品质システム
+
+● プロのR & Dチーム
+
+● 十分な容量
+
+グローバルサービス
+
+世界90の国と地域で売れ行きが良く、多くの国際的な医療会社にCDMOソリューションと製品を提供しています。
+
+北アメリカ
+アジア
+アフリカ
+ヨーロッパ
+南米
+オーストラリア
+
+もっとニーズがあれば?
+
+あなたのメッセージを歓迎し、私たちは時間内に返信します。
+
+オンラインメッセージ
+
+shawn@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road,常州経済開発区,江蘇省,中国
+
+について
+
+私たちの遺産
+
+当社のブランド
+
+ビジョン、ミッション &amp; 価値観
+
+事実と数字
+
+ガバナンス
+
+品質
+
+研究開発
+
+規制サポート
+
+健康、安全、環境
+
+DSBステップ
+
+提供
+
+ドラッグデリバリー装置
+
+失禁ヘルスケア
+
+使い捨て医療消耗品
+
+生物学的チップ
+
+金型開発
+
+オートメーション開発
+
+装置/処理能力
+
+包装のCapablility
+
+サービス
+
+ニュース &amp; イベント
+
+会社ニュース
+
+業界情報
+
+メディアレポート
+
+ビデオ
+
+お問い合わせ
+
+連絡先情報
+
+オンラインメッセージ
+
+shawn@dsbmedical.com
+
+shawn@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+0086-519-88363800
+
+0086-519-88363800
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+  プライバシーポリシー | SEO
+
+ビジネスライセンス
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/about.html
+TITLE: DSB Medicalについて | Changzhou DSB Medical Co., Ltd.
+DESCRIPTION: DSB Medicalは失禁ケア製品と薬剤送達デバイスを、包括的OEM/ODM製造で提供します。
+H1: DSB Medicalについて
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"24年以上の製造実績","url":"https://ja.dsbmedical.com/about.html","inLanguage":"ja","description":"DSB Medicalは、高齢者ケア向けの一貫製造グループです。設計、金型、自動生産、コンプライアンスを一元管理。24年以上、ISO 13485認証、EU MDR CE認証（クラスIIa）、FDA登録、SFDAサウジ登録、NMPA医療機器登録。"}]}
+
+BODY:
+DSB Medicalについて
+
+医療用消耗品のエンドツーエンド製造グループ — 中国・常州
+
+ホーム>リソース>DSB Medicalについて
+DSB Medicalについて
+ケアと薬剤送達のためのエンドツーエンド製造グループ
+
+DSB Medicalは、中国・常州に本社を置くエンドツーエンドの製造グループであり、医療用消耗品において24年以上の経験を持ちます。
+
+当社は、設計、精密成形、自動化、コンプライアンスを一つのグループで管理し、世界中のパートナーに迅速な開発と安定した品質を提供します。
+
+当社のポートフォリオは、高齢者ケアソリューション、精密薬剤送達、輸液管理にわたり、ISO 13485品質システムと完全なサプライチェーン管理によって支えられています。
+
+エンドツーエンド製造医療用消耗品高齢者ケア薬剤送達ISO 13485OEM / ODM
+DSB Medical
+24年以上・中国常州
+設計・金型・自動化・コンプライアンス
+エンドツーエンド製造グループ
+ISO 13485・グローバル販売
+DSB Medicalの強み
+コンセプトからコンプライアンス対応生産まで、ワングループで
+
+当社は、数十年にわたる製造経験と社内エンジニアリングおよび品質システムを組み合わせています。
+
+🏭
+エンドツーエンド製造
+
+設計、精密成形、自動化生産、コンプライアンスを一つのグループで実現。
+
+📅
+24年以上の医療用消耗品
+
+中国常州で創業し、数十年の製造経験を持ちます。
+
+🧓
+高齢者ケアソリューション
+
+要介護生活のための失禁ケア、薬剤送達、輸液管理。
+
+🛡️
+ISO 13485品質
+
+認証済みの品質マネジメントシステムと国際的なコンプライアンス。
+
+🔧
+完全なサプライチェーン管理
+
+社内の金型、治具、自動化により、一貫した拡張可能な生産を実現。
+
+🌍
+グローバルパートナーシップ
+
+6言語対応のウェブサイトとOEM/ODMプログラムにより、世界中に製品を販売。
+
+エンドツーエンドの製造メーカーと提携しましょう
+標準製品およびOEM/ODM製造プログラムについてDSB Medicalにお問い合わせください。
+DSB Medicalに連絡
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/partnerships.html
+TITLE: グローバルパートナーシッププログラム | 呼吸ケア・排泄ケア | DSB Medical
+DESCRIPTION: 呼吸療法と高齢者ケアマネジメントでDSB Medicalと提携。地域販売、OEM/ODM/CDMO、コーブランディング、世界各地での現地登録サポート。
+H1: DSB Medicalとのパートナーシップ
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ja.dsbmedical.com/partnerships.html#organization",
+      "name": "Changzhou DSB Medical Co., Ltd.",
+      "url": "https://ja.dsbmedical.com",
+      "description": "DSB Medicalは、精密薬物送達、排泄ケア、医療用消耗品の統合ソリューションを提供します。"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://ja.dsbmedical.com/partnerships.html#webpage",
+      "name": "グローバルパートナーシッププログラム | 呼吸ケア・排泄ケア | DSB Medical",
+      "url": "https://ja.dsbmedical.com/partnerships.html",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "DSB Medical",
+        "url": "https://ja.dsbmedical.com"
+      },
+      "inLanguage": "ja"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://ja.dsbmedical.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "パートナーシップ",
+          "item": "https://ja.dsbmedical.com/partnerships.html"
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+ホーム>パートナーシップ
+グローバルパートナーシッププログラム
+DSB Medicalとのパートナーシップ
+
+呼吸療法と排泄ケアにわたるグローバルパートナープログラム
+
+16年以上にわたり、Changzhou DSB Medicalは医療用ディスポーザブル製品と薬物送達デバイスにおいて精密さを築いてきました。本日、成長を定義する2つのケア領域 — 呼吸療法と高齢者ケア（排泄ケア）マネジメント — において、世界中の販売代理店、デバイスブランド、在宅ケア事業者、OEM/ODM/CDMOパートナーに向けてグローバルパートナーシッププログラムを開始します。
+
+DSB Medicalについて
+
+Changzhou DSB Medical Co., Ltd.（帝斯博(常州)医疗用品股份有限公司）は、中国・長江デルタの製造業の中核地に位置し、常州経済技術開発区に本社を置く医療機器メーカーです。世界市場向けに医療用消耗品と薬物送達デバイスを設計・製造しており、16年以上の製造実績を有します。コンセプトから認証取得済みの量産デバイスまでを一貫した透明性の高いサプライチェーンで実現できることが、DSB Medicalを長期的な製造・設計パートナーとして信頼できる存在にしています。
+
+2つの成長領域、1つの頼れるパートナー
+領域A — 呼吸療法
+
+DSB Medicalは吸入デバイス領域全体にわたり、SMI（ソフトミスト吸入器）、DPI、pMDI技術、DXneb™ 振動メッシュ式ネブライザープラットフォーム、さらにGoldHaler®およびFreeHala™デバイスシリーズを備えた薬物・デバイス複合プラットフォームを開発しています。これらはCOPD、喘息、ICU、NICU、小児および高齢者の患者群における呼吸ケアを支えます。GoldHaler®プラットフォームは、早産児のNRDS（新生児呼吸窮迫症候群）およびNICU用途向けに設計されています。
+
+領域B — 高齢化社会と排泄ケア
+
+世界の人口高齢化と長期介護需要の高まりを受け、DSB Medicalは統合的な排泄ケアポートフォリオを提供します：大人用失禁製品、DIDUN男性用外部（コンドーム型）カテーテル、尿バッグ、FluidMS®便失禁マネジメントシステム、そして介護者にデータに基づく個別化されたケア指導とモニタリングを提供するAI駆動の排泄・褥瘡（創傷）集中ケアプラットフォームSorafree。これらは長期介護、在宅・自宅での高齢者ケア、ICUの各環境に、施設および在宅チャネルを通じて対応します。
+
+技術基盤とコンプライアンス体制
+
+16年以上のデバイスエンジニアリング、クリーンルーム製造能力、規律ある品質マネジメントが各プラットフォームを支えています。
+
+FDAコンプライアンス — 該当デバイスライン。DSB Medicalは、米国FDA登録施設で製造する該当デバイスラインについてFDAコンプライアンスを維持しています。補足情報として、FDA施設登録番号 3008850249（連邦デバイスリスト登録有効）は施設と登録デバイスを文書化したものであり、施設登録およびデバイスリスト登録は特定製品のFDA承認を意味するものではありません。
+ISO 13485.設計・製造プロセスを統制するISO 13485品質マネジメントシステムを維持しています。
+CE MDR Class IIa.デバイスはCE MDR Class IIa要件の枠組みに沿って設計されています。
+グローバル展示会。MEDICAやCPHIなどの国際医療技術見本市に積極的に出展しています。
+フルチェーンOEM/ODM.コンセプトと製造性を考慮した設計から、金型、バリデーション済み生産、グローバルな規制資料サポートまで、OEM/ODM/CDMOパートナーとして全工程に対応します。
+世界需要に支えられた市場
+慢性呼吸器疾患。COPDと喘息の持続的な有病率、および院内感染対策により、クリニック、ICU、NICUにおいて有効で感染リスクの低い吸入療法への需要が拡大し続けています。
+高齢化人口。高齢者人口の増加と世帯規模の変化により、尊厳を保ち費用対効果の高い継続的ケアへの需要が高まっています。
+長期ケアと在宅ケア。ケアは病院から長期介護施設や在宅へ移行しており、呼吸器製品と排泄ケア製品の双方にとって到達可能なチャネルが広がっています。
+院内感染対策。非侵襲的で患者単回使用の設計は、施設調達においてますます選好されています。
+パートナーシップの形態
+地域販売。定義されたテリトリーにおける独占的または非独占的販売、およびブランドライセンス。
+プライベートブランドとフル製造。製品設計から量産供給までのOEM / ODM / CDMO参画。
+コーブランディングと現地登録サポート。共同ブランドプログラムと、販売先に応じた現地規制登録サポート。
+チャネル共同構築。病院、KOL、薬局チェーン、在宅ケアチャネルの共同開発。
+ローカライズ運営。各市場に合わせた臨床、トレーニング、アフターサービス、マーケットアクセスの協業。
+募集するパートナー
+各地域で呼吸器または排泄ケアのポートフォリオを構築する販売代理店。
+認証取得済みのフルチェーンOEM/ODM製造パートナーを求める医療機器ブランド。
+高品質なケア製品を規模で調達する薬局チェーンと消耗品プラットフォーム。
+高齢者ケアと排泄ケアソリューションをエンドユーザーに届ける在宅ケアサービス事業者。
+設計、規制資料、バリデーション済み生産のサポートを一か所で求めるCDMO顧客。
+パートナーへのサポート
+お客様の市場におけるデバイス申請のための規制・登録資料。
+サンプルと設定可能な製品仕様。
+技術・臨床トレーニングとオンサイトサポート。
+市場および入札でのポジショニングを支える臨床文書。
+ブランドに合わせたマーケティング資料とローカライズ資料。
+グローバルイベントでの共同出展。
+単一の責任ある窓口による迅速対応の営業・技術サポート。
+まずは対話から
+
+DSB Medicalのパートナーになる第一歩は、お客様の市場、チャネル、製品目標についての短い対話から始まります。事業地域と必要な内容 — 販売、ブランド/OEM製造、または共同開発 — をお聞かせください。パートナーシップチームが具体的でお客様に合わせた提案をお返しします。
+
+お問い合わせ — パートナーシップ / OEM・販売に関するお問い合わせ: walter@dsbmedical.com
+
+本社 — 中国江蘇省常州市常州経済技術開発区
+
+お客様の市場をともに築きましょう
+
+お客様の地域における販売、ブランド/OEM製造、共同開発についてお気軽にご相談ください。
+
+DSB Medicalに問い合わせる
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/cdmo.html
+TITLE: CDMOサービス | DSB Medical
+DESCRIPTION: DSB Medicalは薬剤送達デバイスと失禁ケア向けの包括的CDMO：設計、金型、自動化生産、規制登録。
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"医療機器CDMO | OEM/ODM受託製造","url":"https://ja.dsbmedical.com/cdmo.html","inLanguage":"ja","description":"フルチェーン医療機器CDMO：設計、金型、自動化、コンプライアンス、OEM/ODM/JV製造を一貫提供。EU MDR CE Class IIaおよびISO 13485認証取得。"}]}
+
+BODY:
+ホーム>リソース>OEM/ODM・CDMOサービス
+DSB Medicalを選ぶ理由
+単一パートナーで、完全な管理とグローバルなコンプライアンスを実現
+
+DSB Medicalは、デバイスの構想から金型設計、自動化、バリデーションまで一貫して対応する、ドラッグデリバリーおよびケアデバイス向けのフルチェーンCDMOパートナーです。
+
+EU MDR CE認証取得・クラスIIa — この認証を取得している世界でも10社未満の企業の1つです。ISO 13485認証を取得し、OEM / ODM / ジョイントベンチャー契約モデル全体で完全な規制コンプライアンスを実現しています。
+
+認証範囲の注記：ここで言及されているEU MDR CEクラスIIa認証は、当社のFluidMS排泄物管理システムに適用されます。当社は認証済みデバイスについてのみ規制上の主張を行います。
+
+CDMO
+設計・金型・自動化
+コンプライアンス・OEM / ODM / JV
+EU MDR CEクラスIIa・ISO 13485
+フルチェーンのデバイス製造
+当社のケイパビリティ
+コンポーネントから完成デバイスまでを網羅するフルチェーンケイパビリティ
+
+設計、金型、自動化、コンプライアンスを一元管理できる、単一のエンジニアリング・製造パートナー。
+
+📐
+設計
+
+精密ドラッグデリバリーエンジニアリング、マイクロ流体工学、マイクロ穿孔技術、デバイスアーキテクチャ、ヒューマンファクター設計。
+
+🔧
+金型
+
+高精度で安定したコンポーネントを実現する、自社内の微細精密金型設計とツーリング。
+
+⚙️
+自動化
+
+大量生産と安定した品質を実現する自動組立・自動検査ライン。
+
+🛡️
+コンプライアンス
+
+EU MDRクラスIIa、ISO 13485、NMPA登録、およびグローバルな規制経路に対応。
+
+🤝
+契約形態
+
+コンポーネントから完成デバイスまで対応するOEM、ODM、ジョイントベンチャーモデル。
+
+🧬
+高分子医薬デリバリー
+
+熱や高せん断力を用いない振動メッシュ式ネブライゼーションにより、タンパク質や核酸を保護します。
+
+ケイパビリティの実証
+フルチェーンケイパビリティを証明するプラットフォーム
+FreeHala™
+
+SMI / DPI / pMDIに対応したコンビネーション薬剤・デバイス吸入プラットフォーム。
+
+DXneb™
+
+穏やかな振動メッシュ式ネブライゼーションにより高分子を保護するメッシュネブライザー。
+
+GoldHaler®
+
+新生児呼吸窮迫症候群（RDS）のためのネブライゼーション。
+
+一緒に作りましょう
+構想中のデバイスや、ネブライズが必要なパイプラインはありますか？あなたのビジョンをお聞かせください。
+DSB Medicalにお問い合わせ
+
+d
++
+
+
+============================================================
+## https://ja.dsbmedical.com/contact.html
+TITLE: お問い合わせ | DSB Medical
+DESCRIPTION: DSB Medicalへ失禁ケア用品や薬物送達デバイスCDMOのお見積りをお問い合わせください。
+H1: お問い合わせ
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://ja.dsbmedical.com/#organization",
+      "name": "DSB Medical",
+      "alternateName": [
+        "Changzhou DSB Medical Co., Ltd."
+      ],
+      "url": "https://ja.dsbmedical.com",
+      "logo": "https://ja.dsbmedical.com/logo.png",
+      "description": "NMPA、FDA QSR、CE MDR、ISO 13485認証の医療機器メーカー。SMIソフトミスト吸入器、男性用外部カテーテル、失禁ケア製品、薬物送達デバイスのCDMOサービスを提供。",
+      "foundingDate": "2010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Changzhou",
+        "addressRegion": "Jiangsu",
+        "addressCountry": "CN"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-519-88363800",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "English",
+            "Chinese"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-18651272568",
+          "contactType": "sales",
+          "availableLanguage": [
+            "English",
+            "Chinese"
+          ]
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/dsbmedical",
+        "https://www.facebook.com/people/Changzhou-DSB-Medical-Male-External-Catheter/100083188479133",
+        "https://twitter.com/DSBMEDICAL23"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SMIソフトミスト吸入器",
+            "category": "薬物送達デバイス"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "男性用外部カテーテル",
+            "category": "失禁ケア"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "医療機器CDMOサービス",
+            "category": null
+          }
+        }
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": "100"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://ja.dsbmedical.com/#website",
+      "url": "https://ja.dsbmedical.com",
+      "name": "DSB Medical",
+      "description": "中国の医療機器メーカー。男性用外部カテーテル、尿バッグ、失禁ケア製品、SMI吸入器などの薬物送達デバイスCDMOサービスを提供。",
+      "inLanguage": "ja",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://ja.dsbmedical.com/search.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://ja.dsbmedical.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "ホーム",
+          "item": "https://ja.dsbmedical.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "お問い合わせ",
+          "item": "https://ja.dsbmedical.com/contact.html"
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+について     キャリア     投資家     パートナーシップ
+
+製品 & サービス
+
+市場
+
+ニュース & イベント
+
+ソリューション
+
+お問い合わせ
+
+言語の選択
+
+連絡先情報
+
+ホーム>リソース>お問い合わせ
+DSB Medical · お問い合わせ
+お問い合わせ
+
+製品、パートナーシップ、薬事サポートについてお問い合わせください。
+
+連絡先
+
+帝斯博（常州）医療用品股份有限公司
+
+📞
+電話
+
+0086-519-88363800
+
+📧
+メール
+
+service@dsbmedical.com
+sales@dsbmedical.com
+
+📍
+住所
+
+中国江蘇省常州市経済開発区龍錦路355号
+
+さらに詳しい情報が必要ですか？
+
+会社概要、規制関連資料、協業資料についてはお問い合わせください。
+
+お問い合わせ
+
+メッセージ
+
+送信メッセージ
+ 
+© 2026 AutoNavi - GS(2019)6379号
+
+もっとニーズがあれば?
+
+あなたのメッセージを歓迎し、私たちは時間内に返信します。
+
+オンラインメッセージ
+
+shawn@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road,常州経済開発区,江蘇省,中国
+
+について
+
+私たちの遺産
+
+当社のブランド
+
+ビジョン、ミッション &amp; 価値観
+
+事実と数字
+
+ガバナンス
+
+品質
+
+研究開発
+
+規制サポート
+
+健康、安全、環境
+
+DSBステップ
+
+提供
+
+ドラッグデリバリー装置
+
+失禁ヘルスケア
+
+使い捨て医療消耗品
+
+生物学的チップ
+
+金型開発
+
+オートメーション開発
+
+装置/処理能力
+
+包装のCapablility
+
+サービス
+
+ニュース &amp; イベント
+
+会社ニュース
+
+業界情報
+
+メディアレポート
+
+ビデオ
+
+お問い合わせ
+
+連絡先情報
+
+オンラインメッセージ
+
+shawn@dsbmedical.com
+
+shawn@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+0086-519-88363800
+
+0086-519-88363800
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+  プライバシーポリシー | SEO
+
+ビジネスライセンス
+d
++

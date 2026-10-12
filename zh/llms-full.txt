@@ -1,58 +1,2082 @@
-# 帝斯博医疗（DSB Medical）
+# DSB Medical — llms-full.txt (ZH)
 
-> 常州帝斯博医疗，专注失禁护理与药物递送装置（SMI 吸入器、自动注射器）。
-
-- [首页](https://www.dsbmedical.com/): 帝斯博医疗官网首页
+Full rendered content of core pages, for AI crawlers.
 
 
-## 产品与解决方案
 
-- [产品中心](https://www.dsbmedical.com/products.html): 产品与服务总览
-- [药物递送装置](https://www.dsbmedical.com/drug-delivery.html): SMI 软雾吸入器与自动注射器平台
-- [吸入装置](https://www.dsbmedical.com/inhalation.html): 吸入装置与定量吸入器
-- [FluidMS® 大便管理系统](https://www.dsbmedical.com/fluidms.html): 大便引流与粪便管理系统
-- [FreeHala™ 吸入平台](https://www.dsbmedical.com/freehala.html): 药械组合吸入平台（SMI/DPI/pMDI）
-- [DXneb™ 雾化器](https://www.dsbmedical.com/dxneb.html): 便携式网式雾化器
-- [Goldhaler® 定量吸入器](https://www.dsbmedical.com/goldhaler.html): pMDI 压力定量吸入器
-- [帝盾® 男用导尿套](https://www.dsbmedical.com/didun.html): 外用导尿套/体外导尿装置
-- [一次性尿袋](https://www.dsbmedical.com/urine-bag.html): 尿液收集袋与配套
-- [失禁护理](https://www.dsbmedical.com/Incontinence.html): 成人失禁护理产品
-- [一次性医用耗材](https://www.dsbmedical.com/consumbles.html): 综合医用耗材
-- [一次性护理耗材](https://www.dsbmedical.com/Disposable1.html): 一次性护理/引流耗材
-- [模具定制](https://www.dsbmedical.com/Mold.html): 精密注塑模具与定制
-- [生物芯片](https://www.dsbmedical.com/chip.html): 微流控芯片与 RFID 生物传感器
-- [生物药解决方案](https://www.dsbmedical.com/biologic.html): 生物药包装与递送
-- [抗凝市场方案](https://www.dsbmedical.com/anticoaugulants.html): 抗凝产品综合解决方案
+============================================================
+## https://www.dsbmedical.com/
+TITLE: 帝斯博|失能护理综合解决方案提供商
+DESCRIPTION: 帝斯博(DSB Medical)——失能人员生存场景综合解决方案提供商，已获NMPA医疗器械注册、欧盟MDR CE(Class IIa)、美国FDA注册、SFDA沙特注册、ISO13485认证。四大支柱：外用导尿套、大便引流、液体管理、呼吸护理。全产业链掌控，坚守普惠。
+H1: 将产品、技术和服务整合，为精准医学和个性化生命健康管理提供绿色智能解决方案
 
-## 关于公司
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.dsbmedical.com/#organization",
+      "name": "帝斯博（常州）医疗用品股份有限公司",
+      "alternateName": [
+        "DSB Medical",
+        "Changzhou DSB Medical Co., Ltd."
+      ],
+      "url": "https://www.dsbmedical.com",
+      "logo": "https://www.dsbmedical.com/logo.png",
+      "description": "通过NMPA、FDA QSR、CE MDR、ISO 13485认证的医疗器械制造商，专注SMI软雾吸入器、外接导尿管、失禁护理产品及药物递送装置CDMO服务。",
+      "foundingDate": "2010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "常州",
+        "addressRegion": "江苏",
+        "addressCountry": "CN"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-519-88363800",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "Chinese",
+            "English"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-18651272568",
+          "contactType": "sales",
+          "availableLanguage": [
+            "Chinese",
+            "English"
+          ]
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/dsbmedical",
+        "https://www.facebook.com/people/Changzhou-DSB-Medical-Male-External-Catheter/100083188479133",
+        "https://twitter.com/DSBMEDICAL23"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SMI软雾吸入器",
+            "category": "药物递送装置"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "外用导尿套（男用外接导尿管）",
+            "category": "失禁护理"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "医疗器械CDMO服务",
+            "description": "药物递送装置全周期合同开发与制造"
+          }
+        }
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": "100"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.dsbmedical.com/#website",
+      "url": "https://www.dsbmedical.com",
+      "name": "帝斯博医疗 DSB Medical",
+      "description": "帝斯博医疗是位于中国的医疗器械制造商，专注SMI软雾吸入器、外接导尿管、失禁护理耗材及药物递送装置CDMO服务。",
+      "inLanguage": "zh-Hans",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.dsbmedical.com/search.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.dsbmedical.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://www.dsbmedical.com/"
+        }
+      ]
+    }
+  ]
+}
 
-- [关于我们](https://www.dsbmedical.com/about.html): 公司简介
-- [品牌理念](https://www.dsbmedical.com/brand.html): 品牌与公司介绍
-- [质量与认证](https://www.dsbmedical.com/quality.html): 质量标准与法规合规
-- [法规支持](https://www.dsbmedical.com/support.html): 法规与技术支持
-- [合作/经销](https://www.dsbmedical.com/partnerships.html): OEM/ODM 与经销合作
-- [CDMO 服务](https://www.dsbmedical.com/cdmo.html): 合同研发生产服务
-- [合规](https://www.dsbmedical.com/compliance.html): 合规与认证信息
-- [招贤纳士](https://www.dsbmedical.com/careers.html): 加入帝斯博
-- [投资者关系](https://www.dsbmedical.com/investors.html): 投资者信息
+BODY:
+关于帝斯博     职业发展     投资者关系     合作伙伴
 
-## 资源与联系
+产品和服务
 
-- [新闻与活动](https://www.dsbmedical.com/news_list.html): 企业新闻与行业资讯
-- [资源中心](https://www.dsbmedical.com/resources.html): 产品与解决方案资源
-- [联系我们](https://www.dsbmedical.com/contact.html): 询价与联系
+市场
 
-## FAQ
+新闻与事件
 
-- [faq-01-male-external-vs-indwelling.html](https://www.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
-- [faq-02-condom-catheter-sizing.html](https://www.dsbmedical.com/faq-02-condom-catheter-sizing.html)
-- [faq-03-latex-free-silicone-vs-latex.html](https://www.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
-- [faq-04-reduce-cauti-5-ways.html](https://www.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
-- [faq-05-china-medical-device-quality.html](https://www.dsbmedical.com/faq-05-china-medical-device-quality.html)
-- [faq-06-male-urinary-incontinence-guide.html](https://www.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
-- [faq-07-oem-odm-buyers-guide.html](https://www.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
-- [faq-08-external-catheter-care.html](https://www.dsbmedical.com/faq-08-external-catheter-care.html)
-- [faq-09-smi-vs-traditional-nebulizer.html](https://www.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
-- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://www.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
-- [faq-11-soft-mist-high-lung-deposition.html](https://www.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
-- [faq-12-china-cdmo-inhalation-devices.html](https://www.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)
+CDMO 解决方案
+
+联系我们
+
+语言选择
+
+首页>产品>帝盾成人失禁护理
+将产品、技术和服务整合，为精准医学和个性化生命健康管理提供绿色智能解决方案
+
+帝斯博专门为制药和医疗护理行业提供专业的解决方案和服务
+
+帝斯博成立于2010年10月，公司主要产品包括：精密给药装置-慢阻肺和哮喘病吸入剂给药装置；大小便失禁管理；医用防护耗材；生物微流控芯片/RFID生物传感等。公司于2018年新三板上市，股票代码872999。公司产品正在向智能化医疗器械转型：集成生物传感技术和无线通讯以及产品传统功能，实现生理指标实时连续监测分析和传统功能集成的智能医疗器械。
+
+— 查看更多
+
+产品与能力
+
+给药装置
+
+广泛的合同制造能力、集成开发能力和成熟且先进的精密给药技术及解决方案
+
+查看更多
+
+失禁装置
+
+为失禁人员提供失禁装置与服务，拥有专业的失禁产品研发团队和成熟的综合市场应用解决方案
+
+查看更多
+
+医用耗材
+
+在医用耗材解决方案的开发和制造中，我们结合了功能性和经济性，我们的产品具有卓越的质量和设计，以确保其安全性，可靠性和有效性
+
+查看更多
+
+生物芯片
+
+广泛应用于健康评估、临床诊断、个体化诊疗、生命科学研究、药物研发、分子育种、食品安全、司法鉴定等领域
+
+查看更多
+
+技术与制造
+
+模具开发
+
+拥有数台日本进口高精度数控机床，主要开发多腔医疗器械模具
+
+查看更多
+
+自动化开发
+
+具有多套自主研发和知识产权的全自动化生产线
+
+查看更多
+
+设备及生产能力
+
+拥有行业高端特种薄膜、精密塑料零件的生产设备和生产工艺
+
+查看更多
+
+包装能力
+
+10万级净化车间智能包装生产线，定制解决方案
+
+查看更多
+
+服务
+
+分析测试能力
+完善的质量体系
+合同定制化开发制造能力（CDMO）
+国际服务能力
+
+由于我们在许多不同项目中与客户的长期合作，我们可以灵活设计定制服务
+
+查看更多
+
+新闻与事件
+
+中国社会福利与养老服务协会莅临帝斯博考察调研
+
+2025-11-07
+
+FIME2024美国迈阿密医疗用品及设备展览会
+
+2024-06-15
+
+帝斯博邀您共赴2024年第49届中东（迪拜）国际医疗设备展
+
+2024-01-13
+
+硅胶导尿套市场前景及行业分析
+
+2023-11-10
+
+查看更多
+
+如果您有更多的需求？
+
+欢迎您的留言，我们会及时给您回复。
+
+在线留言
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+中国江苏省常州市经济开发区龙锦路355号
+
+关于
+
+发展历程
+
+公司品牌
+
+愿景、使命和价值观
+
+事实和数字
+
+公司架构
+
+质量
+
+研发
+
+法规支持
+
+健康、安全与环境
+
+治理
+
+合规与法规
+
+合作伙伴
+
+产品&服务
+
+药物输送装置
+
+失禁医疗保健
+
+一次性医用耗材
+
+生物芯片
+
+模具开发
+
+自动化开发
+
+设备加工能力
+
+包装能力
+
+服务
+
+雾化与吸入装置
+
+药物递送装置
+
+医用耗材与护理产品
+
+新闻与事件
+
+公司新闻
+
+行业信息
+
+媒体报道
+
+视频中心
+
+联系我们
+
+联系方式
+
+在线留言
+
+微信公众号
+
+0086-519-88363800
+
+0086-519-88363800
+
+service@dsbmedical.com
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+微信公众号
+
+微信公众号
+
+Copyright©2022 帝斯博（常州）医疗用品股份有限公司 All Rights Reserved.
+
+隐私政策 |    标签 | 
+
+营业执照
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/products.html
+TITLE: 医用耗材与护理产品 | 帝斯博医疗
+DESCRIPTION: 帝斯博医疗医用耗材：外用导尿套、尿袋、流体管理、雾化器与药物递送装置，全供应链控制。
+H1: 医用耗材与护理产品
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"医用耗材与护理产品","url":"https://www.dsbmedical.com/products.html","inLanguage":"zh-CN","description":"帝斯博医疗医用耗材与护理产品，覆盖失禁护理、流体管理、吸入治疗与药物递送。"}]}
+
+BODY:
+首页>产品和服务>医用耗材与护理产品
+帝斯博医疗 · 产品组合
+医用耗材与护理产品
+
+全供应链控制的失禁护理、流体管理、吸入与药物递送装置。
+
+产品线
+
+覆盖照护全流程的一站式制造伙伴
+
+失禁护理 · 帝盾 — 外用导尿套、成人纸尿裤与失禁护理产品，服务医院与家庭护理。
+流体管理 · FluidMS® — 尿袋、大便引流与体液监测系统，服务失能照护。
+吸入 · DXneb™ — 振动网式雾化器与呼吸护理装置，实现高效气溶胶递送。
+药物递送 · Goldhaler® — 软雾吸入器、自动注射器与精密药物递送系统。
+医用防护耗材 — 感染控制罩、隔离衣与临床防护耗材。
+生物微流控芯片 — 用于诊断与药物递送的微流控芯片与生物传感平台。
+端到端制造
+
+从标准产品到 OEM/ODM 定制
+
+帝斯博医疗以全供应链控制和 ISO 13485 质量体系，覆盖失禁护理、流体管理、吸入治疗与精密药物递送，从自有品牌到 OEM/ODM 项目，并支持 NMPA、FDA、CE MDR 等市场的合规文件与注册资料。
+
+查看产品目录
+
+联系帝斯博医疗获取完整产品目录与 OEM/ODM 开发支持。
+
+联系我们
+
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/drug-delivery.html
+TITLE: 药物递送装置/呼吸给药装置厂家 | 帝斯博医疗
+DESCRIPTION: 帝斯博医疗研发生产药物递送装置和呼吸给药装置，涵盖SMI软雾吸入器、DPI干粉吸入器、pMDI压力定量吸入器与自动注射器，提供CDMO/OEM。
+H1: 药物递送装置
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"药物递送装置","url":"https://www.dsbmedical.com/drug-delivery.html","inLanguage":"zh-CN","description":"帝斯博医疗自动注射器、自注射系统与配套平台，ISO 13485 自动化装配，支持OEM/ODM。"}]}
+
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://www.dsbmedical.com/drug-delivery.html#faq","url":"https://www.dsbmedical.com/drug-delivery.html","mainEntity":[{"@type":"Question","name":"帝斯博医疗提供哪些药物递送装置？","acceptedAnswer":{"@type":"Answer","text":"FreeHala™：药械组合吸入平台，覆盖 SMI、DPI、pMDI，提供 CDMO OEM/ODM/JV。"}},{"@type":"Question","name":"这些装置是灌装好药品后交付吗？","acceptedAnswer":{"@type":"Answer","text":"SMI 为未灌装平台（装置+药筒），由合作伙伴灌装自有水溶液/水乙醇制剂；适应症与剂量属合作伙伴。"}},{"@type":"Question","name":"如何咨询合作、OEM/ODM 或经销？","acceptedAnswer":{"@type":"Answer","text":"药品合作/CDMO/OEM/ODM/经销：walter@dsbmedical.com（合作/经销）或 sales@dsbmedical.com（销售）。"}}]}
+
+BODY:
+首页>产品和服务>药物递送装置
+帝斯博医疗 · 药物递送
+药物递送装置
+
+从装置概念到商业化供应，自动注射器与配套系统。
+
+产品线
+
+覆盖研发各阶段的药物递送装置
+
+自动注射器 — 精密自动注射器与预充式自动注射平台，用于皮下与肌肉注射。
+配套系统 — 数字化伴侣应用与互联药物递送系统，支持患者依从性与治疗监测。
+自动化装配 — 药械组合产品的高精度自动化装配、检测与包装。
+ISO 13485 合规 — 在 ISO 13485 质量管理体系下生产，实现全过程可追溯。
+自注射与自动注射 — 面向家庭与临床场景的安全、便捷注射装置。
+OEM / ODM 合作 — 从早期装置概念到商业化供应的灵活合作。
+从装置概念到商业化供应
+
+全产业链工程能力
+
+帝斯博医疗为制药与生物技术合作伙伴设计、工程开发并制造药物递送装置，覆盖精密自动注射器、自注射系统与互联配套平台，并以高精度自动化装配和 ISO 13485 质量管理体系为支撑，支持 NMPA、FDA、CE MDR 等市场的注册合规需求。
+
+讨论自动注射器项目
+
+联系帝斯博医疗获取药物递送装置的技术资料与合作方案。
+
+联系我们
+
+药物递送装置 / 呼吸给药装置
+呼吸给药装置 — 覆盖SMI软雾吸入器、DPI干粉吸入器和pMDI压力定量吸入器。
+药物递送装置厂家 — 帝斯博医疗提供药物递送装置与自动注射器开发制造。
+吸入装置CDMO — 吸入装置CDMO服务覆盖设计、模具、注塑、装配与质量文件。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/inhalation.html
+TITLE: 吸入装置/定量吸入器/pMDI压力定量吸入器厂家 | 帝斯博医疗
+DESCRIPTION: 帝斯博医疗提供软雾吸入器、干粉吸入器、定量吸入器和pMDI压力定量吸入器等吸入装置，面向药企与器械采购的CDMO/OEM服务。
+H1: 雾化与吸入装置
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "CollectionPage",
+      "name": "雾化与吸入装置",
+      "url": "https://www.dsbmedical.com/inhalation.html",
+      "inLanguage": "zh-CN",
+      "description": "帝斯博医疗振动网式雾化器与吸入装置，面向医院和家庭的高效、低残留气溶胶给药。"
+    }
+  ]
+}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://www.dsbmedical.com/inhalation.html#faq","url":"https://www.dsbmedical.com/inhalation.html","mainEntity":[{"@type":"Question","name":"帝斯博医疗提供哪些吸入装置？","acceptedAnswer":{"@type":"Answer","text":"FreeHala™：药械组合吸入平台，覆盖 SMI、DPI、pMDI，提供 CDMO OEM/ODM/JV。"}},{"@type":"Question","name":"这些装置是灌装好药品后交付吗？","acceptedAnswer":{"@type":"Answer","text":"SMI 为未灌装平台（装置+药筒），由合作伙伴灌装自有水溶液/水乙醇制剂；适应症与剂量属合作伙伴。"}},{"@type":"Question","name":"如何咨询合作、OEM/ODM 或经销？","acceptedAnswer":{"@type":"Answer","text":"药品合作/CDMO/OEM/ODM/经销：walter@dsbmedical.com（合作/经销）或 sales@dsbmedical.com（销售）。"}}]}
+
+BODY:
+首页>产品和服务>雾化与吸入装置
+帝斯博医疗 · 吸入产品组合
+雾化与吸入装置
+
+面向医院与家庭的高效、低残留气溶胶给药。
+
+产品线
+
+从医院到家庭的精准呼吸给药
+
+振动网式雾化器 — 振动网式技术，产生均匀细腻的气溶胶，提高肺部沉积率。
+医院用装置 — 面向临床呼吸治疗，兼容处方用药与医院工作流程。
+家庭用装置 — 紧凑、便携、低噪音，适合日常护理与长期家庭治疗。
+药械组合 — 与制药及器械企业合作开发药械组合产品，涵盖DPI、SMI与网式雾化器。
+低残留与静音运行 — 残留量更低、运行更安静，治疗更舒适高效。
+OEM / ODM 制造 — 提供从器械概念到商业化供应的灵活合作方案。
+DXneb™ 网式雾化器
+
+精细、均匀、低残留
+
+DXneb™网式雾化器产生粒径均匀的细腻气溶胶，相比传统射流雾化器，具有更好的肺部沉积、更低的残留量和更安静的运行表现。
+
+为什么选择帝斯博
+
+从临床到家庭的完整吸入平台
+
+帝斯博医疗吸入平台覆盖软雾吸入器（SMI）、干粉吸入器（DPI）、加压定量吸入器（pMDI）与振动网式雾化器，为制药合作伙伴提供覆盖多种呼吸递送形式的统一工程与制造支持；生产在 NMPA、FDA、CE MDR 与 ISO 13485 相关质量体系下运行。
+
+了解吸入装置与 CDMO 合作
+
+联系帝斯博医疗获取雾化与吸入装置产品资料。
+
+联系我们
+
+吸入装置 / 定量吸入器分类
+定量吸入器 / pMDI压力定量吸入器 — 定量吸入器（pMDI）按剂量释放气雾，可配合储雾罐使用。
+干粉吸入器 / 软雾吸入器 — 干粉吸入器由呼吸触发，软雾吸入器喷雾速度慢、肺部沉积潜力高。
+吸入装置厂家 — 帝斯博医疗提供吸入装置 CDMO/OEM 设计与制造。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/fluidms.html
+TITLE: 大便管理系统/粪便引流装置厂家 | FluidMS® | 帝斯博医疗
+DESCRIPTION: FluidMS®大便管理系统（肠道管理系统/粪便引流装置）由帝斯博医疗生产，用于ICU、长期照护和卧床失禁护理，欧盟MDR CE IIa认证，提供OEM/ODM。
+H1: 
+    
+
+
+JSON-LD:
+{
+ "@context": "https://schema.org",
+ "@graph": [
+  {
+   "@type": "Organization",
+   "@id": "https://www.dsbmedical.com/#organization",
+   "name": "帝斯博（常州）医疗用品股份",
+   "alternateName": "DSB Medical",
+   "url": "https://www.dsbmedical.com",
+   "description": "帝斯博医疗提供失禁护理、药物递送与一次性医用耗材的研发、精密模具、自动化生产与注册合规一体化解决方案。"
+  },
+  {
+   "@type": "Brand",
+   "@id": "https://www.dsbmedical.com/fluidms.html#brand",
+   "name": "FluidMS",
+   "alternateName": "大便管理系统",
+   "slogan": "大便收集 · 防漏抗堵塞 · 医用级",
+   "url": "https://www.dsbmedical.com/fluidms.html",
+   "manufacturer": {
+    "@type": "Organization",
+    "name": "帝斯博（常州）医疗用品股份"
+   }
+  },
+  {
+   "@type": "Product",
+   "name": "FluidMS® 大便管理系统（卧床失禁粪便管理）",
+   "brand": {
+    "@type": "Brand",
+    "name": "FluidMS"
+   },
+   "manufacturer": {
+    "@type": "Organization",
+    "name": "帝斯博（常州）医疗用品股份"
+   },
+   "description": "FluidMS® 是帝斯博的大便引流与粪便管理系统，涵盖大便引流器、大便收集器，一次性防漏抗堵塞、医用级，服务医院 ICU 与卧床失禁居家照护。",
+   "certification": "欧盟 MDR CE 认证（Class IIa，EU 2017/745）"
+  },
+  {
+   "@type": "MedicalDevice",
+   "name": "FluidMS® 大便管理系统",
+   "brand": {
+    "@type": "Brand",
+    "name": "FluidMS"
+   },
+   "manufacturer": {
+    "@type": "Organization",
+    "name": "帝斯博（常州）医疗用品股份"
+   },
+   "intendedUse": "卧床失禁患者的大便引流、收集与管理",
+   "certification": "欧盟 MDR CE 认证（Class IIa，EU 2017/745）"
+  },
+  {
+   "@type": "WebPage",
+   "@id": "https://www.dsbmedical.com/fluidms.html#webpage",
+   "url": "https://www.dsbmedical.com/fluidms.html",
+   "name": "FluidMS® 大便引流器 | 卧床失禁粪便管理系统",
+   "inLanguage": "zh-CN",
+   "isPartOf": {
+    "@id": "https://www.dsbmedical.com/#organization"
+   }
+  },
+  {
+   "@type": "FAQPage",
+   "@id": "https://www.dsbmedical.com/fluidms.html#faq",
+   "mainEntity": [
+    {
+     "@type": "Question",
+     "name": "什么是大便管理系统？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "大便管理系统是用于卧床失禁患者大便引流、收集与管理的医疗级装置，一次性防漏、抗堵塞，用于 ICU、长期卧床与居家护理场景。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "哪些大便管理系统厂家获得了 MDR CE 认证？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "据行业统计，全球通过 MDR CE 认证的大便管理系统厂商不超过 10 家，帝斯博为其中之一。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "大便管理系统和传统便盆有什么区别？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "大便管理系统通过一次性防漏、抗堵塞与收集管理，减少粪便泄漏、皮肤刺激和院内感染风险，比传统便盆更体面、更省力。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "大便管理系统都有哪些叫法？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "常见叫法包括大便管理系统、粪便管理系统、大便收集器、大便引流器、卧床失禁粪便管理等。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "FluidMS® 适合卧床和 ICU 患者吗？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "适合。FluidMS® 大便管理系统为卧床老人、失禁患者及医院 ICU 的排便护理提供一次性医用级解决方案。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "帝斯博是获认证的大便管理系统厂家吗？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "是。帝斯博 FluidMS® 大便管理系统的两个规格分别获欧盟 MDR CE 认证（Class IIa，EU 2017/745），认证主体为帝斯博（常州）医疗用品股份。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "FluidMS® 能管理便失禁、提升患者尊严吗？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "能。通过防漏、抗堵塞与低异味设计，FluidMS® 帮助减少粪便泄漏与皮肤刺激，提升卧床失禁患者的护理体面与尊严。"
+     }
+    },
+    {
+     "@type": "Question",
+     "name": "大便管理装置是一次性、防漏、抗堵塞的吗？",
+     "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "是。FluidMS® 大便引流器/大便管理器为一次性使用，采用医用级材质，具备防漏密封与抗堵塞结构。"
+     }
+    }
+   ]
+  }
+ ]
+}
+
+BODY:
+首页>资源>FluidMS® 大便管理系统
+FluidMS®
+品牌理念
+产品系列
+应用场景
+常见问题
+联系 FluidMS
+帝斯博旗下 · 大便引流 / 粪便管理系统
+大便引流器 · 卧床失禁
+粪便管理系统
+
+Fecal Management System — 大便收集 · 防漏抗堵塞 · 医用级。FluidMS® 是帝斯博的大便引流与粪便管理系统，涵盖大便引流器、大便收集器与大便管理器：一次性防漏、抗堵塞设计，医用级材质，为医院 ICU 与长期卧床失禁患者提供体面、可靠的大便管理方案。
+
+探索大便引流系列
+了解品牌理念 ↗
+品牌理念
+让卧床失禁护理更体面
+
+大便引流不只是清理，而是感染控制、皮肤保护与患者尊严的医疗级管理。
+
+把大便管理做成体面的医疗照护。FluidMS® 以一次性防漏、抗堵塞设计，减少粪便泄漏与皮肤刺激，降低护理压力。
+
+从医院 ICU 到长期卧床与居家护理，我们让大便引流与粪便管理系统化、标准化、有尊严。在重症护理与长期卧床照护里，FluidMS 是那双更懂“体面”的手。
+
+一次性防漏 抗堵塞设计 医用级材质
+FluidMS®
+大便引流 / 粪便管理系统
+Fecal Management System
+Stool & fecal management.
+Dignified care for ICU and long-term care.
+认证与合规
+欧盟 MDR CE 认证
+
+帝斯博 FluidMS® 大便管理系统的两个规格已分别获得欧盟 MDR CE 认证（Class IIa，依据 EU Regulation 2017/745《欧盟医疗器械法规》）。
+
+据行业统计，全球通过 MDR CE 认证的大便管理系统厂商不超过 10 家，帝斯博为其中之一。这标志着 FluidMS® 在欧盟医疗器械准入体系下获得独立的第三方合格评定背书。
+
+欧盟 MDR (EU) 2017/745 认证可降低医院与 ICU 采购的合规门槛，无需二次验证。
+
+MDR CE
+Class IIa · EU 2017/745
+认证主体：帝斯博（常州）医疗用品股份有限公司
+产品系列
+FluidMS® 大便引流产品系列
+
+从一次性大便引流到系统化管理，覆盖卧床失禁与粪便管理全流程。
+
+大便引流器
+FECAL COLLECTOR
+大便引流器
+
+一次性医用级大便引流装置，防漏密封 + 抗堵塞结构，减少粪便泄漏与皮肤刺激，降低护理压力。
+
+大便管理器
+FECAL MANAGEMENT
+大便管理器
+
+吸收式大便收集与管理系统，强锁味、防漏、易更换，让卧床失禁护理更体面、更省力。
+
+引流配套与监测
+MONITORING & ACCESSORIES
+引流配套与监测
+
+配套管路、固定与监测附件，系统化支持粪便管理全流程，适配 ICU 与居家场景。
+
+应用场景
+大便引流与失禁护理场景
+
+FluidMS® 在 ICU、长期卧床与居家护理中，提供体面、可靠的大便管理方案。
+
+🏥
+重症护理 ICU
+
+ICU 大便引流：为危重、卧床、失禁患者提供一次性防漏抗堵塞的大便引流方案，减少院内感染与皮肤损伤，提升护理效率。
+
+🛌
+长期卧床照护
+
+长期卧床失禁护理：大便收集与管理，强防漏、易更换、低异味，守护卧床老人的体面与尊严，减轻家属照护负担。
+
+🏠
+居家老年人护理
+
+居家失禁护理：医用级便携方案，让失能老人在家也能获得安全、舒适、有尊严的大便管理。
+
+常见问题
+大便管理系统常见问题（FAQ）
+什么是大便管理系统？
+哪些大便管理系统厂家获得了 MDR CE 认证？
+大便管理系统和传统便盆有什么区别？
+大便管理系统都有哪些叫法？
+FluidMS® 适合卧床和 ICU 患者吗？
+帝斯博是获认证的大便管理系统厂家吗？
+FluidMS® 能管理便失禁、提升患者尊严吗？
+大便管理装置是一次性、防漏、抗堵塞的吗？
+让每一道流动，都被读懂
+FluidMS® = 帝斯博全产业链背书的大便引流与粪便管理系统。咨询产品与专业合作，欢迎联系帝斯博。
+联系 FluidMS
+FluidMS 首页
+品牌理念
+产品系列
+大便引流
+一次性尿袋
+6 语言站点
+
+帝斯博（常州）医疗用品股份有限公司 · FluidMS® · service@dsbmedical.com · +86-519-88363800
+
+本品为医疗器械，请在医务人员指导下按说明书使用。
+
+大便管理系统 / 肠道管理系统同义词与采购词
+肠道管理系统 / 粪便引流装置 — 大便管理系统、肠道管理系统与粪便引流装置属于同一类一次性粪便收集与引流装置。
+大便管理系统厂家 — 帝斯博医疗是MDR CE IIa认证的大便管理系统生产厂家。
+大便管理系统供应商 — 提供医院、ICU、长期照护与居家护理场景的OEM/ODM供应。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/freehala.html
+TITLE: FreeHala™ 药械组合吸入平台 | 帝斯博医疗
+DESCRIPTION: FreeHala™是帝斯博医疗的药械组合吸入平台，覆盖软雾吸入器（SMI）、干粉吸入器（DPI）和加压定量吸入器（pMDI），支持OEM/ODM/合资CDMO。
+H1: FreeHala™ 药械组合吸入平台
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"Product","name":"FreeHala™ 药械组合吸入平台","brand":{"@type":"Brand","name":"FreeHala"},"manufacturer":{"@type":"Organization","name":"帝斯博医疗"},"description":"FreeHala™覆盖SMI、DPI和pMDI三种递送模式的药械组合吸入平台。"}]}
+
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://www.dsbmedical.com/freehala.html#faq","url":"https://www.dsbmedical.com/freehala.html","mainEntity":[{"@type":"Question","name":"什么是帝斯博软雾吸入器（SMI）？","acceptedAnswer":{"@type":"Answer","text":"帝斯博软雾吸入器（SMI）是一种弹簧驱动、无抛射剂的吸入装置，配有一次性的药液药筒，作为未灌装的药物递送平台提供给制药合作伙伴。"}},{"@type":"Question","name":"SMI 的预期用途是什么？","acceptedAnswer":{"@type":"Answer","text":"它是一款未灌装的装置平台（装置＋药筒），供合作伙伴灌装其自有的水溶液或水-乙醇溶液制剂。适应症与给药剂量属于合作伙伴最终产品标签。"}},{"@type":"Question","name":"SMI 是如何工作的？","acceptedAnswer":{"@type":"Answer","text":"机械弹簧对药液加压，经精密喷嘴形成缓慢、持续的软雾；无抛射剂、无电池、无加热。"}},{"@type":"Question","name":"使用了哪些材料？","acceptedAnswer":{"@type":"Answer","text":"装置主体为聚合物；药筒为一次性聚乙烯（PE）、耐乙醇。药液接触材料将在合作伙伴确认阶段按 ISO 10993 及可提取物/浸出物研究确认。"}},{"@type":"Question","name":"关键规格是什么？","acceptedAnswer":{"@type":"Answer","text":"每次喷出约 15 µL（标称目标）；可吸入细颗粒 1–5 µm（MMAD ≤5 µm 目标）；5 mL PE 药筒；60 或 120 次喷出。其他参数按项目确认。"}},{"@type":"Question","name":"法规注册状态如何？","acceptedAnswer":{"@type":"Answer","text":"帝斯博以未灌装装置平台形式提供 SMI；分类与注册取决于合作伙伴的最终药械组合产品及目标市场。不主张任何 CE、NMPA 或 FDA 认证。"}},{"@type":"Question","name":"如何与帝斯博合作？","acceptedAnswer":{"@type":"Answer","text":"合作/经销请联系 walter@dsbmedical.com；销售请联系 sales@dsbmedical.com。"}}]}
+
+BODY:
+首页>资源>FreeHala™ 药械组合吸入平台
+帝斯博医疗 · 吸入产品组合 · 药械组合平台
+FreeHala™ 药械组合吸入平台
+
+一个平台，三种递送模式。
+
+品牌
+
+覆盖 SMI、DPI 与 pMDI 的工程伙伴
+
+对于药械组合产品，一个平台应能灵活覆盖多种递送模式。FreeHala™是帝斯博医疗吸入产品组合中的药械组合平台，为需要跨软雾、便携干粉及成熟加压定量吸入疗法的合作伙伴提供统一工程支持。FreeHala™与DXneb™设备型振动网式雾化器平台严格独立，通过全产业链CDMO提供OEM/ODM/合资开发与制造。
+
+递送模式
+
+三种模式，一套工程平台
+
+Soft Mist Inhaler（SMI） — 软雾吸入，高肺部沉积。
+Dry Powder Inhaler（DPI） — 便携干粉吸入。
+Pressurized Metered-Dose Inhaler（pMDI） — 成熟加压定量吸入疗法。
+为什么选择 FreeHala™
+
+一个工程伙伴，覆盖多种吸入递送
+
+多模式平台 — SMI / DPI / pMDI 三种递送模式。
+药械组合开发 — 面向药品-器械组合产品的一体化开发。
+全产业链 CDMO — OEM / ODM / 合资开发与制造。
+
+一个平台，三种递送模式
+
+了解 FreeHala™ 平台或启动 CDMO 合作，请联系帝斯博医疗。
+
+联系我们
+
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/dxneb.html
+TITLE: 微网雾化器/网式雾化器厂家 | 手持雾化器 | DXneb™ | 帝斯博医疗
+DESCRIPTION: DXneb™是帝斯博医疗旗下医用微网雾化器品牌，提供振动筛网雾化器、网式雾化器与手持雾化器，覆盖院内ICU、呼吸科与家庭雾化护理，NMPA注册。
+H1: DXneb™ 振动网式雾化器
+让每一口药雾，精准抵达
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.dsbmedical.com/dxneb.html#organization",
+      "name": "帝斯博（常州）医疗用品股份有限公司",
+      "url": "https://www.dsbmedical.com",
+      "description": "帝斯博是失能人员生存场景综合解决方案提供商，覆盖精准给药、失禁护理与医用耗材。"
+    },
+    {
+      "@type": "Brand",
+      "@id": "https://www.dsbmedical.com/dxneb.html#brand",
+      "name": "DXneb™",
+      "alternateName": "DXneb™",
+      "url": "https://www.dsbmedical.com/dxneb.html",
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Changzhou DSB Medical Co., Ltd."
+      }
+    },
+    {
+      "@type": "Product",
+      "name": "DXneb™ 医用振动网式雾化器系列",
+      "brand": {
+        "@type": "Brand",
+        "name": "DXneb™"
+      },
+      "manufacturer": {
+        "@type": "Organization",
+        "name": "Changzhou DSB Medical Co., Ltd."
+      },
+      "description": "DXneb™是帝斯博医疗旗下振动网式雾化器平台，采用振动网式技术，覆盖院内ICU、呼吸科与家庭雾化护理场景。"
+    },
+    {
+      "@type": "FAQPage",
+      "@id": "https://www.dsbmedical.com/dxneb.html#faq",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "DXneb™ 是什么品牌？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DXneb™ 是帝斯博医疗旗下医疗器械方向振动网式雾化器品牌。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "DXneb™ 有哪些核心型号？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DXneb™ 系列包含 DXneb™-Solo、DXneb™-Pro 与规划中的 DXneb™-Ultra，覆盖院内与家用便携雾化场景。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "DXneb™ 和 FreeHala™ 有什么关系？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "DXneb™ 属于独立器械振动网式雾化器品牌；FreeHala™ 为帝斯博旗下药械合一品牌。二者相互独立、严格分开，不混用。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "DXneb™ 适用于哪些场景？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "适用于院内雾化治疗、ICU/呼吸科以及家庭雾化护理。"
+          }
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+首页>资源>DXneb™ 振动网式雾化器
+DXneb™
+品牌介绍
+核心型号
+价值承诺
+常见问题
+咨询帝斯博
+帝斯博旗下 · 医疗器械方向 · 纯器械振动网式雾化器
+DXneb™ 振动网式雾化器
+让每一口药雾，精准抵达
+
+DXneb™ 是帝斯博医疗旗下医疗器械方向振动网式雾化器品牌。采用振动网式技术（vibration mesh nebulizer），将液体药物转化为均匀微细气溶胶——专为院内雾化治疗、ICU/呼吸科与家庭雾化护理打造，同时提供家用便携雾化器、便携振动网式雾化器、手持雾化器等多种家用雾化器设备。
+
+了解核心型号
+读品牌介绍 ↗
+品牌介绍
+纯器械 · 精准给药
+
+振动网式技术，把「药」化为「雾」——均匀、微细、可及。
+
+DXneb™ 采用压电式振动网式雾化原理，将液体药物转化为粒径均匀的微细气溶胶，适用于机械通气和自主呼吸的雾化给药，覆盖院内、ICU/呼吸科及家庭雾化的完整场景。
+
+DXneb™ 属于纯器械振动网式雾化器品牌，与帝斯博旗下药械合一品牌 FreeHala™ 相互独立、严格分开，专注医疗器械方向的雾化递送。
+
+医用压电式振动网式 均匀微细气溶胶 院内 & 家用便携
+DXneb™
+医用振动网式雾化器品牌
+Vibration Mesh Nebulizer
+纯器械 · 振动网式技术
+Vibration Mesh Nebulizer Platform
+核心型号
+DXneb™ 核心型号
+
+三款医用振动网式雾化器，覆盖院内多人多场景与家用便携雾化需求。
+
+DXneb™ · Solo
+FLAGSHIP MODEL
+DXneb™-Solo 医用振动网式雾化器
+
+面向院内机械通气与自主呼吸雾化给药的核心型号。
+
+查看 DXneb™-Solo 产品详情
+DXneb™ · Pro
+CLINICAL MODEL
+DXneb™-Pro 医用振动网式雾化器
+
+适合院内多人、多次重复使用的医用振动网式雾化器。
+
+院内多场景适用
+DXneb™ · Ultra
+PLANNED MODEL
+DXneb™-Ultra 便携规划型号
+
+面向便携长续航场景的医用振动网式雾化器，上市信息以官方发布为准。
+
+规划中
+价值承诺
+从雾化到递送，每一步都可靠
+💨
+精准雾化
+
+压电式振动网式将药液均匀雾化为微细气溶胶，粒径稳定、递送可控，兼顾机械通气与自主呼吸场景。
+
+✔️
+质量体系
+
+DXneb™ 系列按医疗器械质量管理体系开发；具体型号的注册与认证信息请查看对应产品页。
+
+🏠
+院内 & 家用
+
+从 ICU/呼吸科的多人重复使用，到家庭便携、手持雾化护理，一套 DXneb™ 覆盖完整雾化场景。
+
+常见问题
+关于 DXneb™，你可能想问
+DXneb™ 是什么品牌？
+DXneb™ 有哪些核心型号？
+DXneb™ 和 FreeHala™ 有什么关系？
+DXneb™ 适用于哪些场景？
+为每一次呼吸，精准递药
+DXneb™ = 帝斯博医疗背书的医用振动网式雾化器品牌。了解型号与院内/家用雾化方案，欢迎联系帝斯博。
+联系帝斯博医疗
+DXneb™ 首页
+品牌介绍
+核心型号
+6 语言站点
+
+帝斯博（常州）医疗用品股份有限公司 · DXneb™ · FreeHala™ · service@dsbmedical.com · +86-519-88363800
+
+本品为医疗器械，请在医务人员指导下按说明书使用。DXneb™ 与 FreeHala™ 为相互独立的品牌。
+
+微网雾化器 / 网式雾化器采购词
+网式雾化器 / 手持雾化器 — 网式雾化器也称微网雾化器，手持式设计适合院内与家用便携雾化。
+医用网式雾化器 — 医用网式雾化器采用振动筛网技术，药液残留量低。
+微网雾化器厂家 — 帝斯博医疗是NMPA注册的微网雾化器厂家，提供OEM/ODM。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/goldhaler.html
+TITLE: GoldHaler® 新生儿RDS雾化给药平台 | 早产儿/NICU | 帝斯博医疗
+DESCRIPTION: GoldHaler®是帝斯博医疗面向新生儿呼吸窘迫综合征（RDS）的振动网式雾化给药平台，适用于早产儿、新生儿与NICU呼吸支持，支持OEM/ODM/合资CDMO。
+H1: GoldHaler® 新生儿RDS雾化
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"Product","name":"GoldHaler® 新生儿RDS雾化平台","brand":{"@type":"Brand","name":"GoldHaler"},"manufacturer":{"@type":"Organization","name":"帝斯博医疗"},"description":"GoldHaler®是帝斯博医疗面向新生儿呼吸窘迫综合征（RDS）的振动网式雾化平台。"}]}
+
+BODY:
+首页>资源>GoldHaler® 新生儿 RDS 雾化
+帝斯博医疗 · 吸入产品组合 · 新生儿RDS雾化
+GoldHaler® 新生儿RDS雾化
+
+为最细小的气道提供温和的气溶胶治疗。
+
+品牌
+
+面向新生儿呼吸支持的温和振动网式雾化
+
+新生儿呼吸支持要求递送足够温和：剂量小、压力低、气溶胶精准。GoldHaler®采用振动网式雾化技术，无需加热或高剪切，适合需要温和处理的制剂，并能持续产生稳定的气溶胶。GoldHaler®属于帝斯博医疗吸入产品组合，通过公司全产业链CDMO提供OEM/ODM/合资开发与制造。
+
+新生儿护理场景
+
+为新生儿呼吸支持而设计
+
+GoldHaler® · RDS — 新生儿RDS雾化，适用于新生儿重症监护环境。
+GoldHaler® · 温和技术 — 振动网式雾化，无热、低剪切，最小化对细小气道的刺激。
+GoldHaler® · CDMO — 通过全产业链CDMO开展OEM、ODM与合资开发制造。
+为什么选择 GoldHaler®
+
+从温和递送到制造合作
+
+新生儿优先设计 — 针对新生儿呼吸支持场景，减少压力、实现精准气溶胶递送。
+温和雾化 — 振动网式技术避免热与高剪切，支持温和制剂。
+全产业链 CDMO — OEM/ODM/合资开发与制造一体化。
+
+为最细小的气道提供温和护理
+
+了解 GoldHaler® 平台或启动 CDMO 合作，请联系帝斯博医疗。
+
+联系我们
+
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/didun.html
+TITLE: 成人拉拉裤/夜用纸尿裤/护理垫/隔尿垫 | 帝盾 | 帝斯博医疗
+DESCRIPTION: 帝盾（Didun）是帝斯博医疗旗下失禁护理品牌，提供成人拉拉裤、夜用纸尿裤、护理垫、失禁护理垫和隔尿垫，面向养老机构和家庭护理。
+H1: 以匠心，护守
+凡人之尊
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://www.dsbmedical.com/#organization","name":"帝斯博（常州）医疗用品股份有限公司","url":"https://www.dsbmedical.com","description":"帝斯博是失能人员生存场景综合解决方案提供商，拥有产品设计、精密模具、自动化产线与合规注册的全产业链端到端控制力。"},
+{"@type":"Brand","@id":"https://www.dsbmedical.com/didun.html#brand","name":"帝盾","alternateName":"DIDUN","slogan":"以匠心，护守凡人之尊","url":"https://www.dsbmedical.com/didun.html","manufacturer":{"@type":"Organization","name":"帝斯博医疗"}},
+{"@type":"Product","name":"帝盾成人失禁护理系列","brand":{"@type":"Brand","name":"帝盾"},"manufacturer":{"@type":"Organization","name":"帝斯博医疗"},"description":"尊享/畅行/安眠三线+导尿系列，提供成人纸尿裤、导尿套及失禁护理用品。"},
+{"@type":"FAQPage","@id":"https://www.dsbmedical.com/didun.html#faq","mainEntity":[{"@type":"Question","name":"帝盾有哪些产品线？","acceptedAnswer":{"@type":"Answer","text":"帝盾提供尊享、畅行、安眠三大系列及导尿系列，覆盖成人纸尿裤、导尿套和失禁护理用品。"}},{"@type":"Question","name":"帝盾属于哪家公司？","acceptedAnswer":{"@type":"Answer","text":"帝盾是帝斯博医疗旗下的失禁护理品牌。"}}]}
+]}
+
+BODY:
+首页>产品>帝盾成人失禁护理
+帝盾
+品牌故事
+产品系列
+守护承诺
+常见问题
+咨询帝盾
+帝斯博旗下 · 失能生存场景解决方案
+以匠心，护守
+凡人之尊
+
+失禁不该是失落的开始，而是被照顾的开始。帝盾——把「帝斯博」的洁净传承，化作一道为尊严站岗的防线；让每一位失能者，都活得体面、安心、有尊严。
+
+了解帝盾系列
+读品牌故事 ↗
+品牌故事
+一生，总有一道防线是属于你的
+
+「帝」字，源自「帝斯博」——取意 Disposable（一次性护理耗材）的谐音。
+
+帝斯博，从创立第一天起就是一家以「一次性洁净」为根、以「失能人群尊严」为本的公司。帝盾，则是这份初心在 C 端的情感承载：不是一件纸尿裤，而是一道为尊严站岗的盾。
+
+每一层吸收芯体是一次无声的承诺，每一次贴身呵护是把「你放心」三个字，轻轻放在使用者身上。而这一切背后，是帝斯博从设计、精密模具、自动化产线到合规注册的全产业链端到端管控——品质，从源头就被牢牢锁住。
+
+我们守护的，不只是身躯，而是被岁月磨损的自尊；我们交付的，不止于一片产品，而是失能者整个生存场景的安心。
+
+全产业链端到端管控 多层次吸收芯体 失能人群尊严
+帝盾
+帝斯博旗下 · 失能生存场景关怀
+成人失禁护理品牌
+帝斯博 = 失能人员生存场景的综合解决方案提供商
+帝盾 = 这份使命，在每一个家庭中的温柔落地
+产品系列
+帝盾产品系列
+
+每一款，都为「放心」而生。由帝斯博全产业链匠心打造，覆盖失能人群从日间到夜间的整个护理场景。
+
+帝盾 · 尊享
+PREMIUM
+尊享系列
+
+精工细造，薄而不破。为追求更舒适的你。
+
+帝盾 · 畅行
+ACTIVE
+畅行系列
+
+贴身而行，畅行无惧。白天活动自如，自在如常。
+
+帝盾 · 安眠
+CARE
+安眠系列
+
+整夜安心，守护好眠。夜间长效吸收，安睡到天明。
+
+帝盾 · 导尿
+CATHETER
+帝盾导尿系列
+
+精准引流，杜绝泄漏。外用导尿，洁净无忧。
+
+三重守护
+无声的三重守护
+
+帝盾的每一层设计，都是一句无需言语的承诺。
+
+🫂
+守护尊严
+
+不止于吸收，更守护被岁月磨损的自尊。让每一次使用都体面、安心，让失禁不再是失落的代名词。
+
+🛡️
+贴身防线
+
+多层次吸收芯体 + 精工贴身设计，把「你放心」三个字轻轻放在使用者身上，日夜安心。
+
+🌈
+普惠可及
+
+依托帝斯博全产业链成本优势，把优质护理做得人人都用得起；更对接长护险与政府采购，让尊严能被更多人拥有。
+
+分人群护理
+为每一种需要，找到对的守护
+
+不同人群、不同场景，失禁护理的重点不同。帝盾按需分场景设计，让照护更精准、更省心。
+
+🧓
+老人失禁护理
+
+面向长期照护，兼顾吸收量、透气与防压疮，守护夜间与卧床场景。
+
+🛏️
+术后 / 卧床
+
+重视大吸收量与防漏，减少翻动，降低皮肤破损与感染风险。
+
+👩
+女性护理
+
+按女性体形贴合设计，轻薄透气，日常活动更自在。
+
+👨
+男性护理
+
+搭配外用导尿套等产品，精准引流，日夜洁净无忧。
+
+常见问题
+失禁护理常见问题
+失禁老人护理用品怎么选？
+成人纸尿裤和拉拉裤哪个好？
+失禁护理怎么预防皮肤损伤？
+帝盾支持长护险或政府采购吗？
+为家人，选一道安心的防线
+帝盾 = 帝斯博全产业链背书的失能生存场景关怀。咨询产品与服务，让我们守护所爱之人的尊严。
+联系帝盾
+帝盾首页
+品牌故事
+产品系列
+失禁护理
+6 语言站点
+
+帝斯博（常州）医疗用品股份有限公司 · 帝盾 · service@dsbmedical.com · +86-519-88363800
+
+帝盾为帝斯博旗下成人失禁护理品牌，产品请在医务人员或专业人员指导下按需选用。
+
+成人失禁护理产品类型
+成人拉拉裤 / 夜用纸尿裤 — 成人拉拉裤与夜用纸尿裤提供贴身、长时间防护。
+护理垫 / 失禁护理垫 — 护理垫与失禁护理垫用于失禁照护和皮肤保护。
+隔尿垫 — 隔尿垫保护床面，减少换洗频率。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/urine-bag.html
+TITLE: 集尿袋/引流袋/防逆流尿袋厂家 | 帝斯博医疗
+DESCRIPTION: 帝斯博医疗生产一次性集尿袋、防逆流尿袋、引流袋、腿部尿袋与夜间集尿袋，中国医用耗材 OEM/ODM 厂家，覆盖医院、养老和居家护理。
+H1: 医用尿液收集袋 | 防返流尿袋 2000ml
+
+JSON-LD:
+{"@context": "https://schema.org", "@graph": [{"@type": "Organization", "@id": "https://www.dsbmedical.com/#organization", "name": "帝斯博（常州）医疗用品股份有限公司", "url": "https://www.dsbmedical.com"}, {"@type": "Product", "name": "医用尿液收集袋 | 防返流尿袋 2000ml", "brand": {"@type": "Brand", "name": "DSB Medical"}, "manufacturer": {"@type": "Organization", "name": "Changzhou DSB Medical Co., Ltd."}, "description": "帝斯博一次性尿袋与医用尿液收集袋，配防返流（抗返流）阀，2000ml容量可选，适用于医院ICU、卧床护理、儿科尿标本采集与居家失禁管理。防返流设计有助于降低尿液逆行刺激；产品在ISO 13485质量管理体系下生产。"}, {"@type": "FAQPage", "@id": "https://www.dsbmedical.com/urine-bag.html#faq", "mainEntity": [{"@type": "Question", "name": "什么是尿液收集袋？", "acceptedAnswer": {"@type": "Answer", "text": "尿液收集袋是用于收集导尿管或体外收集装置尿液的医用一次性装置，具备刻度计量与抗返流保护。"}}, {"@type": "Question", "name": "什么是尿袋引流袋？", "acceptedAnswer": {"@type": "Answer", "text": "尿袋引流袋是与导尿管连接的密闭引流系统，用于持续的床边尿液引流，配备防漏阀门。"}}, {"@type": "Question", "name": "帝斯博能否提供OEM/ODM尿袋制造？", "acceptedAnswer": {"@type": "Answer", "text": "可以。帝斯博提供一次性尿液收集袋和尿袋引流袋的OEM/ODM制造及合规文件。"}}]}]}
+
+BODY:
+首页>资源>尿袋与引流解决方案
+Urine Bag & 引流
+品牌
+产品线
+为何选择DSB
+FAQ
+联系DSB Medical
+DSB Medical旗下 · 失禁护理 · 医用耗材
+医用尿液收集袋 | 防返流尿袋 2000ml
+
+DSB Medical生产一次性尿液收集袋与尿液引流袋，配防返流（抗返流）阀，2000ml容量可选，适用于医院ICU、长期卧床护理、儿科标本采集及居家失禁管理。
+
+探索产品线
+了解品牌 ↗
+品牌
+适用于医院与居家护理的一次性尿液管理
+
+从ICU引流到居家失禁护理，液体管理必须安全可靠。
+
+DSB Medical的尿液收集袋和尿液引流袋是一次性医用耗材，专为床边尿液管理、儿科标本采集和长期护理而设计。每款产品均经过工程化设计，确保连接稳固、容量测量可靠、防漏性能优异。
+
+Urine Bag产品线是DSB Medical失禁护理产品组合的一部分，可通过全链条CDMO提供OEM / ODM / 合资（JV）开发与制造服务。
+
+一次性医用耗材 ICU与卧床护理 支持OEM / ODM
+Urine Bag
+尿液收集与引流解决方案
+失禁护理
+失禁护理产品组合 · DSB Medical
+全链条CDMO：OEM / ODM / JV
+产品线
+尿液收集袋与床边引流袋
+
+一次性使用袋，适用于医院和居家护理场景中的安全尿液管理。
+
+防返流（抗返流）阀
+
+阀门防返流，有助于降低尿液逆行刺激，配合规范的管路护理控制感染风险。
+2000ml 容量
+
+提供 DSB-JND-2000 等容量规格，满足床边持续引流与批量收集需求。
+质量管理
+
+在 ISO 13485 质量管理体系下生产，支持 OEM / ODM / JV 合作。
+Urine Bag · 收集
+尿液收集袋
+尿液收集袋
+
+一次性使用尿液收集袋，适用于床边使用、标本采集和常规引流。
+
+✔ 一次性使用
+Urine Bag · 引流
+尿液引流袋
+尿液引流袋
+
+床边尿液引流袋，适用于医院ICU、长期卧床护理和居家失禁管理。
+
+✔ 床边引流
+Urine Bag · 配件
+收集与配件
+标本与儿科
+
+适用于儿科标本采集和受控尿液测量的收集配件。
+
+OEM / ODM
+为何选择DSB
+从材料到制造，全程可靠的液体管理
+🛡️
+安全材料
+
+医用级一次性材料，专为安全的尿液接触和可靠的床边使用而设计。
+
+💧
+防漏设计
+
+稳固的连接与防漏构造，确保持续稳定的收集与引流。
+
+🏭
+全链条CDMO
+
+通过DSB Medical的全链条CDMO提供OEM、ODM及合资（JV）开发与制造服务。
+
+FAQ
+关于尿液收集与引流袋
+什么是尿液收集袋？
+什么是尿液引流袋？
+DSB Medical能否提供OEM/ODM尿液袋制造服务？
+DSB尿液袋适用于哪些场景？
+安全、防漏的尿液管理
+DSB Medical生产一次性尿液收集袋和引流袋。如需了解产品线及CDMO合作详情，请联系DSB Medical。
+联系DSB Medical
+Urine Bag 首页
+品牌
+产品线
+6种语言站点
+
+常州DSB Medical有限公司 · Urine Bag · 失禁护理 · sales@dsbmedical.com · +86-519-88363800
+
+医疗器械。请在医疗专业人员的指导下使用。Urine Bag是DSB Medical失禁护理产品组合的一部分。
+
+集尿袋 / 引流袋类型与厂家
+集尿袋 / 防逆流尿袋 — 一次性集尿袋与防逆流尿袋用于导尿管尿液收集，支持防逆流阀设计。
+腿部尿袋 / 夜间集尿袋 — 腿部尿袋适合日间活动，夜间集尿袋提供更高容量夜间引流。
+一次性尿袋厂家 — 帝斯博医疗提供一次性尿袋和集尿袋 OEM/ODM 制造。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/Incontinence.html
+TITLE: 成人失禁护理 | 成人纸尿裤 / 导尿套 / 失禁老人护理 | 帝斯博医疗
+DESCRIPTION: 帝斯博成人失禁护理品类：帝盾成人纸尿裤、男性导尿套与集尿袋等失禁老人护理用品，覆盖居家与机构失禁照护场景；产品在ISO 13485质量管理体系下生产。
+H1: 成人失禁护理
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"CollectionPage","name":"成人失禁护理 | 成人纸尿裤 / 导尿套 / 失禁老人护理 | 帝斯博医疗","url":"https://www.dsbmedical.com/Incontinence.html","inLanguage":"zh-CN","description":"帝斯博成人失禁护理品类：帝盾成人纸尿裤、男性导尿套与集尿袋等失禁老人护理用品，覆盖居家与机构失禁照护场景；产品在ISO 13485质量管理体系下生产。"},{"@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"首页","item":"https://www.dsbmedical.com/"},{"@type":"ListItem","position":2,"name":"成人失禁护理 | 成人纸尿裤 / 导尿套 / 失禁老人护理 | 帝斯博医疗","item":"https://www.dsbmedical.com/Incontinence.html"}]}]}
+{"@context":"https://schema.org","@type":"FAQPage","@id":"https://www.dsbmedical.com/Incontinence.html#faq","url":"https://www.dsbmedical.com/Incontinence.html","mainEntity":[{"@type":"Question","name":"帝斯博医疗提供哪些失禁护理产品？","acceptedAnswer":{"@type":"Answer","text":"帝斯博提供失禁护理产品：外接导尿管、尿袋及护理耗材；规格定制按项目确认。"}},{"@type":"Question","name":"如何咨询合作、OEM/ODM 或经销？","acceptedAnswer":{"@type":"Answer","text":"药品合作/CDMO/OEM/ODM/经销：walter@dsbmedical.com（合作/经销）或 sales@dsbmedical.com（销售）。"}}]}
+
+BODY:
+关于帝斯博     职业发展     投资者关系     合作伙伴
+
+产品和服务
+
+市场
+
+新闻与事件
+
+CDMO 解决方案
+
+联系我们
+
+语言选择
+
+成人失禁护理
+
+成人纸尿裤 · 导尿套 · 失禁老人护理用品
+
+产品中心
+
+技术和设备
+
+服务
+
+ 首页
+成人失禁护理
+
+产品中心
+
+帝盾® 男用导尿套
+
+FluidMS® 便携式集尿袋
+
+呕吐袋
+
+FluidMS® 大便管理系统
+
+帝盾® 男用导尿套
+
+FluidMS® 便携式集尿袋
+
+呕吐袋
+
+FluidMS® 大便管理系统
+
+帝盾® 男用导尿套
+
+FluidMS® 便携式集尿袋
+
+呕吐袋
+
+FluidMS® 大便管理系统
+
+特色产品:
+
+男性导尿套
+
+1.降低导管相关性尿路感染 (CAUTI) 的风险；
+
+2.完全外用、无创尿失禁的解决方案；
+
+3.硅胶材质，消除乳胶相关过敏反应的风险；
+
+发现更多
+
+失禁医疗保健
+
+为失能提供尿失禁设备和服务，服务于多个国家和地区。
+
+失禁产品解决方案
+
+管理男女尿失禁，代替尿布/尿不湿，解决湿疹和褥疮; 替代导尿，减少尿路感染; 大大提高失禁人和残疾人的生活质量。
+
+特征
+
+自动化能力
+
+男女失禁的管理与智能护理
+
+自动化水平
+
+拥有精密的自动化生产线
+
+巨大的产能
+
+尿道导管的年产能2000万只，位于世界前列
+
+高质量环境
+
+10万级净化车间，确保优良的制造环境
+
+我们的优势
+
+DSB拥有专业的失禁产品研发团队，并与多所高校、残联及社会团体合作，形成研发、临床研究及市场应用的一体化解决方案。
+
+帝斯博优势
+
+● 完善的质量体系
+
+● 专业研发团队
+
+● 充足的产能
+
+失禁护理常见问题
+
+1. 老人失禁护理用品怎么选？
+重点看吸收量、透气性、防漏设计，以及卧床或活动场景。
+
+2. 成人纸尿裤和拉拉裤哪个好？
+活动较多可选拉拉裤，长期卧床可选侧贴式纸尿裤，按需选择。
+
+3. 失禁护理怎么预防皮肤损伤？
+勤更换、保持干爽透气，配合温和清洁与皮肤隔离护理。
+
+4. 帝盾支持长护险或政府采购吗？
+面向居家、医院、养老机构及长护险/政府采购场景，具体以当地政策为准。 了解帝盾
+
+全球服务
+
+畅销全球90个国家和地区，为众多国际医疗公司提供CDMO解决方案和产品。
+
+北美
+亚洲
+非洲
+Europe
+南美
+澳大利亚
+
+如果您有更多的需求？
+
+欢迎您的留言，我们会及时给您回复。
+
+在线留言
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+中国江苏省常州市经济开发区龙锦路355号
+
+关于
+
+发展历程
+
+公司品牌
+
+愿景、使命和价值观
+
+事实和数字
+
+公司架构
+
+质量
+
+研发
+
+法规支持
+
+健康、安全与环境
+
+治理
+
+合规与法规
+
+合作伙伴
+
+产品&服务
+
+药物输送装置
+
+失禁医疗保健
+
+一次性医用耗材
+
+生物芯片
+
+模具开发
+
+自动化开发
+
+设备加工能力
+
+包装能力
+
+服务
+
+雾化与吸入装置
+
+药物递送装置
+
+医用耗材与护理产品
+
+新闻与事件
+
+公司新闻
+
+行业信息
+
+媒体报道
+
+视频中心
+
+联系我们
+
+联系方式
+
+在线留言
+
+微信公众号
+
+0086-519-88363800
+
+0086-519-88363800
+
+service@dsbmedical.com
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+微信公众号
+
+微信公众号
+
+Copyright©2022 帝斯博（常州）医疗用品股份有限公司 All Rights Reserved. 苏ICP备19062360号-1
+
+隐私政策 |    标签 | 
+
+营业执照
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/about.html
+TITLE: 关于帝斯博医疗 | 帝斯博（常州）医疗用品股份有限公司
+DESCRIPTION: 帝斯博医疗专注失禁护理与药物递送装置，提供从研发、模具、自动化到合规上市的全产业链OEM/ODM制造。
+H1: 关于帝斯博医疗
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[{"@type":"Organization","name":"帝斯博医疗","url":"https://www.dsbmedical.com","description":"帝斯博医疗专注失禁护理与药物递送装置，提供全产业链OEM/ODM制造。"}]}
+
+BODY:
+首页>关于帝斯博
+帝斯博医疗
+关于帝斯博医疗
+
+专注失禁护理与药物递送装置，服务全球客户。
+
+公司概况
+
+帝斯博（常州）医疗用品股份有限公司
+
+帝斯博医疗是一家专注于失禁护理产品和药物递送装置的医疗器械制造商，产品销往全球，网站提供中、英、西、日、阿拉伯等多语言服务。公司构建了从产品设计、模具开发、自动化生产到合规注册的全产业链能力，为全球客户提供OEM/ODM及CDMO服务。
+
+核心能力
+
+全产业链制造
+
+失禁护理 — 成人纸尿裤、尿袋、导尿管及护理耗材。
+药物递送装置 — SMI软雾吸入器、自动注射器及雾化装置。
+研发与制造 — 产品设计、模具、自动化、注塑与包装一体化。
+质量与合规 — FDA、CE、ISO 13485 及NMPA相关注册与认证。
+
+了解帝斯博医疗
+
+如需公司介绍、产品目录或合作资料，请联系我们。
+
+联系我们
+
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/partnerships.html
+TITLE: 自有品牌合作伙伴计划 | 呼吸治疗与失禁护理 | 帝斯博医疗
+DESCRIPTION: 帝斯博医疗自有品牌合作伙伴计划，覆盖呼吸治疗与老龄化（失禁）护理，提供区域经销/代理、OEM/ODM/CDMO 及全球本地注册支持。
+H1: 帝斯博医疗 · 自有品牌合作伙伴计划
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.dsbmedical.com/partnerships.html#organization",
+      "name": "帝斯博（常州）医疗用品股份有限公司",
+      "url": "https://www.dsbmedical.com",
+      "description": "帝斯博医疗提供精准药物递送、失禁护理和医用耗材的一体化解决方案。"
+    },
+    {
+      "@type": "WebPage",
+      "@id": "https://www.dsbmedical.com/partnerships.html#webpage",
+      "name": "自有品牌合作伙伴计划 | 呼吸治疗与失禁护理 | 帝斯博医疗",
+      "url": "https://www.dsbmedical.com/partnerships.html",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "帝斯博医疗",
+        "url": "https://www.dsbmedical.com"
+      },
+      "inLanguage": "zh-Hans"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://www.dsbmedical.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "合作伙伴",
+          "item": "https://www.dsbmedical.com/partnerships.html"
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+首页>合作伙伴
+合作伙伴计划
+帝斯博医疗 · 自有品牌合作伙伴计划
+
+深耕 16 年的中国自有品牌医疗器械制造商——帝斯博（常州）医疗用品股份有限公司，把「研发 · 注册 · 制造 · 自有品牌」做成一件事。今天，旗下帝盾®、FluidMS® 等自有品牌医疗器械已量产上市，诚邀大陆及港澳台的医疗器械经销商、代理商，与 CDMO / OEM 伙伴，一起把国产护理与给药好产品送进更多医院与家庭。
+
+关于我们
+
+帝斯博（常州）医疗用品股份有限公司，总部位于长三角制造业核心地带江苏常州，集自主研发、产品注册、洁净制造与自有品牌于一体。16 年制造与品质经验，洁净室工艺 + ISO 13485 质量管理体系 + CE MDR Class IIa 设计框架 + 美国 FDA 注册设施（注册号 3008850249；设施注册不构成单品 FDA 审批）。一个厂商，两条路：一、经销/代理我司已取得医疗器械注册的自有品牌产品；二、把研发与制造能力，经 OEM / ODM / CDMO 应用到你的品牌与药械合一项目。
+
+自有品牌医疗器械（招商主角）
+
+以下自有品牌医疗器械均已取得医疗器械注册、可合法对外供应——即日可谈经销与区域代理。
+
+帝盾® — 男用外置（免脱 condom 型）导尿系列｜男性失禁舒适护理、避免反复插管
+FluidMS® — 尿袋 + 大便引流器系列｜清透尿袋 + 大便引流完整配套，临床与居家两可
+DXneb™ — 振动微网雾化器｜新一代微网雾化：颗粒细、残余少，呼吸道药物递送平台
+GoldHaler® — 新生儿 NRDS 药物递送｜新生儿呼吸窘迫综合征（医院内急救）给药装置，用于新生儿科 / NICU
+SorafreeCX® — AI 智能护理｜失禁 + 压疮（伤口）重症人工智能护理，即将推出
+主推经销线：帝盾® 导尿、FluidMS® 引流；DXneb™、GoldHaler® 亦供经销，其成熟给药平台可另对外 OEM/CDMO。
+做代理/经销你能拿到：区域经销与代理权益（可谈区域保护）· 样品与可配置规格 · 临床与技术培训 · 本地化物料 · 区域联合参展 · 单一责任人对口支持。
+药械合一 · CDMO / OEM 开放合作
+
+除自有品牌外，我们同样把整套研发与制造能力向合作伙伴开放：概念设计 → DFM（可制造性设计）→ 开模 → 验证量产 + 注册文件支持，一条链交付。
+
+FreeHala™ · 药械合一为 CDMO 主推：对有药、需配套递送装置的药企，完成装置设计、装药配合、注册报批与量产。
+
+DXneb™、GoldHaler® 成熟给药平台亦可对外 OEM/CDMO 复用。
+
+合作方式
+区域经销 / 代理
+OEM / ODM / CDMO
+渠道共建
+区域注册支持
+本地化运营
+我们寻找的伙伴
+拥有医院（含新生儿科 / NICU）、护理院/康复机构、连锁药房渠道资源，能把失禁、呼吸或新生儿重症照护当作长期事业经营的区域经销商、代理商
+连锁药房与居家照护服务商
+有药、需装置或借成熟给药平台落地创新的药企 / 器械品牌（CDMO / OEM / ODM）
+说明：GoldHaler® 新生儿给药为医院内急救器械，走医院 / NICU 临床与招投标渠道，属院内器械，不属母婴零售。
+我们如何支持伙伴
+法规与注册文件
+样品与可配置产品规格
+临床 / 技术培训与现场支持
+本地化物料
+区域联合参展
+单一责任人的快速商务与技术支持
+开启对话
+
+成为帝斯博伙伴，从一次十几分钟的交流开始。告诉我们你的区域、渠道与想接的板块——帝盾® 导尿、FluidMS® 引流、DXneb™ 雾化、GoldHaler® 新生儿给药、FreeHala™ 药械合一 CDMO、SorafreeCX® 智能护理——我们按你的盘子，给一份具体的合作与供货方案。
+
+联系（代理/经销/业务）：walter@dsbmedical.com
+
+总部：中国大陆 · 江苏省常州市常州经济技术开发区
+
+成为帝斯博伙伴
+
+告诉我们你的区域、渠道与想接的板块，我们按你的盘子，给一份具体的合作与供货方案。
+
+联系帝斯博医疗
+
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/cdmo.html
+TITLE: 医疗器械供应商/医疗器械生产厂家 | 吸入装置CDMO | 帝斯博医疗
+DESCRIPTION: 帝斯博医疗是ISO13485认证的中国医疗器械供应商和生产厂家，提供一次性医用耗材、吸入装置CDMO、医疗器械OEM/ODM代工。
+H1: 全产业链医疗器械 CDMO
+
+JSON-LD:
+{"@context":"https://schema.org","@graph":[
+{"@type":"Organization","@id":"https://www.dsbmedical.com/#organization","name":"帝斯博（常州）医疗用品股份有限公司","url":"https://www.dsbmedical.com","description":"帝斯博是失能人员生存场景综合解决方案提供商，拥有产品设计、精密模具、自动化产线与合规注册的全产业链端到端控制力。","contactPoint":{"@type":"ContactPoint","contactType":"CDMO partnerships","availableLanguage":["Chinese","English"]}},
+{"@type":"Service","@id":"https://www.dsbmedical.com/cdmo.html#service","name":"医疗器械CDMO服务","serviceType":"CDMO","provider":{"@id":"https://www.dsbmedical.com/#organization"},"areaServed":"Worldwide","description":"帝斯博拥有全产业链端到端控制力：产品设计、精密模具、自动化产线、合规注册(ISO13485/CE/海外CDMO能力)，提供OEM/ODM/JV合作。","offers":[{"@type":"Offer","itemOffered":{"@type":"Service","name":"OEM / ODM制造"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"联名与品牌定制"}},{"@type":"Offer","itemOffered":{"@type":"Service","name":"合资合作与能力输出"}}]},
+{"@type":"FAQPage","@id":"https://www.dsbmedical.com/cdmo.html#faq","mainEntity":[{"@type":"Question","name":"帝斯博提供哪些CDMO服务？","acceptedAnswer":{"@type":"Answer","text":"提供OEM、ODM、联名、合资合作及能力输出，覆盖产品设计、精密模具、自动化生产到合规注册的全产业链。"}},{"@type":"Question","name":"帝斯博是否具备ISO 13485？","acceptedAnswer":{"@type":"Answer","text":"具备ISO 13485质量体系，并拥有CE及其他国际注册资质。"}}]}
+]}
+
+BODY:
+首页>资源>OEM/ODM 与 CDMO 服务
+DSB Medical · CDMO
+全产业链医疗器械 CDMO
+
+从微流控到合规注册，帝斯博医疗为药物递送与护理器械提供从设计、模具、自动化到验证的端到端制造服务。
+
+为什么选择帝斯博医疗
+
+一个合作伙伴，全流程掌控与全球合规
+
+帝斯博医疗是药物递送与护理器械的全产业链 CDMO 合作伙伴，覆盖从器械概念、模具、自动化到验证的完整环节。
+
+EU MDR CE 认证 · Class IIa — 全球仅少数企业获此认证；同时持有 ISO 13485 认证，覆盖 OEM / ODM / 合资合作模式。
+
+认证范围说明：此处引用的 EU MDR CE Class IIa 认证适用于 FluidMS 粪便管理系统。帝斯博仅针对已认证器械发布法规声明。
+
+CDMO
+
+设计 · 模具 · 自动化 · 合规 · OEM / ODM / JV
+
+📐
+设计
+
+精密药物递送工程、微流控与微穿孔、器械架构与人因设计。
+
+🔧
+模具
+
+自有微精密模具设计与加工，保证高公差一致性与稳定组件。
+
+⚙️
+自动化
+
+自动化装配与检测产线，实现大批量、一致性输出。
+
+🛡️
+合规
+
+EU MDR Class IIa、ISO 13485、NMPA 注册及全球法规路径。
+
+🤝
+合作模式
+
+OEM、ODM 与合资（JV）模式，从组件到成品器械。
+
+🧬
+大分子递送
+
+振动网式雾化不产热、低剪切，可保护蛋白与核酸等大分子。
+
+平台能力
+
+以下平台证明帝斯博的全产业链能力
+
+FreeHala™
+
+药械组合吸入平台：SMI / DPI / pMDI。
+
+DXneb™
+
+振动网式雾化器平台，以温和的振动网式雾化保护大分子。
+
+GoldHaler®
+
+用于新生儿呼吸窘迫综合征（RDS）的雾化平台。
+
+一起打造下一款器械
+
+如您有器械构想或待雾化管线，请告诉我们您的愿景。
+
+联系我们
+
+医疗器械供应商 / 生产厂家能力
+医疗器械供应商 / 中国医疗器械供应商 — 帝斯博医疗是中国医疗器械供应商和全产业链生产厂家。
+ISO13485认证 — 制造体系通过ISO13485医疗器械质量管理体系认证。
+一次性医疗耗材制造商 — 提供一次性医用耗材、吸入装置与流体管理产品OEM/ODM。
+d
++
+
+
+============================================================
+## https://www.dsbmedical.com/contact.html
+TITLE: 联系我们-帝斯博医疗 DSB Medical
+DESCRIPTION: 联系帝斯博医疗，获取外用导尿套、失禁护理耗材及药物递送装置CDMO报价。
+H1: 联系我们
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "Organization",
+      "@id": "https://www.dsbmedical.com/#organization",
+      "name": "帝斯博（常州）医疗用品股份有限公司",
+      "alternateName": [
+        "DSB Medical",
+        "Changzhou DSB Medical Co., Ltd."
+      ],
+      "url": "https://www.dsbmedical.com",
+      "logo": "https://www.dsbmedical.com/logo.png",
+      "description": "通过NMPA、FDA QSR、CE MDR、ISO 13485认证的医疗器械制造商，专注SMI软雾吸入器、外接导尿管、失禁护理产品及药物递送装置CDMO服务。",
+      "foundingDate": "2010",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "常州",
+        "addressRegion": "江苏",
+        "addressCountry": "CN"
+      },
+      "contactPoint": [
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-519-88363800",
+          "contactType": "customer service",
+          "availableLanguage": [
+            "Chinese",
+            "English"
+          ]
+        },
+        {
+          "@type": "ContactPoint",
+          "telephone": "+86-18651272568",
+          "contactType": "sales",
+          "availableLanguage": [
+            "Chinese",
+            "English"
+          ]
+        }
+      ],
+      "sameAs": [
+        "https://www.linkedin.com/company/dsbmedical",
+        "https://www.facebook.com/people/Changzhou-DSB-Medical-Male-External-Catheter/100083188479133",
+        "https://twitter.com/DSBMEDICAL23"
+      ],
+      "makesOffer": [
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "SMI软雾吸入器",
+            "category": "药物递送装置"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Product",
+            "name": "外用导尿套（男用外接导尿管）",
+            "category": "失禁护理"
+          }
+        },
+        {
+          "@type": "Offer",
+          "itemOffered": {
+            "@type": "Service",
+            "name": "医疗器械CDMO服务",
+            "description": "药物递送装置全周期合同开发与制造"
+          }
+        }
+      ],
+      "numberOfEmployees": {
+        "@type": "QuantitativeValue",
+        "value": "100"
+      }
+    },
+    {
+      "@type": "WebSite",
+      "@id": "https://www.dsbmedical.com/#website",
+      "url": "https://www.dsbmedical.com",
+      "name": "帝斯博医疗 DSB Medical",
+      "description": "帝斯博医疗是位于中国的医疗器械制造商，专注SMI软雾吸入器、外接导尿管、失禁护理耗材及药物递送装置CDMO服务。",
+      "inLanguage": "zh-Hans",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": {
+          "@type": "EntryPoint",
+          "urlTemplate": "https://www.dsbmedical.com/search.html?q={search_term_string}"
+        },
+        "query-input": "required name=search_term_string"
+      }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "@id": "https://www.dsbmedical.com/#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "首页",
+          "item": "https://www.dsbmedical.com/"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "联系我们",
+          "item": "https://www.dsbmedical.com/contact.html"
+        }
+      ]
+    }
+  ]
+}
+
+BODY:
+关于帝斯博     职业发展     投资者关系     合作伙伴
+
+产品和服务
+
+市场
+
+新闻与事件
+
+CDMO 解决方案
+
+联系我们
+
+语言选择
+
+联系我们
+
+联系帝斯博医疗获取产品、合作与法规支持。
+
+联系信息
+
+首页>资源>联系我们
+DSB Medical · 联系我们
+联系我们
+
+联系帝斯博医疗获取产品、合作与法规支持。
+
+联系信息
+
+常州帝斯博医疗用品股份有限公司
+
+📞
+电话
+
+0086-519-88363800
+
+📧
+邮箱
+
+service@dsbmedical.com
+sales@dsbmedical.com
+
+📍
+地址
+
+中国江苏省常州市经济开发区龙锦路355号
+
+在线留言
+
+如有更多需求，欢迎提交留言，我们会及时回复。
+
+提交留言
+
+在线留言
+
+提交消息
+ 
+© 2026 AutoNavi - GS(2019)6379号
+
+如果您有更多的需求？
+
+欢迎您的留言，我们会及时给您回复。
+
+在线留言
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+中国江苏省常州市经济开发区龙锦路355号
+
+关于
+
+发展历程
+
+公司品牌
+
+愿景、使命和价值观
+
+事实和数字
+
+公司架构
+
+质量
+
+研发
+
+法规支持
+
+健康、安全与环境
+
+治理
+
+合规与法规
+
+合作伙伴
+
+产品&服务
+
+药物输送装置
+
+失禁医疗保健
+
+一次性医用耗材
+
+生物芯片
+
+模具开发
+
+自动化开发
+
+设备加工能力
+
+包装能力
+
+服务
+
+雾化与吸入装置
+
+药物递送装置
+
+医用耗材与护理产品
+
+新闻与事件
+
+公司新闻
+
+行业信息
+
+媒体报道
+
+视频中心
+
+联系我们
+
+联系方式
+
+在线留言
+
+微信公众号
+
+0086-519-88363800
+
+0086-519-88363800
+
+service@dsbmedical.com
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+微信公众号
+
+微信公众号
+
+Copyright©2022 帝斯博（常州）医疗用品股份有限公司 All Rights Reserved. 苏ICP备19062360号-1
+
+隐私政策 |    标签 | 
+
+营业执照
+d
++
