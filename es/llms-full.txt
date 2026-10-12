@@ -2041,3 +2041,931 @@ Política de privacidad  | SEO
 Licencia de negocio
 d
 +
+
+
+============================================================
+## FAQ & NEWS (ES)
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-01-male-external-vs-indwelling.html
+TITLE: Catéter externo masculino vs. catéter de retención: Preguntas frecuentes sobre prevención de CAUTI
+DESCRIPTION: Respuestas a preguntas frecuentes sobre catéteres externos masculinos (tipo condón) frente a catéteres de retención: riesgo de CAUTI, tamaños, materiales y cuidados para equipos de control de infecciones.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué es un catéter externo masculino (de condón)?","acceptedAnswer":{"@type":"Answer","text":"Un catéter externo masculino (de condón) es un dispositivo no invasivo de recolección de orina que se coloca sobre el pene y drena la orina hacia una bolsa. No entra en la vejiga."}},{"@type":"Question","name":"¿Cuál es la diferencia entre un catéter externo y un catéter permanente (Foley)?","acceptedAnswer":{"@type":"Answer","text":"Un catéter permanente (Foley) permanece dentro de la vejiga y conlleva un mayor riesgo de CAUTI, especialmente con el uso prolongado. Un catéter externo (de condón) se coloca sobre el pene sin entrar en la vejiga, por lo que no es invasivo y suele asociarse con un menor riesgo de CAUTI."}},{"@type":"Question","name":"¿Qué significa CAUTI?","acceptedAnswer":{"@type":"Answer","text":"CAUTI significa infección del tracto urinario asociada a catéter, una de las infecciones asociadas a la atención sanitaria más comunes y en gran medida prevenible."}},{"@type":"Question","name":"¿Los catéteres externos son más seguros que los catéteres permanentes para el control de infecciones?","acceptedAnswer":{"@type":"Answer","text":"La guía clínica suele asociar los catéteres externos (de condón) con un menor riesgo de CAUTI que los catéteres permanentes en pacientes masculinos sin obstrucción, porque no entran en la vejiga."}},{"@type":"Question","name":"¿De qué materiales debe estar hecho un catéter externo de calidad?","acceptedAnswer":{"@type":"Answer","text":"Un catéter externo de calidad está hecho de silicona 100 % de grado médico, que es libre de látex, transpirable y suave con la piel para uso diario."}},{"@type":"Question","name":"¿Qué tamaños de catéter externo masculino están disponibles?","acceptedAnswer":{"@type":"Answer","text":"Los tamaños más comunes son 25 mm, 29 mm y 32 mm, elegidos para ajustarse a la circunferencia del pene flácido en la base del paciente para un ajuste seguro y sin fugas."}},{"@type":"Question","name":"¿Por qué es importante un tamaño adecuado de un catéter de condón?","acceptedAnswer":{"@type":"Answer","text":"Si el catéter es demasiado pequeño, puede restringir el flujo e irritar la piel; si es demasiado grande, puede tener fugas o desprenderse. Un tamaño correcto favorece la comodidad y los objetivos de control de infecciones."}},{"@type":"Question","name":"¿Es DSB Medical una instalación registrada ante la FDA?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. fabrica catéteres externos de silicona de grado médico con registro de establecimiento ante la FDA (US FDA 3008850249), un sistema de gestión de calidad ISO 13485 y marcado CE en líneas de productos aplicables."}},{"@type":"Question","name":"¿Cómo pueden los equipos de atención reducir el riesgo de CAUTI?","acceptedAnswer":{"@type":"Answer","text":"Los equipos de atención pueden reducir el riesgo de CAUTI minimizando los días innecesarios con catéter, eligiendo el dispositivo apropiado menos invasivo, ajustando el tamaño correctamente, inspeccionando y cambiando el dispositivo según un programa, y capacitando al personal sobre la aplicación."}}]}
+
+BODY:
+Inicio>Recursos>Catéter externo vs. catéter interno (guía CAUTI)
+Catéter externo masculino vs. catéter de retención: Preguntas frecuentes para equipos de atención
+
+Respuestas prácticas sobre prevención de CAUTI, tallas, materiales y cuidados al elegir entre catéteres externos masculinos (condón) y catéteres de retención.
+
+¿Qué es un catéter externo masculino (condón)?
+
+Un catéter externo masculino (condón) es un dispositivo de recolección de orina no invasivo que se ajusta sobre el pene y drena la orina a una bolsa. No entra en la vejiga.
+
+¿Cuál es la diferencia entre un catéter externo y un catéter de retención (Foley)?
+
+Un catéter de retención (Foley) permanece dentro de la vejiga y conlleva un mayor riesgo de CAUTI, especialmente con el uso prolongado. Un catéter externo (condón) se ajusta sobre el pene sin entrar en la vejiga, por lo que es no invasivo y suele asociarse a un menor riesgo de CAUTI.
+
+¿Qué significa CAUTI?
+
+CAUTI significa infección del tracto urinario asociada a catéter, una de las infecciones asociadas a la atención médica más comunes y en gran medida prevenible.
+
+¿Son los catéteres externos más seguros que los catéteres de retención?
+
+La guía clínica suele asociar los catéteres externos (condón) con un menor riesgo de CAUTI que los catéteres de retención en pacientes masculinos sin obstrucción.
+
+¿Qué materiales debe utilizar un catéter externo de calidad?
+
+100% silicona de grado médico — sin látex, transpirable y suave con la piel para uso diario.
+
+¿Qué tallas están disponibles?
+
+25 mm, 29 mm y 32 mm — elegidos para ajustarse a la circunferencia del pene flácido en la base para un ajuste seguro y sin fugas.
+
+¿Por qué es importante una talla adecuada?
+
+Una talla demasiado pequeña restringe el flujo e irrita la piel; una demasiado grande provoca fugas o se desliza. La talla correcta favorece la comodidad y el control de infecciones.
+
+¿Está DSB Medical registrado ante la FDA?
+
+Sí. Changzhou DSB Medical Co., Ltd. fabrica catéteres externos de silicona en una instalación registrada ante la FDA (US FDA 3008850249) bajo la ISO 13485 y con marcado CE en las líneas aplicables.
+
+¿Cómo pueden los equipos de atención reducir el riesgo de CAUTI?
+
+Minimizar los días de catéter innecesarios, elegir el dispositivo adecuado menos invasivo, seleccionar la talla correcta, inspeccionar y cambiar según un programa establecido, y capacitar al personal.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) fabrica catéteres externos de silicona de grado médico con FDA 3008850249, ISO 13485 y marcado CE. Más información: Catéter externo masculino (condón).
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-02-condom-catheter-sizing.html
+TITLE: Cómo elegir la talla del catéter de condón: 25mm, 29mm, 32mm FAQ
+DESCRIPTION: Respuestas a preguntas frecuentes sobre el tallaje del catéter de condón (externo masculino): cómo medir, 25 mm vs 29 mm vs 32 mm, cuándo cambiar de talla y consejos sobre materiales para un ajuste seguro y sin fugas.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Por qué es tan importante la talla del catéter de condón?","acceptedAnswer":{"@type":"Answer","text":"La talla correcta es el factor más importante para la comodidad, el ajuste fiable y la prevención de fugas o irritación de la piel. Si el catéter es demasiado pequeño puede restringir el flujo e irritar la piel; si es demasiado grande puede tener fugas o deslizarse. Un ajuste seguro y seco también favorece los objetivos de control de infecciones al reducir el riesgo de daño cutáneo."}},{"@type":"Question","name":"¿Qué tallas de catéter de condón (externo masculino) están disponibles?","acceptedAnswer":{"@type":"Answer","text":"Las tallas más comunes son 25 mm, 29 mm y 32 mm. Como referencia general: 25 mm se adapta a una circunferencia más pequeña/estrecha, 29 mm se adapta a una circunferencia estándar/media para la mayoría de los hombres adultos, y 32 mm se adapta a una circunferencia mayor. Siga siempre las instrucciones de medición del fabricante y la evaluación del médico."}},{"@type":"Question","name":"¿Cómo mido para un catéter de condón?","acceptedAnswer":{"@type":"Answer","text":"Mida en la base del pene en estado flácido con una cinta métrica flexible, no con una regla metálica. Registre la circunferencia en el punto más ancho cerca de la base, compárela con la tabla de tallas y elija la talla que se ajuste sin quedar apretada. Vuelva a medir en el seguimiento, porque la talla puede cambiar con el peso, los medicamentos o el edema."}},{"@type":"Question","name":"¿Cuándo debo re-evaluar la talla de un catéter de condón?","acceptedAnswer":{"@type":"Answer","text":"Re-evalúe la talla si nota fugas, que el dispositivo se deslice, marcas rojas o irritación, o si cambian el peso o los medicamentos del paciente. La talla debe revisarse periódicamente durante el seguimiento de rutina."}},{"@type":"Question","name":"¿Qué material debe usar un catéter de condón cómodo?","acceptedAnswer":{"@type":"Answer","text":"Un catéter de condón de alta calidad está hecho de silicona 100% de grado médico, que es libre de látex y transpirable para mayor comodidad durante todo el día. Un recubrimiento interior autoadhesivo ayuda a que el dispositivo permanezca seguro sin correas voluminosas, y el material transparente permite a los cuidadores revisar el estado de la piel sin retirarlo."}},{"@type":"Question","name":"¿Cuáles son las consecuencias de elegir la talla incorrecta del catéter de condón?","acceptedAnswer":{"@type":"Answer","text":"Un catéter demasiado pequeño puede restringir el flujo e irritar la piel, mientras que uno demasiado grande puede tener fugas o deslizarse. Ambos afectan la comodidad, la dignidad y la prevención de infecciones, por lo que la talla correcta se describe como un pequeño paso con beneficios descomunales."}},{"@type":"Question","name":"¿Es DSB Medical una instalación registrada en la FDA para catéteres de condón?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. ofrece catéteres externos masculinos en 25 mm, 29 mm y 32 mm, con un diseño de silicona 100% de grado médico y libre de látex, fabricados en una instalación registrada en la FDA (3008850249) bajo un sistema de gestión de calidad ISO 13485."}}]}
+
+BODY:
+Inicio>Recursos>Tallas de catéter de condón: 25/29/32 mm
+Cómo elegir el tamaño correcto del catéter de condón: 25mm / 29mm / 32mm — Preguntas frecuentes
+
+Respuestas prácticas sobre el tamaño de los catéteres de condón (externos masculinos), la medición, los materiales y cuándo cambiar de tamaño, para profesionales de la salud, pacientes y cuidadores.
+
+¿Por qué es tan importante el tamaño del catéter de condón?
+
+El tamaño correcto es el factor más importante para la comodidad, un ajuste fiable y la prevención de fugas o irritación de la piel. Si el catéter es demasiado pequeño, puede restringir el flujo e irritar la piel; si es demasiado grande, puede tener fugas o deslizarse. Un ajuste seguro y seco también favorece los objetivos de control de infecciones al reducir el riesgo de deterioro de la piel.
+
+¿Qué tamaños de catéter de condón (externo masculino) están disponibles?
+
+Los tamaños más comunes son 25 mm, 29 mm y 32 mm. Como referencia clínica general: 25 mm se adapta a una circunferencia más pequeña/estrecha; 29 mm, a una circunferencia estándar/media para la mayoría de los hombres adultos; y 32 mm, a una circunferencia más grande. Siga siempre las instrucciones de medición del fabricante y la evaluación del profesional de la salud.
+
+¿Cómo tomar las medidas para un catéter de condón?
+
+Mida en la base del pene en estado de flacidez con una cinta métrica flexible, no con una regla metálica. Registre la circunferencia en el punto más ancho cerca de la base, compárela con la tabla de tallas y elija la talla que se ajuste sin quedar apretada. Vuelva a medir en el seguimiento, ya que la talla puede cambiar con el peso, la medicación o el edema.
+
+¿Cuándo debo cambiar el tamaño de un catéter de condón?
+
+Vuelva a evaluar el tamaño si nota fugas, deslizamiento del dispositivo, marcas rojas o irritación, o si cambian el peso o la medicación del paciente. El tamaño debe revisarse periódicamente como parte de la atención de seguimiento de rutina.
+
+¿Qué material debe utilizar un catéter de condón cómodo?
+
+Un catéter de condón de alta calidad está fabricado con silicona 100% de grado médico, que no contiene látex y es transpirable para ofrecer comodidad durante todo el día. Un recubrimiento interior autoadhesivo ayuda a que el dispositivo se mantenga seguro sin correas voluminosas, y el material transparente permite a los cuidadores revisar el estado de la piel sin retirarlo.
+
+¿Cuáles son las consecuencias de elegir el tamaño incorrecto del catéter de condón?
+
+Un catéter demasiado pequeño puede restringir el flujo e irritar la piel, mientras que uno demasiado grande puede tener fugas o deslizarse. Ambos comprometen la comodidad, la dignidad y la prevención de infecciones, por lo que el tamaño correcto se describe como un pequeño paso que ofrece enormes beneficios.
+
+¿Es DSB Medical una instalación registrada en la FDA para catéteres de condón?
+
+Sí. Changzhou DSB Medical Co., Ltd. ofrece catéteres externos masculinos en 25 mm, 29 mm y 32 mm, con un diseño de silicona 100% de grado médico, sin látex, fabricados en una instalación registrada en la FDA (3008850249) bajo un sistema de gestión de calidad ISO 13485.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) fabrica catéteres externos masculinos de silicona 100% de grado médico, sin látex, con registro FDA 3008850249, ISO 13485 y marcado CE en las líneas aplicables. Consulte la guía completa: Cómo medir un catéter de condón — Guía de DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html
+TITLE: Silicona libre de látex vs. catéteres de látex: preguntas frecuentes sobre control de infecciones
+DESCRIPTION: Respuestas a preguntas frecuentes sobre la silicona libre de látex vs. los catéteres masculinos de látex: riesgos de alergia al látex, beneficios de la silicona hidroxi de grado médico, transpirabilidad y una lista de verificación para el control de infecciones.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cuál es la diferencia entre catéteres externos masculinos de látex y silicona?","acceptedAnswer":{"@type":"Answer","text":"El látex es un material clásico que es flexible, familiar y ampliamente disponible, pero las proteínas del látex pueden desencadenar hipersensibilidad de tipo I en pacientes sensibilizados y trabajadores sanitarios, y el látex se degrada con ciertos lubricantes. La silicona es una alternativa moderna que es biocompatible, libre de látex y transpirable, suave con la piel para un uso prolongado, estable con la mayoría de los lubricantes y transparente para que la piel pueda inspeccionarse sin retirarla."}},{"@type":"Question","name":"¿Por qué elegir un catéter externo masculino sin látex?","acceptedAnswer":{"@type":"Answer","text":"La alergia al látex es una preocupación real de seguridad del paciente. La exposición repetida a las proteínas del látex es la principal causa de alergia al látex en el ámbito sanitario, afectando tanto a pacientes como a trabajadores sanitarios. Un dispositivo sin látex es la opción más segura para cualquier persona con sensibilidad al látex confirmada o sospechada."}},{"@type":"Question","name":"¿Qué significa silicona 100% de grado médico?","acceptedAnswer":{"@type":"Answer","text":"Grado médico se refiere a un material con biocompatibilidad y fabricabilidad documentadas para el contacto con el cuerpo. En la práctica, los catéteres externos de silicona 100% de grado médico ofrecen una formulación sin látex para pacientes alérgicos, transpirabilidad que favorece una piel sana durante el uso diario y un recubrimiento interno autoadhesivo para un ajuste seguro sin correas voluminosas."}},{"@type":"Question","name":"¿Cuáles son las ventajas de los catéteres de látex frente a los de silicona?","acceptedAnswer":{"@type":"Answer","text":"Las ventajas del látex son su flexibilidad, familiaridad y amplia disponibilidad; sus riesgos son posibles reacciones de hipersensibilidad y degradación con ciertos lubricantes. Las ventajas de la silicona son biocompatibilidad, uso sin látex y transpirable, estabilidad con la mayoría de los lubricantes y transparencia para la inspección de la piel; una consideración es un costo de material generalmente más alto pero menor riesgo alérgico."}},{"@type":"Question","name":"¿Qué debe comprobar un equipo de control de infecciones antes de seleccionar un catéter externo masculino?","acceptedAnswer":{"@type":"Answer","text":"Confirmar que el dispositivo esté libre de látex si algún paciente o miembro del personal tiene sensibilidad al látex, preferir diseños autoadhesivos transpirables para reducir el deterioro de la piel, documentar el material y el lote del producto para la trazabilidad, y capacitar al personal sobre la diferencia entre el cuidado de los dispositivos de látex y silicona."}},{"@type":"Question","name":"¿Es DSB Medical una instalación registrada ante la FDA para catéteres de silicona?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. fabrica catéteres externos de silicona 100% de grado médico, sin látex, en una instalación registrada ante la FDA (Registro de Establecimiento FDA de EE.UU. 3008850249) bajo un sistema de gestión de calidad ISO 13485, con marcado CE en las líneas de productos correspondientes."}}]}
+
+BODY:
+Inicio>Recursos>Catéteres de silicona sin látex vs. látex
+Catéteres masculinos de silicona sin látex vs. látex: Preguntas frecuentes para equipos de control de infecciones
+
+Respuestas prácticas sobre catéteres externos masculinos de látex vs. silicona, riesgos de alergia al látex, silicona de grado médico 100% y una lista de verificación para el control de infecciones.
+
+¿Cuál es la diferencia entre los catéteres externos masculinos de látex y de silicona?
+
+El látex es un material clásico, flexible, conocido y ampliamente disponible, pero las proteínas del látex pueden desencadenar hipersensibilidad de tipo I en pacientes sensibilizados y en el personal sanitario, y el látex se degrada con ciertos lubricantes. La silicona es una alternativa moderna biocompatible, libre de látex y transpirable, suave con la piel para un uso prolongado, estable con la mayoría de los lubricantes y transparente, de modo que la piel puede inspeccionarse sin retirar el dispositivo.
+
+¿Por qué elegir un catéter externo masculino sin látex?
+
+La alergia al látex es una preocupación real para la seguridad del paciente. La exposición repetida a las proteínas del látex es la principal causa de alergia al látex en el ámbito sanitario, y afecta tanto a pacientes como al personal sanitario. Un dispositivo sin látex es la opción más segura para cualquier persona con sensibilidad al látex confirmada o sospechada.
+
+¿Qué significa silicona de grado médico 100%?
+
+El grado médico se refiere a un material con biocompatibilidad y fabricabilidad documentadas para el contacto con el cuerpo. En la práctica, los catéteres externos de silicona de grado médico 100% ofrecen una formulación libre de látex para pacientes alérgicos, transpirabilidad que favorece una piel sana durante el uso diario y un recubrimiento interior autoadhesivo para un ajuste seguro sin correas voluminosas.
+
+¿Cuáles son las ventajas de los catéteres de látex vs. los de silicona?
+
+Las ventajas del látex son su flexibilidad, su familiaridad y su amplia disponibilidad; sus riesgos son posibles reacciones de hipersensibilidad y degradación con ciertos lubricantes. Las ventajas de la silicona son su biocompatibilidad, su uso libre de látex y transpirable, su estabilidad con la mayoría de los lubricantes y su transparencia para la inspección de la piel; una consideración es el costo de material generalmente más alto, pero con menor riesgo alérgico.
+
+¿Qué debe verificar un equipo de control de infecciones antes de seleccionar un catéter externo masculino?
+
+Confirmar que el dispositivo esté libre de látex si algún paciente o miembro del personal tiene sensibilidad al látex, preferir diseños autoadhesivos y transpirables para reducir el deterioro de la piel, documentar el material y el lote del producto para la trazabilidad, y capacitar al personal sobre la diferencia en el cuidado de los dispositivos de látex y de silicona.
+
+¿Es DSB Medical una instalación registrada ante la FDA para catéteres de silicona?
+
+Sí. Changzhou DSB Medical Co., Ltd. fabrica catéteres externos de silicona de grado médico 100% y libres de látex en una instalación registrada ante la FDA (Registro de Establecimiento de la FDA de EE. UU. 3008850249) bajo un sistema de gestión de calidad ISO 13485, con marcado CE en las líneas de productos aplicables.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) fabrica catéteres externos de silicona de grado médico 100% y libres de látex con FDA 3008850249, ISO 13485 y marcado CE. Obtenga más información: Catéter externo masculino (catéter de condón).
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-04-reduce-cauti-5-ways.html
+TITLE: 5 formas de reducir las CAUTI en cuidados de largo plazo: Preguntas frecuentes
+DESCRIPTION: Respuestas a preguntas comunes sobre cómo reducir las infecciones del tracto urinario asociadas a catéteres (CAUTI) en centros de cuidados de largo plazo: minimizar los días de cateterización, catéteres externos, protocolos, capacitación y materiales.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué significa CAUTI y por qué es importante en el cuidado a largo plazo?","acceptedAnswer":{"@type":"Answer","text":"CAUTI significa infección del tracto urinario asociada a sonda, un desafío persistente en el cuidado a largo plazo y una infección en gran medida prevenible que continúa recibiendo atención regulatoria y de investigación."}},{"@type":"Question","name":"¿Cuál es el predictor más fuerte de CAUTI?","acceptedAnswer":{"@type":"Answer","text":"El predictor más fuerte de CAUTI es la duración del catéter permanente. Los centros deben evaluar a cada paciente para determinar si un catéter permanente es realmente necesario y retirarlo tan pronto como ya no esté indicado."}},{"@type":"Question","name":"¿Cuándo se deben considerar los catéteres externos (de condón) para reducir la CAUTI?","acceptedAnswer":{"@type":"Answer","text":"Para pacientes masculinos sin obstrucción, los catéteres externos (de condón) generalmente se asocian con un menor riesgo de CAUTI que los catéteres permanentes. Son no invasivos y favorecen la transición desde los dispositivos permanentes que conllevan un mayor riesgo de infección."}},{"@type":"Question","name":"¿Cuáles son las 5 formas de reducir la CAUTI en los centros de cuidado a largo plazo?","acceptedAnswer":{"@type":"Answer","text":"Las cinco estrategias son: 1) ajustar correctamente y minimizar los días de catéter; 2) considerar catéteres externos (de condón) cuando sea apropiado; 3) estandarizar los protocolos de inserción y cuidado; 4) capacitar al personal y medir los resultados; y 5) elegir materiales que protejan la piel y favorezcan el cumplimiento."}},{"@type":"Question","name":"¿Cómo ayuda la capacitación del personal a reducir la CAUTI?","acceptedAnswer":{"@type":"Answer","text":"La educación continua sobre la selección, el tamaño y el cuidado del dispositivo, junto con el seguimiento rutinario de los días de catéter y las tasas de infección, crea el ciclo de responsabilidad necesario para una mejora sostenida."}},{"@type":"Question","name":"¿Qué materiales ayudan a proteger la piel y reducen el riesgo de infección?","acceptedAnswer":{"@type":"Answer","text":"Un dispositivo seguro, transpirable y sin látex mantiene la piel seca y reduce la irritación, disminuyendo el riesgo de ruptura de la piel que puede provocar una infección secundaria."}},{"@type":"Question","name":"¿Es DSB Medical un proveedor registrado ante la FDA para centros de cuidado a largo plazo?","acceptedAnswer":{"@type":"Answer","text":"Sí. DSB Medical (Changzhou DSB Medical Co., Ltd.) suministra catéteres externos masculinos y consumibles para incontinencia desde una instalación registrada ante la FDA (3008850249) bajo ISO 13485 y marcado CE en las líneas correspondientes."}}]}
+
+BODY:
+Inicio>Recursos>5 formas de reducir CAUTI en cuidados a largo plazo
+5 formas de reducir las infecciones del tracto urinario asociadas a sondas (CAUTI) en centros de cuidados a largo plazo — Preguntas frecuentes
+
+Respuestas prácticas sobre la reducción de CAUTI en cuidados a largo plazo: minimizar los días de sondaje, las sondas externas, los protocolos estandarizados, la capacitación del personal y los materiales que protegen la piel.
+
+¿Qué significa CAUTI y por qué es importante en los cuidados a largo plazo?
+
+CAUTI significa infección del tracto urinario asociada a sonda, un desafío persistente en los cuidados a largo plazo y una infección en gran medida prevenible que sigue recibiendo atención regulatoria y de investigación.
+
+¿Cuál es el predictor más fuerte de CAUTI?
+
+El predictor más fuerte de CAUTI es la duración del sondaje permanente. Los centros deben evaluar en cada paciente si una sonda permanente es realmente necesaria y retirarla en cuanto deje de estar indicada.
+
+¿Cuándo se deben considerar las sondas externas (de condón) para reducir la CAUTI?
+
+En pacientes masculinos sin obstrucción, las sondas externas (de condón) generalmente se asocian con un menor riesgo de CAUTI que las sondas permanentes. Son no invasivas y facilitan la transición desde los dispositivos permanentes que conllevan un mayor riesgo de infección.
+
+¿Cuáles son las 5 formas de reducir la CAUTI en centros de cuidados a largo plazo?
+
+Las cinco estrategias son: 1) ajustar correctamente y minimizar los días de sondaje; 2) considerar las sondas externas (de condón) cuando sea apropiado; 3) estandarizar los protocolos de inserción y cuidado; 4) capacitar al personal y medir los resultados; y 5) elegir materiales que protejan la piel y favorezcan el cumplimiento.
+
+¿Cómo ayuda la capacitación del personal a reducir la CAUTI?
+
+La educación continua sobre la selección de dispositivos, el tamaño y el cuidado, junto con el seguimiento sistemático de los días de sondaje y las tasas de infección, crea el bucle de responsabilidad necesario para una mejora sostenida.
+
+¿Qué materiales ayudan a proteger la piel y reducir el riesgo de infección?
+
+Un dispositivo seguro, transpirable y sin látex mantiene la piel seca y reduce la irritación, disminuyendo el riesgo de deterioro de la piel que puede provocar una infección secundaria.
+
+¿Es DSB Medical un proveedor registrado ante la FDA para centros de cuidados a largo plazo?
+
+Sí. DSB Medical (Changzhou DSB Medical Co., Ltd.) suministra sondas externas masculinas y consumibles para incontinencia desde una instalación registrada ante la FDA (3008850249) bajo la norma ISO 13485 y el marcado CE en las líneas correspondientes.
+
+Nota del fabricante: DSB Medical (Changzhou DSB Medical Co., Ltd.) suministra sondas externas masculinas y consumibles para incontinencia desde una instalación registrada ante la FDA (3008850249) bajo la norma ISO 13485 y el marcado CE en las líneas correspondientes. Consulte nuestra información de calidad y cumplimiento de DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-05-china-medical-device-quality.html
+TITLE: Calidad de los dispositivos médicos de China: preguntas frecuentes sobre FDA, ISO 13485 y CE MDR
+DESCRIPTION: Respuestas a preguntas frecuentes sobre la calidad de los dispositivos médicos de China para compradores globales: registro de establecimiento FDA, gestión de calidad ISO 13485, marcado CE bajo el MDR y una lista de verificación de diligencia debida.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué deben buscar los compradores globales al adquirir dispositivos médicos de China?","acceptedAnswer":{"@type":"Answer","text":"Los compradores deben buscar una base regulatoria documentada y actual: registro de establecimiento y listado de dispositivos ante la FDA para el mercado de EE. UU., un sistema de gestión de calidad ISO 13485 y marcado CE según el Reglamento de Dispositivos Médicos (MDR) cuando corresponda, con un alcance de certificación que coincida con el producto específico."}},{"@type":"Question","name":"¿Qué es el registro de establecimiento y el listado de dispositivos ante la FDA?","acceptedAnswer":{"@type":"Answer","text":"Los fabricantes que venden en EE. UU. deben registrar su establecimiento ante la FDA de EE. UU. y listar sus dispositivos. Un número de registro de establecimiento ante la FDA proporciona una base verificable de que la instalación es conocida por la FDA y está sujeta a la jurisdicción regulatoria de EE. UU. Por ejemplo, Changzhou DSB Medical Co., Ltd. posee el registro de establecimiento ante la FDA 3008850249."}},{"@type":"Question","name":"¿Qué es ISO 13485 y por qué es importante?","acceptedAnswer":{"@type":"Answer","text":"ISO 13485 es el estándar internacional para sistemas de gestión de calidad específicos para dispositivos médicos. La certificación demuestra que un fabricante cuenta con un sistema documentado y auditado que cubre diseño, producción, gestión de riesgos y procesos posteriores a la comercialización. Se considera ampliamente una base requerida para proveedores serios de dispositivos."}},{"@type":"Question","name":"¿Qué es el marcado CE según el Reglamento de Dispositivos Médicos (MDR)?","acceptedAnswer":{"@type":"Answer","text":"Para el mercado europeo, los dispositivos requieren marcado CE según el Reglamento de Dispositivos Médicos (MDR) de acuerdo con la clasificación y el alcance aplicables. Los compradores deben confirmar que el alcance de la certificación coincida con el producto específico que pretenden comprar."}},{"@type":"Question","name":"¿Cuál es una lista de verificación práctica de diligencia debida para comprar a un fabricante chino de dispositivos médicos?","acceptedAnswer":{"@type":"Answer","text":"Verifique el registro de establecimiento ante la FDA y cualquier listado de dispositivos en bases de datos públicas, solicite el certificado ISO 13485 y confirme su alcance, confirme el alcance del marcado CE para el mercado europeo, y solicite registros de lotes, certificados de materias primas y validación de esterilización."}},{"@type":"Question","name":"¿Puede un fabricante con sede en China cumplir con las expectativas globales de calidad?","acceptedAnswer":{"@type":"Answer","text":"Sí. Un fabricante con sede en China con registro ante la FDA, ISO 13485 y un marcado CE adecuado puede cumplir con las expectativas globales de calidad cuando la documentación es real, actual y está limitada al producto que se pretende comprar. Los compradores siempre deben verificar el estado regulatorio actual de un fabricante directamente con las autoridades pertinentes de su mercado."}}]}
+
+BODY:
+Inicio>Recursos>Calidad de dispositivos médicos en China: FDA/ISO 13485/CE
+Cómo China garantiza la calidad de los dispositivos médicos: FDA, ISO 13485 & CE MDR para compradores globales — FAQ
+
+Respuestas prácticas sobre el marco regulatorio y las certificaciones que los compradores globales deben buscar al adquirir dispositivos médicos de China.
+
+¿Qué deben buscar los compradores globales al adquirir dispositivos médicos de China?
+
+Los compradores deben buscar una base regulatoria documentada y actualizada: registro de establecimiento ante la FDA y listado de dispositivos para el mercado estadounidense, un sistema de gestión de calidad ISO 13485 y el marcado CE según el Reglamento de Productos Sanitarios (MDR) cuando corresponda, con un alcance de certificación que coincida con el producto específico.
+
+¿Qué es el registro de establecimiento de la FDA y el listado de dispositivos?
+
+Los fabricantes que venden en los EE. UU. deben registrar su establecimiento ante la FDA de EE. UU. y listar sus dispositivos. Un número de Registro de Establecimiento ante la FDA proporciona una base verificable de que la instalación es conocida por la FDA y está sujeta a la jurisdicción regulatoria de EE. UU. Por ejemplo, Changzhou DSB Medical Co., Ltd. posee el Registro de Establecimiento ante la FDA n.º 3008850249.
+
+¿Qué es la ISO 13485 y por qué es importante?
+
+La norma ISO 13485 es el estándar internacional para sistemas de gestión de calidad específicos de dispositivos médicos. La certificación demuestra que un fabricante cuenta con un sistema documentado y auditado que cubre el diseño, la producción, la gestión de riesgos y los procesos posteriores a la comercialización. Se considera ampliamente una base necesaria para proveedores serios de dispositivos.
+
+¿Qué es el marcado CE según el Reglamento de Productos Sanitarios (MDR)?
+
+Para el mercado europeo, los dispositivos requieren el marcado CE según el Reglamento de Productos Sanitarios (MDR), de acuerdo con la clasificación y el alcance aplicables. Los compradores deben confirmar que el alcance de la certificación coincide con el producto específico que pretenden comprar.
+
+¿Qué es una lista de verificación práctica de diligencia debida para comprar a un fabricante chino de dispositivos médicos?
+
+Verifique el registro de establecimiento ante la FDA y cualquier listado de dispositivos en bases de datos públicas, solicite el certificado ISO 13485 y confirme su alcance, confirme el alcance del marcado CE para el mercado europeo y pida registros de lotes, certificados de materias primas y validación de esterilización.
+
+¿Puede un fabricante con sede en China cumplir con las expectativas globales de calidad?
+
+Sí. Un fabricante con sede en China con registro ante la FDA, ISO 13485 y el marcado CE adecuado puede cumplir con las expectativas globales de calidad cuando la documentación es real, actualizada y cubre el producto que se pretende comprar. Los compradores siempre deben verificar el estado regulatorio actual de un fabricante directamente con las autoridades pertinentes de su mercado.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. fabrica catéteres externos de silicona de grado médico en una instalación registrada ante la FDA (3008850249) bajo ISO 13485. Ver más: Fabricante de catéteres externos masculinos en China — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html
+TITLE: Productos para la incontinencia urinaria masculina: guía completa de preguntas frecuentes
+DESCRIPTION: Respuestas a preguntas frecuentes sobre productos para el manejo de la incontinencia urinaria masculina: compresas, catéteres externos (de condón), catéteres permanentes, cuidado de la piel y cómo elegir un dispositivo de recolección externa.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué es la incontinencia urinaria masculina y cómo se maneja?","acceptedAnswer":{"@type":"Answer","text":"La incontinencia urinaria masculina es una afección común que puede ser de esfuerzo, de urgencia o mixta. El plan de manejo adecuado depende de la causa, la gravedad y la movilidad y preferencias de la persona, y debe ser guiado por un profesional de la salud que confirme el diagnóstico."}},{"@type":"Question","name":"¿Qué tipos de productos para el manejo de la incontinencia masculina están disponibles?","acceptedAnswer":{"@type":"Answer","text":"Los productos incluyen compresas y protectores para fugas leves a moderadas, dispositivos de recolección externos (catéteres de condón) que se ajustan sobre el pene y drenan a una bolsa para flujo abundante o continuo, catéteres permanentes reservados para situaciones clínicas específicas bajo supervisión profesional, y barreras de cuidado de la piel y de humedad que protegen la integridad cutánea para el uso prolongado."}},{"@type":"Question","name":"¿Qué es un dispositivo de recolección externo (catéter de condón)?","acceptedAnswer":{"@type":"Answer","text":"Un dispositivo de recolección externo (catéter de condón) se ajusta sobre el pene y drena a una bolsa. Es no invasivo, ideal para flujo abundante o continuo, y generalmente se asocia con un menor riesgo de CAUTI que los catéteres permanentes."}},{"@type":"Question","name":"¿Cómo elijo un buen catéter externo para la incontinencia masculina?","acceptedAnswer":{"@type":"Answer","text":"Busque silicona 100% de grado médico, libre de látex y transpirable para mayor comodidad, un recubrimiento interno autoadhesivo para un ajuste seguro sin correas separadas, un tamaño correcto (por ejemplo, 25 mm / 29 mm / 32 mm) para evitar fugas e irritación, y un diseño transparente para facilitar la inspección de la piel."}},{"@type":"Question","name":"¿Cuáles son los consejos prácticos para manejar la incontinencia masculina en casa?","acceptedAnswer":{"@type":"Answer","text":"Mida correctamente y vuelva a verificar periódicamente, siga un programa regular de higiene y cambio, combine el dispositivo con bolsas de orina y productos de cuidado de la piel compatibles, y trabaje con su equipo de atención para revisar el plan con el tiempo."}},{"@type":"Question","name":"¿Cuándo se usan catéteres permanentes para la incontinencia masculina?","acceptedAnswer":{"@type":"Answer","text":"Los catéteres permanentes están reservados para situaciones clínicas específicas y solo deben usarse bajo supervisión profesional, ya que permanecen dentro de la vejiga y conllevan un mayor riesgo de CAUTI que los dispositivos de recolección externos."}},{"@type":"Question","name":"¿Es DSB Medical un productor de productos para incontinencia registrado ante la FDA?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. ofrece una gama de productos para el cuidado de la incontinencia, incluidos catéteres externos masculinos de silicona libres de látex, desde una instalación registrada ante la FDA (3008850249) bajo ISO 13485."}}]}
+
+BODY:
+Inicio>Recursos>Guía de productos para incontinencia urinaria masculina
+La guía completa de productos para el manejo de la incontinencia urinaria masculina — Preguntas frecuentes
+
+Respuestas prácticas para pacientes y cuidadores sobre tipos de productos para la incontinencia masculina, cómo elegir un catéter externo y consejos prácticos para el manejo en el hogar.
+
+¿Qué es la incontinencia urinaria masculina y cómo se maneja?
+
+La incontinencia urinaria masculina es una afección común que puede estar relacionada con el esfuerzo, la urgencia o ser mixta. El plan de manejo adecuado depende de la causa, la gravedad y la movilidad y preferencias de la persona, y debe ser guiado por un profesional de la salud que confirme el diagnóstico.
+
+¿Qué tipos de productos para el manejo de la incontinencia masculina están disponibles?
+
+Los productos incluyen protectores y compresas para fugas leves a moderadas, dispositivos de colección externa (catéteres de condón) que se colocan sobre el pene y drenan a una bolsa para flujo abundante o continuo, catéteres permanentes reservados para situaciones clínicas específicas bajo supervisión profesional, y productos para el cuidado de la piel y barreras de humedad que protegen la integridad cutánea para el uso prolongado.
+
+¿Qué es un dispositivo de colección externa (catéter de condón)?
+
+Un dispositivo de colección externa (catéter de condón) se coloca sobre el pene y drena a una bolsa. Es no invasivo, ideal para flujo abundante o continuo, y generalmente se asocia con un menor riesgo de CAUTI que los catéteres permanentes.
+
+¿Cómo elijo un buen catéter externo para la incontinencia masculina?
+
+Busque silicona 100 % de grado médico, libre de látex y transpirable para mayor comodidad, un recubrimiento interno autoadhesivo para un ajuste seguro sin correas separadas, la talla correcta (por ejemplo, 25 mm / 29 mm / 32 mm) para evitar fugas e irritación, y un diseño transparente para facilitar la inspección de la piel.
+
+¿Cuáles son los consejos prácticos para manejar la incontinencia masculina en el hogar?
+
+Elija la talla correcta y verifíquela periódicamente, siga un programa regular de higiene y cambio, combine el dispositivo con bolsas de orina y productos para el cuidado de la piel compatibles, y trabaje con su equipo de atención para revisar el plan con el tiempo.
+
+¿Cuándo se utilizan catéteres permanentes para la incontinencia masculina?
+
+Los catéteres permanentes se reservan para situaciones clínicas específicas y solo deben utilizarse bajo supervisión profesional, ya que permanecen dentro de la vejiga y conllevan un mayor riesgo de CAUTI que los dispositivos de colección externa.
+
+¿Es DSB Medical un productor de productos para la incontinencia registrado ante la FDA?
+
+Sí. Changzhou DSB Medical Co., Ltd. ofrece una gama de productos para el cuidado de la incontinencia, incluidos catéteres externos masculinos de silicona sin látex, desde una instalación registrada ante la FDA (3008850249) bajo ISO 13485.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) ofrece productos para el cuidado de la incontinencia, incluidos catéteres externos masculinos de silicona sin látex, desde una instalación registrada ante la FDA (3008850249) bajo ISO 13485. Consulte las opciones: Opciones de catéter externo masculino — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-07-oem-odm-buyers-guide.html
+TITLE: OEM vs ODM en dispositivos médicos: Guía de preguntas frecuentes para compradores en China
+DESCRIPTION: Respuestas sobre OEM vs ODM en dispositivos médicos, qué evaluar en un socio fabricante en China y un proceso de diligencia debida para compradores de dispositivos médicos de marca propia.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué es OEM en dispositivos médicos?","acceptedAnswer":{"@type":"Answer","text":"OEM (fabricación de equipo original) significa que el comprador proporciona el diseño o las especificaciones y el fabricante produce el dispositivo según dichas especificaciones."}},{"@type":"Question","name":"¿Qué es ODM en dispositivos médicos?","acceptedAnswer":{"@type":"Answer","text":"ODM (fabricación de diseño original) significa que el fabricante proporciona tanto el diseño como la producción, a menudo con etiquetado de marca privada y embalaje personalizado."}},{"@type":"Question","name":"¿Cuál es la diferencia entre OEM y ODM?","acceptedAnswer":{"@type":"Answer","text":"En OEM, usted proporciona el diseño y el fabricante lo produce según sus especificaciones. En ODM, el fabricante proporciona el diseño y la producción, normalmente con etiquetado de marca privada y embalaje personalizado. Muchas empresas de dispositivos médicos utilizan ambos, estandarizando la producción principal con OEM mientras se asocian para el desarrollo de nuevos productos."}},{"@type":"Question","name":"¿Qué debo evaluar al elegir un fabricante chino de dispositivos médicos?","acceptedAnswer":{"@type":"Answer","text":"Evalúe la base regulatoria (registro de establecimiento ante la FDA, sistema de gestión de calidad ISO 13485 y marcado CE cuando corresponda), el control de materiales con documentación de materias primas y biocompatibilidad, la capacidad de producción como moldeo, ensamblaje y esterilización, la documentación incluyendo registros de lotes y trazabilidad, y la comunicación y plazos de entrega realistas."}},{"@type":"Question","name":"¿Cómo es un proceso práctico de debida diligencia para OEM/ODM?","acceptedAnswer":{"@type":"Answer","text":"Un proceso práctico consiste en: verificar que los registros y certificados regulatorios estén vigentes y dentro del alcance; entrevistar sobre el sistema de gestión de calidad y el manejo de errores; visitar o auditar las instalaciones en persona o virtualmente; realizar un lote piloto e inspeccionar las primeras piezas; y acordar por escrito los acuerdos de calidad, el control de cambios y el manejo de la propiedad intelectual."}},{"@type":"Question","name":"¿Pueden los fabricantes con sede en China ofrecer dispositivos médicos de alta calidad?","acceptedAnswer":{"@type":"Answer","text":"Sí. China fabrica una gran parte de los dispositivos médicos del mundo, y los socios confiables pueden ofrecer alta calidad cuando la debida diligencia se realiza correctamente. El objetivo de la contratación es una relación transparente y documentada, no una decisión basada únicamente en el precio."}},{"@type":"Question","name":"¿Ofrece DSB Medical servicios de OEM/ODM?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. ofrece servicios de OEM/ODM en catéteres externos masculinos, bolsas de recolección de orina y dispositivos de administración de fármacos, desde una instalación registrada ante la FDA (US FDA 3008850249) bajo la norma ISO 13485."}},{"@type":"Question","name":"¿Qué certificaciones regulatorias debe tener un socio?","acceptedAnswer":{"@type":"Answer","text":"Busque un registro de establecimiento ante la FDA, un sistema de gestión de calidad ISO 13485 y marcado CE cuando corresponda, y confirme que estén vigentes y cubran el tipo de dispositivo que desea adquirir."}}]}
+
+BODY:
+Inicio>Recursos>Guía del comprador para fabricantes OEM/ODM en China
+OEM/ODM de dispositivos médicos: Preguntas frecuentes para comprar a un fabricante de China
+
+Respuestas prácticas sobre modelos OEM vs ODM, criterios de evaluación de socios y diligencia debida para compradores que se asocian con un fabricante contratado de dispositivos médicos en China.
+
+¿Qué es OEM en dispositivos médicos?
+
+OEM (fabricación de equipos originales) significa que el comprador proporciona el diseño o la especificación y el fabricante produce el dispositivo según esa especificación.
+
+¿Qué es ODM en dispositivos médicos?
+
+ODM (fabricación de diseño original) significa que el fabricante proporciona tanto el diseño como la producción, a menudo con etiquetado privado y empaque personalizado.
+
+¿Cuál es la diferencia entre OEM y ODM?
+
+En OEM, usted proporciona el diseño y el fabricante lo produce según su especificación. En ODM, el fabricante suministra el diseño y la producción, generalmente con etiquetado privado y empaque personalizado. Muchas empresas de dispositivos médicos utilizan ambos, estandarizando la producción principal con OEM mientras se asocian en la innovación de nuevos productos.
+
+¿Qué debería evaluar al elegir un fabricante de dispositivos médicos en China?
+
+Evalúe la base regulatoria (registro de establecimiento ante la FDA, sistema de gestión de calidad ISO 13485 y marcado CE cuando corresponda), el control de materiales con certificados de materias primas y documentación de biocompatibilidad, la capacidad de producción como moldeo, ensamblaje y esterilización, la documentación que incluya registros de lotes, trazabilidad y archivos de historial de diseño, y la comunicación con plazos de entrega realistas.
+
+¿Cómo es un proceso práctico de diligencia debida OEM/ODM?
+
+Verifique que los registros y certificados estén vigentes y dentro del alcance, entreviste sobre el sistema de gestión de calidad (QMS) y el manejo de errores, visite o audite las instalaciones en persona o virtualmente, realice un lote piloto e inspeccione los primeros artículos, y acuerde por escrito los acuerdos de calidad, el control de cambios y el manejo de la propiedad intelectual.
+
+¿Pueden los fabricantes con sede en China entregar dispositivos médicos de alta calidad?
+
+Sí. China fabrica una gran parte de los dispositivos médicos del mundo, y los socios de confianza allí pueden ofrecer alta calidad cuando la diligencia debida se realiza correctamente. El objetivo es una relación transparente y documentada, no una decisión basada únicamente en el precio.
+
+¿DSB Medical ofrece servicios OEM/ODM?
+
+Sí. Changzhou DSB Medical Co., Ltd. ofrece OEM/ODM en catéteres externos masculinos, bolsas recolectoras de orina y dispositivos de administración de fármacos, desde una instalación registrada ante la FDA (US FDA 3008850249) bajo ISO 13485.
+
+¿Qué certificaciones regulatorias debería tener un socio?
+
+Busque un registro de establecimiento ante la FDA, un sistema de gestión de calidad ISO 13485 y marcado CE cuando corresponda, y confirme que estén vigentes y dentro del alcance del tipo de dispositivo que tiene previsto adquirir.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) ofrece OEM/ODM para catéteres externos masculinos, bolsas recolectoras de orina y dispositivos de administración de fármacos, desde una instalación registrada ante la FDA (US FDA 3008850249) bajo ISO 13485, con marcado CE en las líneas correspondientes. Conozca cómo asociarse: OEM/ODM de dispositivos médicos en China — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-08-external-catheter-care.html
+TITLE: Mejores prácticas para el cuidado del catéter externo: Preguntas frecuentes sobre la salud de la piel | DSB Medical
+DESCRIPTION: Respuestas a preguntas comunes sobre el cuidado del catéter externo (condón): inspección diaria, tamaño adecuado, higiene y horarios de cambio, y materiales amigables con la piel.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Con qué frecuencia debo inspeccionar la piel debajo de un catéter externo?","acceptedAnswer":{"@type":"Answer","text":"Revise la piel debajo y alrededor del dispositivo diariamente para detectar enrojecimiento, irritación o deterioro. Un dispositivo transparente permite esta inspección sin necesidad de retirarlo por completo."}},{"@type":"Question","name":"¿Qué importancia tiene la talla correcta de un catéter de condón?","acceptedAnswer":{"@type":"Answer","text":"La talla correcta es importante para la comodidad y la salud de la piel. Los tamaños comunes son 25 mm, 29 mm y 32 mm. Vuelva a comprobar el ajuste periódicamente, ya que las fugas o el deslizamiento indican una talla incorrecta. Un ajuste adecuado es seguro pero no apretado, sin restricción del flujo ni marcas profundas."}},{"@type":"Question","name":"¿Qué rutina de higiene y cambio debo seguir para un catéter externo?","acceptedAnswer":{"@type":"Answer","text":"Siga una rutina de cambio regular según las indicaciones del fabricante y del centro. Limpie y seque bien la piel antes de cada aplicación, y use un dispositivo nuevo en cada cambio en lugar de reutilizarlo."}},{"@type":"Question","name":"¿Qué materiales son más suaves para la piel sensible en catéteres externos?","acceptedAnswer":{"@type":"Answer","text":"Prefiera silicona sin látex, 100 % de grado médico, para piel sensible. Un recubrimiento interno autoadhesivo ayuda a lograr un ajuste seguro y reduce la necesidad de tiras adhesivas separadas que pueden irritar la piel. Las barreras de humedad y los productos para el cuidado de la piel también pueden ayudar en el uso prolongado."}},{"@type":"Question","name":"¿Cuándo debo cambiar de talla o intensificar los cuidados?","acceptedAnswer":{"@type":"Answer","text":"Cambie de talla o intensifique los cuidados si observa enrojecimiento persistente, dolor o ampollas; deslizamiento o fugas del dispositivo que no se resuelven al volver a aplicarlo; o cambios de peso, medicación o edema que afecten el ajuste."}},{"@type":"Question","name":"¿Por qué es importante el cuidado rutinario del catéter externo?","acceptedAnswer":{"@type":"Answer","text":"El cuidado adecuado protege la salud de la piel, mejora la comodidad y favorece una experiencia positiva para el paciente. Es una rutina constante de pasos pequeños y cuidadosos que protegen la comodidad, la dignidad y la salud de la piel."}},{"@type":"Question","name":"¿DSB Medical fabrica catéteres externos respetuosos con la piel?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. ofrece catéteres externos masculinos de silicona sin látex diseñados para un cuidado respetuoso con la piel, fabricados en una instalación registrada en la FDA (US FDA 3008850249) bajo la norma ISO 13485."}}]}
+
+BODY:
+Inicio>Recursos>Cuidado del catéter externo y salud de la piel
+Mejores prácticas para el cuidado de catéteres externos: preguntas frecuentes sobre salud y comodidad de la piel
+
+Respuestas sobre inspección diaria, tamaño correcto, higiene y horarios de cambio, y materiales respetuosos con la piel para el cuidado de catéteres externos (condón).
+
+¿Con qué frecuencia debo inspeccionar la piel debajo de un catéter externo?
+
+Revise la piel debajo y alrededor del dispositivo diariamente para detectar enrojecimiento, irritación o lesiones. Un dispositivo transparente permite esta inspección sin necesidad de retirarlo por completo.
+
+¿Qué importancia tiene el tamaño correcto de un catéter de condón?
+
+El tamaño correcto es importante para la comodidad y la salud de la piel. Los tamaños comunes son 25 mm, 29 mm y 32 mm, y el ajuste debe revaluarse periódicamente porque las fugas o el deslizamiento indican un tamaño incorrecto. El ajuste correcto es seguro pero no apretado, sin restricción del flujo ni marcas profundas.
+
+¿Qué rutina de higiene y cambio debo seguir?
+
+Siga una rutina de cambio regular según las instrucciones del fabricante y del centro. Seque y limpie bien la piel antes de cada aplicación y use un dispositivo nuevo en cada cambio, no lo reutilice.
+
+¿Qué materiales son más suaves para la piel sensible?
+
+Prefiera silicona 100% de grado médico y libre de látex. Un recubrimiento interior autoadhesivo ayuda a lograr un ajuste seguro y reduce la necesidad de tiras adhesivas separadas que pueden irritar la piel. Las barreras de humedad y los productos para el cuidado de la piel favorecen el uso prolongado.
+
+¿Cuándo debo cambiar de talla o intensificar los cuidados?
+
+Cambie de talla o intensifique los cuidados si hay enrojecimiento, dolor o ampollas persistentes; si el dispositivo se desliza o presenta fugas que no se resuelven al volver a colocarlo; o si hay un cambio de peso, medicación o edema que afecte el ajuste.
+
+¿Por qué es importante el cuidado rutinario del catéter externo?
+
+El cuidado adecuado protege la salud de la piel, mejora la comodidad y favorece una experiencia positiva para el paciente. Es una rutina constante de pasos pequeños y cuidadosos que protegen la comodidad, la dignidad y la salud de la piel.
+
+¿DSB Medical fabrica catéteres externos respetuosos con la piel?
+
+Sí. Changzhou DSB Medical Co., Ltd. ofrece catéteres externos masculinos de silicona sin látex diseñados para un cuidado respetuoso con la piel, fabricados en una instalación registrada ante la FDA (US FDA 3008850249) bajo la norma ISO 13485.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) fabrica catéteres externos masculinos de silicona sin látex con FDA 3008850249, ISO 13485 y marcado CE en las líneas aplicables. Consulte la guía: Cómo medir para un catéter de condón — Guía de DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html
+TITLE: Inhalador de niebla suave (SMI) vs. nebulizador tradicional: preguntas frecuentes | DSB Medical
+DESCRIPTION: Respuestas sobre el inhalador de niebla suave (SMI) frente al nebulizador tradicional: cómo el SMI administra una niebla fina y lenta con alta deposición pulmonar, diferencias entre dispositivos y orientación para la selección.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué es un inhalador de niebla suave (SMI)?","acceptedAnswer":{"@type":"Answer","text":"Un inhalador de niebla suave (SMI) administra medicación como una niebla suave y fina de movimiento lento con alta deposición pulmonar, lo que significa que más fármaco llega a los pulmones en lugar de depositarse en la boca o la garganta. Debido a que la niebla es lenta y estable, generalmente es más fácil de coordinar para los pacientes que algunos inhaladores convencionales."}},{"@type":"Question","name":"¿Cuál es la diferencia entre un SMI y un nebulizador tradicional?","acceptedAnswer":{"@type":"Answer","text":"Un inhalador de niebla suave produce una dosis estable y preestablecida de aerosol en un dispositivo compacto de mano, lo que lo hace portátil, rápido y fácil de usar en cualquier lugar. Un nebulizador de chorro o ultrasónico genera un aerosol continuamente desde un depósito de líquido; es eficaz, pero más voluminoso, lento y, a menudo, necesita una fuente de alimentación, lo que lo hace menos conveniente para llevar."}},{"@type":"Question","name":"¿Por qué es importante la alta deposición pulmonar?","acceptedAnswer":{"@type":"Answer","text":"Una mayor deposición pulmonar puede significar una mejor administración del fármaco al lugar de acción y, potencialmente, una menor variabilidad de la dosis. Para los pacientes que tienen dificultades con la coordinación mano-respiración, la lenta emisión de niebla suave puede hacer que la inhalación sea más natural."}},{"@type":"Question","name":"¿Cómo elijo entre un SMI y un nebulizador?","acceptedAnswer":{"@type":"Answer","text":"Un SMI es adecuado para una dosis diaria portátil y premedida con una coordinación más fácil. Un nebulizador se utiliza a menudo para pacientes que no pueden usar dispositivos de mano o que necesitan dosis más grandes en casa. Siga siempre las instrucciones del médico que lo prescribe y del fabricante."}},{"@type":"Question","name":"¿Es un SMI más fácil de usar para los pacientes que un inhalador convencional?","acceptedAnswer":{"@type":"Answer","text":"Debido a que un SMI produce una niebla fina y suave, lenta y estable, generalmente es más fácil de coordinar que algunos inhaladores convencionales, lo que puede favorecer la adherencia y la comodidad de muchos pacientes."}},{"@type":"Question","name":"¿DSB Medical fabrica inhaladores de niebla suave?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. fabrica inhaladores de niebla suave bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485, con disponibilidad de OEM/ODM y personalización de dispositivos."}}]}
+
+BODY:
+Inicio>Recursos>SMI vs. nebulizador tradicional
+Inhalador de niebla suave (SMI) frente a nebulizador tradicional: preguntas frecuentes
+
+Respuestas sobre cómo un inhalador de niebla suave administra una niebla suave y fina de movimiento lento con alta deposición pulmonar, en qué se diferencia de un nebulizador tradicional y cómo elegir el dispositivo adecuado.
+
+¿Qué es un inhalador de niebla suave (SMI)?
+
+Un SMI administra la medicación como una niebla suave y fina de movimiento lento con alta deposición pulmonar, lo que significa que una mayor cantidad del fármaco llega a los pulmones en lugar de depositarse en la boca o la garganta. Debido a que la niebla es lenta y estable, generalmente es más fácil de coordinar para los pacientes que algunos inhaladores convencionales.
+
+¿Cuál es la diferencia entre un SMI y un nebulizador tradicional?
+
+Un inhalador de niebla suave produce una dosis de aerosol estable y preestablecida en un dispositivo compacto de mano, por lo que es portátil, rápido y fácil de usar en cualquier lugar. Un nebulizador de chorro o ultrasónico genera un aerosol de forma continua desde un depósito de líquido; es eficaz, pero más voluminoso, más lento y a menudo necesita una fuente de alimentación, lo que lo hace menos práctico cuando se está en movimiento.
+
+¿Por qué es importante una alta deposición pulmonar?
+
+Una mayor deposición pulmonar puede significar una mejor administración del fármaco en el lugar de acción y potencialmente una menor variabilidad de la dosis. Para los pacientes a quienes les cuesta la coordinación mano-respiración, la pluma lenta de la niebla suave puede hacer que la inhalación sea más natural.
+
+¿Cómo elijo entre un SMI y un nebulizador?
+
+Un SMI es adecuado para una dosis diaria portátil y premedida con una coordinación más fácil. Un nebulizador se utiliza a menudo para pacientes que no pueden usar dispositivos de mano o que necesitan dosis más grandes en casa. Siga siempre las instrucciones del médico que prescribe y del fabricante.
+
+¿Es un SMI más fácil de usar para los pacientes que un inhalador convencional?
+
+Debido a que un SMI produce una niebla suave y fina, lenta y estable, generalmente es más fácil de coordinar que algunos inhaladores convencionales, lo que puede favorecer la adherencia y la comodidad de muchos pacientes.
+
+¿DSB Medical fabrica inhaladores de niebla suave?
+
+Sí. Changzhou DSB Medical Co., Ltd. fabrica inhaladores de niebla suave bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485, con disponibilidad de OEM/ODM y personalización de dispositivos.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) fabrica inhaladores de niebla suave bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485, con disponibilidad de OEM/ODM y personalización de dispositivos. Más información: Inhalador de niebla suave SMI — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html
+TITLE: SMI, DPI, pMDI o nebulizador de malla: comparación de la administración de fármacos
+DESCRIPTION: Respuestas para socios farmacéuticos que comparan las cuatro plataformas de administración por inhalación —SMI, DPI, pMDI, nebulizador de malla— y qué considerar al seleccionar un CDMO.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cuáles son las cuatro plataformas portátiles de administración de fármacos por inhalación?","acceptedAnswer":{"@type":"Answer","text":"Las cuatro plataformas portátiles principales son el inhalador de niebla suave (SMI), el inhalador de polvo seco (DPI), el inhalador de dosis medida presurizado (pMDI) y el nebulizador de malla."}},{"@type":"Question","name":"¿Cómo administra el medicamento un inhalador de niebla suave (SMI)?","acceptedAnswer":{"@type":"Answer","text":"Un SMI administra el medicamento como una niebla suave, lenta y fina con alta deposición pulmonar. Es muy adecuado para líquidos y soluciones que necesitan un direccionamiento profundo en los pulmones y una coordinación fácil para el paciente."}},{"@type":"Question","name":"¿Qué es un inhalador de polvo seco (DPI)?","acceptedAnswer":{"@type":"Answer","text":"Un DPI administra un aerosol de polvo generado por el esfuerzo inspiratorio del paciente. Es accionado por la respiración y no requiere propulsor, lo que lo hace adecuado para formulaciones de polvo estables."}},{"@type":"Question","name":"¿Qué es un inhalador de dosis medida presurizado (pMDI)?","acceptedAnswer":{"@type":"Answer","text":"Un pMDI es un aerosol de dosis medida impulsado por propulsor. Es compacto y familiar, lo que lo hace adecuado para formulaciones establecidas."}},{"@type":"Question","name":"¿Qué es un nebulizador de malla?","acceptedAnswer":{"@type":"Answer","text":"Un nebulizador de malla produce una niebla fina mediante una malla vibratoria. Es adecuado para soluciones y suspensiones, volúmenes más grandes y la comodidad del paciente."}},{"@type":"Question","name":"¿Cómo debe un socio farmacéutico seleccionar la plataforma adecuada?","acceptedAnswer":{"@type":"Answer","text":"Los criterios clave incluyen la compatibilidad de la formulación (solución, suspensión o polvo), el direccionamiento pulmonar y el tamaño de partícula reflejado por la fracción de partículas finas, la facilidad de uso y adherencia, y la madurez de desarrollo y fabricación del socio elegido."}},{"@type":"Question","name":"¿Por qué considerar un CDMO para el desarrollo de dispositivos de inhalación?","acceptedAnswer":{"@type":"Answer","text":"Un CDMO competente se encarga del diseño, el utillaje, el montaje y la documentación regulatoria, reduciendo el tiempo de comercialización. La confianza regulatoria proviene de sistemas de calidad como el registro de la FDA, el marcado CE bajo MDR y la ISO 13485."}},{"@type":"Question","name":"¿Qué plataformas desarrolla y fabrica DSB Medical?","acceptedAnswer":{"@type":"Answer","text":"DSB Medical desarrolla y fabrica inhaladores de niebla suave SMI, DPI, pMDI y nebulizadores de malla con servicios CDMO OEM/ODM, bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485."}}]}
+
+BODY:
+Inicio>Recursos>Comparación SMI/DPI/pMDI/malla
+SMI, DPI, pMDI o Nebulizador de Malla: Preguntas Frecuentes sobre Comparación de Dispositivos de Administración de Medicamentos
+
+Respuestas para socios farmacéuticos que comparan las cuatro principales plataformas portátiles de administración por inhalación y qué tener en cuenta al seleccionar un CDMO.
+
+¿Cuáles son las cuatro plataformas portátiles de administración de medicamentos por inhalación?
+
+Las cuatro plataformas portátiles principales son el Inhalador de Niebla Suave (SMI), el Inhalador de Polvo Seco (DPI), el inhalador de dosis medida presurizado (pMDI) y el nebulizador de malla.
+
+¿Cómo administra el medicamento un Inhalador de Niebla Suave (SMI)?
+
+Un SMI administra el medicamento como una niebla suave, lenta y fina con alta deposición pulmonar. Es muy adecuado para líquidos y soluciones que requieren una orientación a las zonas profundas del pulmón y una coordinación sencilla para el paciente.
+
+¿Qué es un Inhalador de Polvo Seco (DPI)?
+
+Un DPI administra un aerosol de polvo generado por el esfuerzo inspiratorio del paciente. Se activa con la respiración y no requiere propulsor, por lo que es adecuado para formulaciones de polvo estables.
+
+¿Qué es un inhalador de dosis medida presurizado (pMDI)?
+
+Un pMDI es un spray de dosis medida accionado por propulsor. Es compacto y conocido, por lo que es adecuado para formulaciones establecidas.
+
+¿Qué es un nebulizador de malla?
+
+Un nebulizador de malla produce una niebla fina mediante una malla vibratoria. Es adecuado para soluciones y suspensiones, volúmenes más grandes y la comodidad del paciente.
+
+¿Cómo debe un socio farmacéutico seleccionar la plataforma adecuada?
+
+Los criterios clave incluyen la compatibilidad de la formulación (solución, suspensión o polvo), la orientación pulmonar y el tamaño de partícula, reflejados en la fracción de partículas finas, la usabilidad y adherencia, y la madurez de desarrollo y fabricación del socio elegido.
+
+¿Por qué considerar un CDMO para el desarrollo de dispositivos de inhalación?
+
+Un CDMO competente maneja el diseño, las herramientas, el ensamblaje y la documentación regulatoria, lo que reduce el tiempo de comercialización. La confianza regulatoria proviene de sistemas de calidad como el registro de la FDA, el marcado CE conforme a MDR y la ISO 13485.
+
+¿Qué plataformas desarrolla y fabrica DSB Medical?
+
+DSB Medical desarrolla y fabrica inhaladores de niebla suave (SMI), DPI, pMDI y nebulizadores de malla con servicios CDMO de OEM/ODM, bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) desarrolla y fabrica inhaladores de niebla suave (SMI), DPI, pMDI y nebulizadores de malla con servicios CDMO de OEM/ODM, bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485. Explore la administración de medicamentos: Dispositivo de administración de medicamentos para Inhalador de Niebla Suave — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html
+TITLE: Tecnología de niebla suave y alta deposición pulmonar: Preguntas frecuentes sobre terapia
+DESCRIPTION: Respuestas sobre la tecnología de niebla suave en la administración de fármacos: cómo produce una niebla fina y lenta, por qué es importante la alta deposición pulmonar y los beneficios de adherencia para la terapia respiratoria.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Cómo funciona la tecnología de niebla suave?","acceptedAnswer":{"@type":"Answer","text":"Un inhalador de niebla suave convierte un fármaco líquido en una niebla fina y suave de movimiento lento, con una dosis de aerosol estable y predefinida. A diferencia de una nube rápida impulsada por propelente, la niebla suave ofrece al paciente una nube más suave para inhalar, lo que puede facilitar la coordinación mano-respiración."}},{"@type":"Question","name":"¿Por qué es importante la alta deposición pulmonar en la terapia respiratoria?","acceptedAnswer":{"@type":"Answer","text":"Una mayor deposición pulmonar significa que una mayor fracción de la dosis llega a las vías respiratorias en lugar de a la boca y la garganta. Una menor deposición orofaríngea puede reducir los efectos secundarios locales y mejorar la consistencia de la dosis administrada, lo que favorece una terapia más predecible."}},{"@type":"Question","name":"¿Cuáles son los beneficios de adherencia de un dispositivo de niebla suave?","acceptedAnswer":{"@type":"Answer","text":"Los dispositivos que son más fáciles de usar tienden a utilizarse correctamente y de forma más constante. Una niebla lenta y estable puede ser más cómoda e intuitiva que los dispositivos que requieren una sincronización precisa, lo que favorece una mejor adherencia a largo plazo."}},{"@type":"Question","name":"¿De qué depende la administración fiable de niebla suave?","acceptedAnswer":{"@type":"Answer","text":"La administración fiable de niebla suave depende de la precisión en la boquilla o el mecanismo de accionamiento, un volumen de dosis constante y controles de fabricación sólidos. Asociarse con un fabricante que cuente con registro FDA e ISO 13485 ofrece garantía de reproducibilidad a escala."}},{"@type":"Question","name":"¿Cómo se compara la niebla suave con la administración rápida impulsada por propelente?","acceptedAnswer":{"@type":"Answer","text":"A diferencia de una nube rápida impulsada por propelente, la niebla suave produce una nube lenta y estable que es más suave de inhalar. Esto puede facilitar la coordinación mano-respiración, un desafío común en la terapia de inhalación, y favorecer una dosificación más constante."}},{"@type":"Question","name":"¿DSB Medical fabrica inhaladores de niebla suave?","acceptedAnswer":{"@type":"Answer","text":"Sí. Changzhou DSB Medical Co., Ltd. fabrica inhaladores de niebla suave bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485, con disponibilidad de OEM/ODM y personalización de dispositivos."}}]}
+
+BODY:
+Inicio>Recursos>Tecnología de niebla suave y deposición pulmonar
+Tecnología de niebla suave y alta deposición pulmonar: preguntas frecuentes para la terapia respiratoria
+
+Respuestas sobre cómo funciona la tecnología de niebla suave, por qué la alta deposición pulmonar mejora la terapia y cómo una niebla lenta y estable favorece la adherencia y una dosificación predecible.
+
+¿Cómo funciona la tecnología de niebla suave?
+
+Un inhalador de niebla suave convierte un fármaco líquido en una niebla suave y fina de movimiento lento con una dosis de aerosol estable y preestablecida. A diferencia de una emisión rápida impulsada por propelente, la niebla suave ofrece al paciente una nube más suave para inhalar, lo que puede facilitar la coordinación mano-respiración, un desafío común en la terapia de inhalación.
+
+¿Por qué es importante la alta deposición pulmonar en la terapia respiratoria?
+
+Una mayor deposición pulmonar significa que una mayor fracción de la dosis llega a las vías respiratorias en lugar de a la boca y la garganta. Una menor deposición orofaríngea puede reducir los efectos secundarios locales y mejorar la consistencia de la dosis administrada, lo que favorece una terapia más predecible para las enfermedades respiratorias crónicas.
+
+¿Cuáles son los beneficios de adherencia de un dispositivo de niebla suave?
+
+Los dispositivos que son más fáciles de usar tienden a utilizarse correctamente y con mayor constancia. Una niebla lenta y estable puede resultar más cómoda e intuitiva que los dispositivos que requieren una sincronización precisa, lo que favorece una mejor adherencia a largo plazo.
+
+¿De qué depende una administración fiable de niebla suave?
+
+Una administración fiable depende de la precisión de la boquilla o del mecanismo de accionamiento, un volumen de dosis constante y controles de fabricación sólidos. Asociarse con un fabricante que cuente con registro de la FDA y certificación ISO 13485 ofrece la garantía de reproducibilidad a escala.
+
+¿Cómo se compara la niebla suave con la administración rápida impulsada por propelente?
+
+A diferencia de una emisión rápida impulsada por propelente, la niebla suave genera una nube lenta y estable que es más suave de inhalar. Esto puede facilitar la coordinación mano-respiración y favorecer una dosificación más constante y predecible.
+
+¿DSB Medical fabrica inhaladores de niebla suave?
+
+Sí. Changzhou DSB Medical Co., Ltd. fabrica inhaladores de niebla suave bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485, con opciones de OEM/ODM y personalización del dispositivo.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) fabrica inhaladores de niebla suave bajo sistemas de calidad certificados por FDA, CE MDR e ISO 13485, con opciones de OEM/ODM y personalización del dispositivo. Ver detalles: Tecnología de niebla suave SMI — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html
+TITLE: Asociarse con un CDMO en China para dispositivos de inhalación: preguntas frecuentes | DSB Medical
+DESCRIPTION: Respuestas sobre cómo asociarse con un CDMO en China para dispositivos de inhalación (SMI, DPI, pMDI y nebulizador de malla): capacidades, lista de verificación de diligencia debida y riesgos a gestionar.
+H1: 
+    
+
+
+JSON-LD:
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"¿Qué puede ofrecer un CDMO en China para dispositivos de inhalación?","acceptedAnswer":{"@type":"Answer","text":"Un CDMO en China puede ofrecer múltiples plataformas de dispositivos (SMI, DPI, pMDI y nebulizador de malla) bajo un solo socio, servicios OEM/ODM y CDMO que incluyen diseño, fabricación de herramientas, ensamblaje, etiquetado privado y personalización, sistemas de calidad certificados bajo FDA, CE MDR e ISO 13485, y eficiencia de escala y costos gracias a una infraestructura de fabricación y cadenas de suministro establecidas."}},{"@type":"Question","name":"¿Cómo debo hacer la debida diligencia antes de asociarme con un CDMO en China?","acceptedAnswer":{"@type":"Answer","text":"Verifique el registro de la FDA y cualquier listado de dispositivos relevante, confirme que el alcance de la gestión de calidad ISO 13485 cubre el tipo de dispositivo, revise el alcance del marcado CE y la preparación del expediente técnico, audite las instalaciones y solicite registros de lotes, certificados de materiales y validación, y aclare por escrito los acuerdos de propiedad intelectual, control de cambios y calidad."}},{"@type":"Question","name":"¿Qué riesgos debo gestionar al trabajar con un CDMO en China?","acceptedAnswer":{"@type":"Answer","text":"Confirme que los documentos regulatorios estén actualizados y sean específicos para su producto, valide la reproducibilidad entre escalas de lotes, y establezca una comunicación clara y una gobernanza de proyecto."}},{"@type":"Question","name":"¿Puede un CDMO en China entregar dispositivos de inhalación conformes y rentables?","acceptedAnswer":{"@type":"Answer","text":"La fabricación de dispositivos de inhalación en China ha madurado significativamente. Con una debida diligencia disciplinada, un CDMO en China puede ser un socio sólido y conforme para llevar un producto de inhalación al mercado de manera rentable. La descripción general es solo de referencia; siempre verifique el estado regulatorio actual del fabricante con las autoridades pertinentes para su mercado y producto."}},{"@type":"Question","name":"¿Qué plataformas de inhalación debería poder ofrecer un socio CDMO?","acceptedAnswer":{"@type":"Answer","text":"Un socio CDMO competente debería poder ofrecer múltiples plataformas, típicamente SMI, DPI, pMDI y nebulizador de malla, permitiéndole adaptar la formulación a la plataforma de administración adecuada bajo un solo socio."}},{"@type":"Question","name":"¿Por qué considerar un CDMO con sede en China para el desarrollo de medicamentos respiratorios?","acceptedAnswer":{"@type":"Answer","text":"Los desarrolladores globales de medicamentos respiratorios se asocian con CDMO con sede en China para acelerar el desarrollo y reducir costos sin sacrificar la calidad, siempre que la debida diligencia se realice adecuadamente."}}]}
+
+BODY:
+Inicio>Recursos>CDMO en China para dispositivos de inhalación
+Colaboración con un CDMO chino para dispositivos de inhalación: preguntas frecuentes
+
+Respuestas sobre lo que un CDMO chino puede ofrecer para dispositivos de inhalación (SMI, DPI, pMDI & nebulizador de malla), la lista de verificación de debida diligencia y los riesgos a gestionar antes de asociarse.
+
+¿Qué puede ofrecer un CDMO chino para dispositivos de inhalación?
+
+Un CDMO chino ofrece múltiples plataformas de dispositivos (SMI, DPI, pMDI y nebulizador de malla) bajo un solo socio, servicios OEM/ODM y CDMO que incluyen diseño, fabricación de moldes, ensamblaje, etiquetado privado y personalización, sistemas de calidad certificados según FDA, CE MDR e ISO 13485, y eficiencia de escala y costos gracias a una infraestructura de fabricación establecida y cadenas de suministro.
+
+¿Cómo debo hacer la debida diligencia antes de asociarme con un CDMO chino?
+
+Verifique el registro ante la FDA y cualquier listado de dispositivos relevante, confirme que el alcance de la gestión de calidad según ISO 13485 cubre el tipo de dispositivo, revise el alcance del marcado CE y la preparación del expediente técnico, audite las instalaciones y solicite registros de lotes, certificados de materiales y validación, y aclare por escrito la propiedad intelectual, el control de cambios y los acuerdos de calidad.
+
+¿Qué riesgos debo gestionar al trabajar con un CDMO chino?
+
+Confirme que los documentos reglamentarios están actualizados y aplicables a su producto, valide la reproducibilidad entre escalas de lote y establezca una comunicación clara y una gobernanza del proyecto.
+
+¿Puede un CDMO chino entregar dispositivos de inhalación conformes y rentables?
+
+La fabricación de dispositivos de inhalación en China ha madurado significativamente. Con una debida diligencia disciplinada, un CDMO chino puede ser un socio sólido y conforme para llevar un producto de inhalación al mercado de manera rentable. Esta descripción general es solo de referencia; verifique siempre el estado reglamentario actual del fabricante con las autoridades correspondientes para su mercado y producto.
+
+¿Qué plataformas de inhalación debería poder ofrecer un socio CDMO?
+
+Un socio CDMO competente debería ofrecer múltiples plataformas, normalmente SMI, DPI, pMDI y nebulizador de malla, lo que le permite adecuar la formulación a la plataforma de administración adecuada con un solo socio.
+
+¿Por qué considerar un CDMO con sede en China para el desarrollo de fármacos respiratorios?
+
+Desarrolladores globales de fármacos respiratorios se asocian con CDMO con sede en China para acelerar el desarrollo y reducir costos sin sacrificar la calidad, siempre que la debida diligencia se realice adecuadamente.
+
+Nota del fabricante: Changzhou DSB Medical Co., Ltd. (China) ofrece fabricación de dispositivos de inhalación con plataformas SMI, DPI, pMDI y nebulizador de malla bajo sistemas de calidad certificados según FDA, CE MDR e ISO 13485, con servicios CDMO OEM/ODM. Más información: Fabricante chino de dispositivos médicos — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/news_list.html
+TITLE: Noticias Eventos-Changzhou DSB Medical Co., Ltd.
+DESCRIPTION: Changzhou DSB Medical Co., Ltd.  Noticias Eventos DSB Medical ofrece soluciones integrales para escenarios de vida dependiente: cuidado de la incontinencia (catéteres externos masculinos, bolsas de orina, cuidado de adultos, gestión de fluidos), administración precisa de fármacos (inhaladores SMI, nebulizadores de malla, autoinyectores), consumibles médicos de protección y microfluídica/biosensores.
+
+BODY:
+Acerca de     Carreras     Inversores     Alianzas
+
+Productos & Servicios
+
+Mercados
+
+Noticias & Eventos
+
+Soluciones
+
+Contacte
+
+Idioma
+
+Noticias & Eventos
+
+Que se especializa en el R & D, fabricación y comercialización de productos médicos de la disposición.
+
+Empresa Noticias
+
+Información de la industria
+
+Informe de los medios
+
+Vídeo
+
+Noticias Eventos
+
+Delegación de la Asociación China para el Bienestar Social y los Servicios de Atención a Personas Mayores visita DSB Medical para inspección e investigación
+
+El 6 de noviembre de 2025, Xu Jianzhong, Presidente Ejecutivo de la Asociación China para el Bienestar Social y los Servicios de Cuidado a Personas Mayores, encabezó una delegación que realizó una visita de inspección e investigación a Changzhou DSB Medical Co., Ltd. Gu Wei, Jefe del Centro de Transferencia de Tecnología para el Cuidado de Personas Mayores del Instituto de Ingeniería y Tecnología Biomédica de Suzhou, Academia China de Ciencias; Pang Lixin, Presidente de la Asociación Privada de Cuidado a Personas Mayores de Changzhou, junto con el personal de la asociación; y líderes de la oficina de Changzhou del Despacho Jurídico Yingke también participaron en la sesión de inspección, investigación y debate.
+
+2025-11-07
+
+2024
+
+El 6 de mayo de 2024, DSB (Changzhou) Medical Co., Ltd. fue reconocida como una Empresa "Especializada, Excelente y Nueva" de la Provincia de Jiangsu para 2024.
+
+2025-09-17
+
+DSB Medical te invita a ARAB HEALTH 2024
+
+La exposición Arab Health 2024 continuará celebrándose en el Centro Internacional de Exposiciones de Dubai en los Emiratos Árabes Unidos del 29 de enero al 1 de febrero. DSBcordially invita a todos los profesionales de la industria a visitarnos y comunicarse con nosotros en nuestro stand Z7.D18.
+
+2024-01-13
+
+La terapia inhalada es esencial para el tratamiento del asma y la enfermedad pulmonar obstructiva crónica (EPOC).
+
+Los inhaladores de dosis medidas (IDM) son uno de los dos tipos principales de inhaladores para la administración de medicamentos respiratorios, para el tratamiento del asma y la enfermedad pulmonar obstructiva crónica (EPOC); el otro es inhaladores de polvo seco. Los MDI también se conocen como pMDI (inhaladores de dosis medidas presurizados).
+
+2023-11-30
+
+Carta de invitación MEDICA 2023
+
+Le invitamos a visitar la exposición MEDICA 2023, que se celebrará en Dusseldorf del 13 al 16 de noviembre MEDICA 2023 es una exposición de equipos médicos organizada por Messe Düsseldorf, una de las exposiciones comerciales B2B médicas más grandes del mundo. mostrando una amplia gama de productos y servicios innovadores de los campos de imágenes médicas, tecnología de laboratorio, diagnóstico, TI de salud, salud móvil, fisioterapia/tecnología ortopédica y consumibles médicos. Los expositores provienen principalmente de más de 4.500 empresas en 66 países.
+
+2023-11-13
+
+Prospecto de mercado y análisis de la industria de la manga uretral de silicona
+
+Funda de cateterismo de silicona es un tipo de suministros médicos hechos de material de silicona, que se utiliza para proteger el orificio uretral durante el cateterismo, reducir la infección y evitar fugas de orina. Con el envejecimiento de la población, la mejora de la conciencia de la salud y el desarrollo continuo de la tecnología médica, la demanda del mercado de fundas de cateterismo de silicona continúa creciendo. El mercado global de catéteres de silicona se concentra principalmente en Europa, América, Japón y otros países desarrollados, de los cuales el mercado europeo ocupa la mayor parte.
+
+2023-11-10
+
+< 12345 >
+
+¿Si tienes más necesidades?
+
+Bienvenido a su mensaje, le responderemos a tiempo.
+
+Mensaje en línea
+
+shawn@dsbmedical.com
+
+0086-519-88363800
+
+355 camino de Longjin, zona de desarrollo económico de Changzhou, provincia de Jiangsu, China
+
+Acerca de
+
+Nuestro patrimonio
+
+Nuestras Marcas
+
+Visión, Misión y Valores
+
+Hechos y cifras
+
+Gobernanza
+
+Calidad
+
+Investigación & Desarrollo
+
+Apoyo regulatorio
+
+Salud, Seguridad y Medio Ambiente
+
+Pasos de DSB
+
+Oferta
+
+Dispositivo de la entrega de la droga
+
+Asistencia sanitaria Incontinencia
+
+Consumibles médicos desechables
+
+Chip biológico
+
+Desarrollo del molde
+
+Desarrollo de automatización
+
+Equipo/Capacidad de procesamiento
+
+Capablility de empaquetado
+
+Servicios
+
+Noticias & Evento
+
+Empresa Noticias
+
+Información de la industria
+
+Informe de los medios
+
+Vídeo
+
+Contacte
+
+Información de contacto
+
+Mensaje en línea
+
+COOKIES
+
+Nuestro sitio web utiliza cookies y tecnologías similares para personalizar la publicidad que se le muestra y ayudarlo a obtener la mejor experiencia en nuestro sitio web. Para obtener más información, consulte nuestra Política de privacidad y cookies.
+
+Administrar cookies permitir todo
+
+shawn@dsbmedical.com
+
+shawn@dsbmedical.com
+
+‪+86 186 5127 2568‬
+
+‪+8618651272568‬
+
+0086-519-88363800
+
+0086-519-88363800
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+Política de privacidad  | SEO
+
+Licencia de negocio
+d
++
+
+
+----------------------------------------
+## https://es.dsbmedical.com/resources.html
+TITLE: Recursos y guías de compra | DSB Medical
+DESCRIPTION: Centro de recursos de DSB Medical: guías sobre catéteres externos masculinos, prevención de CAUTI y dispositivos de inhalación SMI.
+
+BODY:
+Inicio>Recursos
+Centro de recursos
+Recursos y guías médicas
+
+Explore páginas de productos, guías clínicas y recursos de empresa para tomar decisiones de compra informadas.
+
+Páginas verificadas de productos, marcas y líneas de dispositivos.
+
+📦
+Productos y marcas
+
+Páginas verificadas de productos, marcas y líneas de dispositivos.
+
+🫁
+DXneb™ Nebulizador de malla vibratoria
+Plataforma de nebulizador de malla vibratoria para aerosolterapia hospitalaria, UCI y domiciliaria.
+🫁
+GoldHaler® Nebulización RDS neonatal
+Nebulización para el síndrome de dificultad respiratoria neonatal.
+💊
+FreeHala™ Plataforma de inhalación combinada fármaco-dispositivo
+Plataforma de inhalación combinada SMI / DPI / pMDI.
+💧
+FluidMS® Sistema de gestión fecal
+Sistema de gestión fecal y cuidado de la incontinencia.
+🧻
+DIDUN Cuidado de la incontinencia adulta
+Pañales para adultos y productos de incontinencia.
+🚰
+Bolsas de orina y soluciones de drenaje
+Bolsas recolectoras de orina y sistemas de drenaje.
+💉
+Dispositivos de administración de fármacos
+Dispositivos SMI, DPI y autoinyectores.
+🫁
+Soluciones de inhalación y nebulización
+Nebulizadores y dispositivos de inhalación.
+📏
+Catéter externo masculino (catéter de condón)
+Fabricante de catéteres externos masculinos en China.
+📦
+Vista general de productos
+Visión general completa de productos médicos desechables y de cuidado.
+📚
+Guías y herramientas de compra
+
+Guías prácticas y preguntas frecuentes para selección de catéteres, tallas y comparación de tecnologías de inhalación.
+
+📏
+Cómo elegir un catéter externo masculino
+Criterios de selección y factores clave.
+📏
+Cómo medir un catéter de condón
+Pasos para una medición correcta.
+❓
+Catéter externo vs. catéter interno (guía CAUTI)
+Diferencias y prevención de CAUTI.
+❓
+Tallas de catéter de condón: 25/29/32 mm
+Guía de tallas y ajuste.
+❓
+Catéteres de silicona sin látex vs. látex
+Comparación de materiales y compatibilidad.
+❓
+5 formas de reducir CAUTI en cuidados a largo plazo
+Estrategias clínicas y mejores prácticas.
+❓
+Calidad de dispositivos médicos en China: FDA/ISO 13485/CE
+Certificaciones y cumplimiento normativo.
+❓
+Guía de productos para incontinencia urinaria masculina
+Opciones y recomendaciones.
+❓
+Guía del comprador para fabricantes OEM/ODM en China
+Cómo seleccionar y evaluar fabricantes.
+❓
+Cuidado del catéter externo y salud de la piel
+Prevención de irritaciones e infecciones.
+❓
+SMI vs. nebulizador tradicional
+Ventajas de la microinyección de niebla suave.
+❓
+Comparación SMI/DPI/pMDI/malla
+Tecnologías de inhalación comparadas.
+❓
+Tecnología de niebla suave y deposición pulmonar
+Eficiencia y distribución en el pulmón.
+❓
+CDMO en China para dispositivos de inhalación
+Servicios de desarrollo y fabricación por contrato.
+🏢
+Empresa y soporte
+
+Perfil de empresa, cumplimiento, alianzas e información para inversores.
+
+🏢
+Datos y hechos verificados de DSB Medical
+Registro FDA, ISO 13485, marcado CE y datos verificados.
+🏢
+Acerca de DSB Medical
+🧩
+Soluciones Integradas
+Perfil de la empresa y capacidades.
+⚙️
+Servicios OEM/ODM y CDMO
+Fabricación y desarrollo por contrato.
+🛡️
+Cumplimiento y normativa
+Certificaciones FDA, ISO 13485, CE MDR.
+🤝
+Alianzas
+Colaboraciones estratégicas y distribución.
+📈
+Inversores
+Información financiera y gobernanza.
+📈
+Relaciones con inversores
+Resumen para accionistas.
+🏢
+Actualizaciones para inversores
+Novedades y reportes.
+📰
+Actualizaciones de la empresa
+Noticias y anuncios.
+🛟
+Soporte
+Atención al cliente y asistencia técnica.
+✉️
+Contacto
+Comunicación con el equipo de DSB Medical.
+
+¿Necesita ayuda para elegir el producto adecuado?
+
+Hable con nuestro equipo de ventas y técnico para selección de productos, muestras y cotizaciones OEM/ODM.
+
+Contáctenos
+
+d
++

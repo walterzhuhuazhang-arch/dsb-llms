@@ -2090,3 +2090,1635 @@ DSB Medical – FDA & CE Approved Disposable Medical Supplies Manufacturer for E
 Business license
 d
 +
+
+
+============================================================
+## FAQ & NEWS (EN)
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-01-male-external-vs-indwelling.html
+TITLE: Male External vs. Indwelling Catheter: CAUTI Prevention FAQ
+DESCRIPTION: Answers to common questions about male external (condom) catheters vs. indwelling catheters: CAUTI risk, sizing, materials, and care for infection-control teams.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a male external (condom) catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A male external (condom) catheter is a non-invasive urinary collection device that fits over the penis and drains urine into a bag. It does not enter the bladder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between an external catheter and an indwelling (Foley) catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An indwelling (Foley) catheter remains inside the bladder and carries a higher CAUTI risk, especially with prolonged use. An external (condom) catheter fits over the penis without entering the bladder, making it non-invasive and commonly associated with a lower CAUTI risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does CAUTI stand for?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CAUTI stands for catheter-associated urinary tract infection, one of the most common healthcare-associated infections and largely preventable."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Are external catheters safer than indwelling catheters for infection control?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Clinical guidance commonly associates external (condom) catheters with a lower CAUTI risk than indwelling catheters for non-obstructed male patients, because they do not enter the bladder."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What materials should a quality external catheter be made of?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A quality external catheter is made of 100% medical-grade silicone, which is latex-free, breathable, and gentle on skin for daily wear."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What sizes of male external catheter are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Common sizes are 25 mm, 29 mm, and 32 mm, chosen to match the patient's flaccid penile circumference at the base for a secure, leak-free fit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does proper sizing of a condom catheter matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "If the catheter is too small it can restrict flow and irritate the skin; if too large it can leak or slip off. Correct sizing supports comfort and infection-control goals."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DSB Medical an FDA-registered facility?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. manufactures medical-grade silicone external catheters with an FDA establishment registration (US FDA 3008850249), an ISO 13485 quality management system, and CE marking on applicable product lines."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How can care teams reduce CAUTI risk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Care teams can reduce CAUTI risk by minimizing unnecessary catheter days, choosing the least invasive appropriate device, sizing correctly, inspecting and changing the device on a schedule, and training staff on application."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›Male External vs Indwelling Catheters (CAUTI Guide)
+Male External Catheter vs. Indwelling Catheter: FAQ for Care Teams
+
+Practical answers on CAUTI prevention, sizing, materials, and care when choosing between male external (condom) catheters and indwelling catheters.
+
+What is a male external (condom) catheter?
+
+A male external (condom) catheter is a non-invasive urinary collection device that fits over the penis and drains urine into a bag. It does not enter the bladder.
+
+What is the difference between an external catheter and an indwelling (Foley) catheter?
+
+An indwelling (Foley) catheter remains inside the bladder and carries a higher CAUTI risk, especially with prolonged use. An external (condom) catheter fits over the penis without entering the bladder, making it non-invasive and commonly associated with a lower CAUTI risk.
+
+What does CAUTI stand for?
+
+CAUTI stands for catheter-associated urinary tract infection, one of the most common healthcare-associated infections and largely preventable.
+
+Are external catheters safer than indwelling catheters?
+
+Clinical guidance commonly associates external (condom) catheters with a lower CAUTI risk than indwelling catheters for non-obstructed male patients.
+
+What materials should a quality external catheter use?
+
+100% medical-grade silicone — latex-free, breathable, and gentle on skin for daily wear.
+
+What sizes are available?
+
+25 mm, 29 mm, and 32 mm — chosen to match flaccid penile circumference at the base for a secure, leak-free fit.
+
+Why does proper sizing matter?
+
+Too-small restricts flow and irritates skin; too-large leaks or slips off. Correct sizing supports comfort and infection control.
+
+Is DSB Medical FDA-registered?
+
+Yes. Changzhou DSB Medical Co., Ltd. manufactures silicone external catheters in an FDA-registered facility (US FDA 3008850249) under ISO 13485 and CE marking on applicable lines.
+
+How can care teams reduce CAUTI risk?
+
+Minimize unnecessary catheter days, choose the least invasive appropriate device, size correctly, inspect and change on a schedule, and train staff.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) makes medical-grade silicone external catheters with FDA 3008850249, ISO 13485, and CE marking. Learn more: Male External Catheter (Condom Catheter).
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-02-condom-catheter-sizing.html
+TITLE: How to Choose Condom Catheter Size: 25mm, 29mm, 32mm FAQ
+DESCRIPTION: Answers to common questions about condom (male external) catheter sizing: how to measure, 25 mm vs 29 mm vs 32 mm, when to re-size, and material tips for a secure, leak-free fit.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Why does condom catheter sizing matter so much?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Correct sizing is the single biggest factor in comfort, reliable fit, and prevention of leakage or skin irritation. If the catheter is too small it can restrict flow and irritate the skin; if it is too large it can leak or slip off. A secure, dry fit also supports infection-control goals by reducing the risk of skin breakdown."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What sizes of condom (male external) catheter are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The most common sizes are 25 mm, 29 mm, and 32 mm. As a general reference: 25 mm suits a smaller/narrower girth, 29 mm suits a standard/average girth for most adult males, and 32 mm suits a larger girth. Always follow the manufacturer's measuring instructions and the clinician's assessment."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I measure for a condom catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Measure at the base of the penis in the flaccid state using a soft measuring tape, not a metal ruler. Record the circumference at the widest point near the base, compare it to the size chart, and choose the size that fits without being tight. Re-measure at follow-up, because size can change with weight, medication, or edema."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I re-size a condom catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Re-evaluate sizing if you notice leaks, the device slipping, red marks or irritation, or if the patient's weight or medication changes. Sizing should be reviewed periodically during routine follow-up."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What material should a comfortable condom catheter use?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A high-quality condom catheter is made of 100% medical-grade silicone, which is latex-free and breathable for all-day comfort. A self-adhesive inner coating helps the device stay secure without bulky straps, and transparent material lets caregivers check skin condition without removal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the consequences of choosing the wrong condom catheter size?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A catheter that is too small can restrict flow and irritate the skin, while one that is too large can leak or slip off. Both undermine comfort, dignity, and infection prevention, which is why correct sizing is described as a small step with outsized benefits."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DSB Medical an FDA-registered facility for condom catheters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. offers male external catheters in 25 mm, 29 mm, and 32 mm from a 100% medical-grade silicone, latex-free design, manufactured in an FDA-registered facility (3008850249) under an ISO 13485 quality management system."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›Condom Catheter Sizing: 25/29/32mm
+How to Choose the Right Condom Catheter Size: 25mm / 29mm / 32mm — FAQ
+
+Practical answers on condom (male external) catheter sizing, measuring, materials, and when to re-size for clinicians, patients, and caregivers.
+
+Why does condom catheter sizing matter so much?
+
+Correct sizing is the single biggest factor in comfort, reliable fit, and prevention of leakage or skin irritation. If the catheter is too small it can restrict flow and irritate the skin; if it is too large it can leak or slip off. A secure, dry fit also supports infection-control goals by reducing the risk of skin breakdown.
+
+What sizes of condom (male external) catheter are available?
+
+The most common sizes are 25 mm, 29 mm, and 32 mm. As a general clinical reference: 25 mm suits a smaller/narrower girth, 29 mm suits a standard/average girth for most adult males, and 32 mm suits a larger girth. Always follow the manufacturer's measuring instructions and the clinician's assessment.
+
+How do I measure for a condom catheter?
+
+Measure at the base of the penis in the flaccid state using a soft measuring tape, not a metal ruler. Record the circumference at the widest point near the base, compare it to the size chart, and choose the size that fits without being tight. Re-measure at follow-up, because size can change with weight, medication, or edema.
+
+When should I re-size a condom catheter?
+
+Re-evaluate sizing if you notice leaks, the device slipping, red marks or irritation, or if the patient's weight or medication changes. Sizing should be reviewed periodically as part of routine follow-up care.
+
+What material should a comfortable condom catheter use?
+
+A high-quality condom catheter is made of 100% medical-grade silicone, which is latex-free and breathable for all-day comfort. A self-adhesive inner coating helps the device stay secure without bulky straps, and transparent material lets caregivers check skin condition without removal.
+
+What are the consequences of choosing the wrong condom catheter size?
+
+A catheter that is too small can restrict flow and irritate the skin, while one that is too large can leak or slip off. Both undermine comfort, dignity, and infection prevention, which is why correct sizing is described as a small step that delivers outsized benefits.
+
+Is DSB Medical an FDA-registered facility for condom catheters?
+
+Yes. Changzhou DSB Medical Co., Ltd. offers male external catheters in 25 mm, 29 mm, and 32 mm from a 100% medical-grade silicone, latex-free design, manufactured in an FDA-registered facility (3008850249) under an ISO 13485 quality management system.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) makes 100% medical-grade silicone, latex-free male external catheters with FDA 3008850249, ISO 13485, and CE marking on applicable lines. See the full guide: How to measure for a condom catheter — DSB Medical guide.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html
+TITLE: Latex-Free Silicone vs. Latex Catheters: Infection Control FAQ
+DESCRIPTION: Answers to common questions about latex-free silicone vs. latex male catheters: latex allergy risks, hydroxy medical-grade silicone benefits, breathability, and an infection-control checklist.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is the difference between latex and silicone male external catheters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Latex is a classic material that is flexible, familiar, and widely available, but latex proteins can trigger type I hypersensitivity in sensitized patients and care workers, and latex degrades with certain lubricants. Silicone is a modern alternative that is biocompatible, latex-free, and breathable, gentle on skin for extended wear, stable with most lubricants, and transparent so skin can be inspected without removal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why choose a latex-free male external catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Latex allergy is a real patient-safety concern. Repeated exposure to latex proteins is the main cause of latex allergy in healthcare, affecting both patients and care workers. A latex-free device is the safer choice for anyone with confirmed or suspected latex sensitivity."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does 100% medical-grade silicone mean?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Medical-grade refers to a material with documented biocompatibility and manufacturability for contact with the body. In practice, 100% medical-grade silicone external catheters deliver a latex-free formulation for allergic patients, breathability that supports healthy skin during daily wear, and a self-adhesive inner coating for a secure fit without bulky straps."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the advantages of latex vs. silicone catheters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Latex advantages are flexibility, familiarity, and wide availability; its risks are possible hypersensitivity reactions and degradation with certain lubricants. Silicone advantages are biocompatibility, latex-free and breathable wear, stability with most lubricants, and transparency for skin inspection; a consideration is generally higher material cost but lower allergic risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should an infection-control team check before selecting a male external catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Confirm the device is latex-free if any patient or staff member has latex sensitivity, prefer breathable self-adhesive designs to reduce skin breakdown, document product material and lot for traceability, and train staff on the difference between latex and silicone device care."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DSB Medical an FDA-registered facility for silicone catheters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. manufactures latex-free, 100% medical-grade silicone external catheters in an FDA-registered facility (US FDA Establishment Registration 3008850249) under an ISO 13485 quality management system, with CE marking on applicable product lines."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›Latex-Free Silicone vs Latex Catheters
+Latex-Free Silicone vs. Latex Male Catheters: FAQ for Infection Control Teams
+
+Practical answers on latex vs. silicone male external catheters, latex allergy risks, 100% medical-grade silicone, and an infection-control checklist.
+
+What is the difference between latex and silicone male external catheters?
+
+Latex is a classic material that is flexible, familiar, and widely available, but latex proteins can trigger type I hypersensitivity in sensitized patients and care workers, and latex degrades with certain lubricants. Silicone is a modern alternative that is biocompatible, latex-free, and breathable, gentle on skin for extended wear, stable with most lubricants, and transparent so skin can be inspected without removal.
+
+Why choose a latex-free male external catheter?
+
+Latex allergy is a real patient-safety concern. Repeated exposure to latex proteins is the main cause of latex allergy in healthcare, affecting both patients and care workers. A latex-free device is the safer choice for anyone with confirmed or suspected latex sensitivity.
+
+What does 100% medical-grade silicone mean?
+
+Medical-grade refers to a material with documented biocompatibility and manufacturability for contact with the body. In practice, 100% medical-grade silicone external catheters deliver a latex-free formulation for allergic patients, breathability that supports healthy skin during daily wear, and a self-adhesive inner coating for a secure fit without bulky straps.
+
+What are the advantages of latex vs. silicone catheters?
+
+Latex advantages are flexibility, familiarity, and wide availability; its risks are possible hypersensitivity reactions and degradation with certain lubricants. Silicone advantages are biocompatibility, latex-free and breathable wear, stability with most lubricants, and transparency for skin inspection; a consideration is generally higher material cost but lower allergic risk.
+
+What should an infection-control team check before selecting a male external catheter?
+
+Confirm the device is latex-free if any patient or staff member has latex sensitivity, prefer breathable self-adhesive designs to reduce skin breakdown, document product material and lot for traceability, and train staff on the difference between latex and silicone device care.
+
+Is DSB Medical an FDA-registered facility for silicone catheters?
+
+Yes. Changzhou DSB Medical Co., Ltd. manufactures latex-free, 100% medical-grade silicone external catheters in an FDA-registered facility (US FDA Establishment Registration 3008850249) under an ISO 13485 quality management system, with CE marking on applicable product lines.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) makes latex-free, 100% medical-grade silicone external catheters with FDA 3008850249, ISO 13485, and CE marking. Learn more: Male External Catheter (Condom Catheter).
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-04-reduce-cauti-5-ways.html
+TITLE: 5 Ways to Reduce CAUTI in Long-Term Care: FAQ
+DESCRIPTION: Answers to common questions about reducing catheter-associated urinary tract infections (CAUTI) in long-term care facilities: minimize catheter days, external catheters, protocols, training, and materials.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What does CAUTI stand for and why does it matter in long-term care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "CAUTI stands for catheter-associated urinary tract infection, a persistent challenge in long-term care and a largely preventable infection that continues to receive regulatory and research attention."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the single strongest predictor of CAUTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The single strongest predictor of CAUTI is indwelling catheter duration. Facilities should evaluate every patient for whether an indwelling catheter is genuinely necessary and remove it as soon as it is no longer indicated."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should external (condom) catheters be considered to reduce CAUTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For non-obstructed male patients, external (condom) catheters are generally associated with a lower CAUTI risk than indwelling catheters. They are non-invasive and support the transition away from indwelling devices that carry a higher infection risk."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the 5 ways to reduce CAUTI in long-term care facilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The five strategies are: 1) right-size and minimize catheter days; 2) consider external (condom) catheters where appropriate; 3) standardize insertion and care protocols; 4) train staff and measure outcomes; and 5) choose materials that protect skin and support compliance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does staff training help reduce CAUTI?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Ongoing education on device selection, sizing, and care, plus routine tracking of catheter days and infection rates, creates the accountability loop needed for sustained improvement."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What materials help protect skin and reduce infection risk?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A secure, breathable, latex-free device keeps skin dry and reduces irritation, lowering the risk of skin breakdown that can lead to secondary infection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DSB Medical an FDA-registered supplier for long-term care facilities?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. DSB Medical (Changzhou DSB Medical Co., Ltd.) supplies male external catheters and incontinence consumables from an FDA-registered facility (3008850249) under ISO 13485 and CE marking on applicable lines."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›5 Ways to Reduce CAUTI in Long-Term Care
+5 Ways to Reduce Catheter-Associated UTIs (CAUTI) in Long-Term Care Facilities — FAQ
+
+Practical answers on CAUTI reduction in long-term care: minimizing catheter days, external catheters, standardized protocols, staff training, and skin-protective materials.
+
+What does CAUTI stand for and why does it matter in long-term care?
+
+CAUTI stands for catheter-associated urinary tract infection, a persistent challenge in long-term care and a largely preventable infection that continues to receive regulatory and research attention.
+
+What is the single strongest predictor of CAUTI?
+
+The single strongest predictor of CAUTI is indwelling catheter duration. Facilities should evaluate every patient for whether an indwelling catheter is genuinely necessary and remove it as soon as it is no longer indicated.
+
+When should external (condom) catheters be considered to reduce CAUTI?
+
+For non-obstructed male patients, external (condom) catheters are generally associated with a lower CAUTI risk than indwelling catheters. They are non-invasive and support the transition away from indwelling devices that carry a higher infection risk.
+
+What are the 5 ways to reduce CAUTI in long-term care facilities?
+
+The five strategies are: 1) right-size and minimize catheter days; 2) consider external (condom) catheters where appropriate; 3) standardize insertion and care protocols; 4) train staff and measure outcomes; and 5) choose materials that protect skin and support compliance.
+
+How does staff training help reduce CAUTI?
+
+Ongoing education on device selection, sizing, and care, plus routine tracking of catheter days and infection rates, creates the accountability loop needed for sustained improvement.
+
+What materials help protect skin and reduce infection risk?
+
+A secure, breathable, latex-free device keeps skin dry and reduces irritation, lowering the risk of skin breakdown that can lead to secondary infection.
+
+Is DSB Medical an FDA-registered supplier for long-term care facilities?
+
+Yes. DSB Medical (Changzhou DSB Medical Co., Ltd.) supplies male external catheters and incontinence consumables from an FDA-registered facility (3008850249) under ISO 13485 and CE marking on applicable lines.
+
+Manufacturer note: DSB Medical (Changzhou DSB Medical Co., Ltd.) supplies male external catheters and incontinence consumables from an FDA-registered facility (3008850249) under ISO 13485 and CE marking on applicable lines. See our DSB Medical quality and compliance information.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-05-china-medical-device-quality.html
+TITLE: China Medical Device Quality: FDA, ISO 13485 & CE MDR FAQ
+DESCRIPTION: Answers to common questions about China medical device quality for global buyers: FDA establishment registration, ISO 13485 quality management, CE marking under MDR, and a due-diligence checklist.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What should global buyers look for when sourcing medical devices from China?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Buyers should look for a documented, current regulatory foundation: FDA establishment registration and device listing for the U.S. market, an ISO 13485 quality management system, and CE marking under the Medical Device Regulation (MDR) where applicable, with certification scope matching the specific product."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is FDA establishment registration and device listing?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Manufacturers selling into the U.S. must register their establishment with the U.S. FDA and list their devices. An FDA Establishment Registration number provides a verifiable baseline that the facility is known to FDA and subject to U.S. regulatory jurisdiction. For example, Changzhou DSB Medical Co., Ltd. holds the FDA Establishment Registration 3008850249."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is ISO 13485 and why does it matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ISO 13485 is the international standard for quality management systems specific to medical devices. Certification demonstrates that a manufacturer has a documented, audited system covering design, production, risk management, and post-market processes. It is widely considered a required baseline for serious device suppliers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is CE marking under the Medical Device Regulation (MDR)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "For the European market, devices require CE marking under the Medical Device Regulation (MDR) according to the applicable classification and scope. Buyers should confirm that the certification's scope matches the specific product they intend to purchase."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a practical due-diligence checklist for buying from a China medical device manufacturer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify FDA Establishment Registration and any device listing in public databases, request the ISO 13485 certificate and confirm its scope, confirm CE marking scope for the European market, and ask for batch records, raw-material certificates, and sterilization validation."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a China-based manufacturer meet global quality expectations?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. A China-based manufacturer with FDA registration, ISO 13485, and appropriate CE marking can meet global quality expectations when the paperwork is real, current, and scoped to the product you intend to buy. Buyers should always verify a manufacturer's current regulatory status directly with the relevant authorities for their market."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›China Medical Device Quality: FDA/ISO 13485/CE
+How China Ensures Medical Device Quality: FDA, ISO 13485 & CE MDR for Global Buyers — FAQ
+
+Practical answers on the regulatory framework and certifications global buyers should look for when sourcing medical devices from China.
+
+What should global buyers look for when sourcing medical devices from China?
+
+Buyers should look for a documented, current regulatory foundation: FDA establishment registration and device listing for the U.S. market, an ISO 13485 quality management system, and CE marking under the Medical Device Regulation (MDR) where applicable, with certification scope matching the specific product.
+
+What is FDA establishment registration and device listing?
+
+Manufacturers selling into the U.S. must register their establishment with the U.S. FDA and list their devices. An FDA Establishment Registration number provides a verifiable baseline that the facility is known to FDA and subject to U.S. regulatory jurisdiction. For example, Changzhou DSB Medical Co., Ltd. holds the FDA Establishment Registration 3008850249.
+
+What is ISO 13485 and why does it matter?
+
+ISO 13485 is the international standard for quality management systems specific to medical devices. Certification demonstrates that a manufacturer has a documented, audited system covering design, production, risk management, and post-market processes. It is widely considered a required baseline for serious device suppliers.
+
+What is CE marking under the Medical Device Regulation (MDR)?
+
+For the European market, devices require CE marking under the Medical Device Regulation (MDR) according to the applicable classification and scope. Buyers should confirm that the certification's scope matches the specific product they intend to purchase.
+
+What is a practical due-diligence checklist for buying from a China medical device manufacturer?
+
+Verify FDA Establishment Registration and any device listing in public databases, request the ISO 13485 certificate and confirm its scope, confirm CE marking scope for the European market, and ask for batch records, raw-material certificates, and sterilization validation.
+
+Can a China-based manufacturer meet global quality expectations?
+
+Yes. A China-based manufacturer with FDA registration, ISO 13485, and appropriate CE marking can meet global quality expectations when the paperwork is real, current, and scoped to the product you intend to buy. Buyers should always verify a manufacturer's current regulatory status directly with the relevant authorities for their market.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. manufactures medical-grade silicone external catheters in an FDA-registered facility (3008850249) under ISO 13485. See more: Male External Catheter Manufacturer in China — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html
+TITLE: Male Urinary Incontinence Products: Complete Guide FAQ
+DESCRIPTION: Answers to common questions about male urinary incontinence management products: pads, external (condom) catheters, indwelling catheters, skin care, and how to choose an external collection device.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is male urinary incontinence and how is it managed?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Male urinary incontinence is a common condition that may be stress-related, urge-related, or mixed. The right management plan depends on the cause, severity, and the person's mobility and preferences, and should be guided by a healthcare professional who confirms the diagnosis."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What types of male incontinence management products are available?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Products include pads and guards for light to moderate leakage, external collection devices (condom catheters) that fit over the penis and drain into a bag for heavier or continuous flow, indwelling catheters reserved for specific clinical situations under professional supervision, and skin-care and moisture barriers that protect skin integrity for long-term wear."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is an external collection device (condom catheter)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An external collection device (condom catheter) fits over the penis and drains into a bag. It is non-invasive, ideal for heavier or continuous flow, and generally associated with a lower CAUTI risk than indwelling catheters."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose a good external catheter for male incontinence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for 100% medical-grade silicone that is latex-free and breathable for comfort, a self-adhesive inner coating for a secure fit without separate straps, correct sizing (for example 25 mm / 29 mm / 32 mm) to prevent leakage and irritation, and a transparent design for easy skin inspection."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the practical tips for managing male incontinence at home?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Size correctly and re-check periodically, follow a regular hygiene and change schedule, pair the device with matching urine bags and skin-care products, and work with your care team to review the plan over time."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When are indwelling catheters used for male incontinence?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Indwelling catheters are reserved for specific clinical situations and should only be used under professional supervision, because they remain inside the bladder and carry a higher CAUTI risk than external collection devices."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is DSB Medical an FDA-registered producer of incontinence products?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. offers a range of incontinence care products, including latex-free silicone male external catheters, from an FDA-registered facility (3008850249) under ISO 13485."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›Male Urinary Incontinence Products Guide
+The Complete Guide to Male Urinary Incontinence Management Products — FAQ
+
+Practical answers for patients and caregivers on male incontinence product types, choosing an external catheter, and practical home management tips.
+
+What is male urinary incontinence and how is it managed?
+
+Male urinary incontinence is a common condition that may be stress-related, urge-related, or mixed. The right management plan depends on the cause, severity, and the person's mobility and preferences, and should be guided by a healthcare professional who confirms the diagnosis.
+
+What types of male incontinence management products are available?
+
+Products include pads and guards for light to moderate leakage, external collection devices (condom catheters) that fit over the penis and drain into a bag for heavier or continuous flow, indwelling catheters reserved for specific clinical situations under professional supervision, and skin-care and moisture barriers that protect skin integrity for long-term wear.
+
+What is an external collection device (condom catheter)?
+
+An external collection device (condom catheter) fits over the penis and drains into a bag. It is non-invasive, ideal for heavier or continuous flow, and generally associated with a lower CAUTI risk than indwelling catheters.
+
+How do I choose a good external catheter for male incontinence?
+
+Look for 100% medical-grade silicone that is latex-free and breathable for comfort, a self-adhesive inner coating for a secure fit without separate straps, correct sizing (for example 25 mm / 29 mm / 32 mm) to prevent leakage and irritation, and a transparent design for easy skin inspection.
+
+What are the practical tips for managing male incontinence at home?
+
+Size correctly and re-check periodically, follow a regular hygiene and change schedule, pair the device with matching urine bags and skin-care products, and work with your care team to review the plan over time.
+
+When are indwelling catheters used for male incontinence?
+
+Indwelling catheters are reserved for specific clinical situations and should only be used under professional supervision, because they remain inside the bladder and carry a higher CAUTI risk than external collection devices.
+
+Is DSB Medical an FDA-registered producer of incontinence products?
+
+Yes. Changzhou DSB Medical Co., Ltd. offers a range of incontinence care products, including latex-free silicone male external catheters, from an FDA-registered facility (3008850249) under ISO 13485.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) offers incontinence care products, including latex-free silicone male external catheters, from an FDA-registered facility (3008850249) under ISO 13485. See options: Male external catheter collection options — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-07-oem-odm-buyers-guide.html
+TITLE: Medical Device OEM vs ODM: China Buyer's Guide FAQ
+DESCRIPTION: Answers on OEM vs ODM in medical devices, what to evaluate in a China manufacturer partner, and a due-diligence process for private label medical device buyers.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is OEM in medical devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "OEM (original equipment manufacturing) means the buyer provides the design or specification and the manufacturer produces the device to that spec."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is ODM in medical devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "ODM (original design manufacturing) means the manufacturer provides both design and production, often with private labeling and custom packaging."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between OEM and ODM?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "In OEM you provide the design and the manufacturer makes it to your spec. In ODM the manufacturer supplies the design and production, typically with private labeling and custom packaging. Many medical device companies use both, standardizing core production with OEM while partnering for new product development."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What should I evaluate when choosing a China medical device manufacturer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Evaluate the regulatory foundation (FDA establishment registration, ISO 13485 quality management system, and CE marking where applicable), material control with raw-material and biocompatibility documentation, production capability such as molding, assembly and sterilization, documentation including batch records and traceability, and communication and realistic lead times."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does a practical OEM/ODM due-diligence process look like?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A practical process is: verify that regulatory registrations and certificates are current and in-scope; interview on the quality management system and error-handling; visit or audit the facility in person or virtually; run a pilot batch and inspect first articles; and agree on quality agreements, change control, and IP handling in writing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can China-based manufacturers deliver high quality medical devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. China manufactures a large share of the world's medical devices, and reputable partners there can deliver high quality when due diligence is done properly. The goal of procurement is a transparent, documented relationship rather than a price-only decision."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does DSB Medical offer OEM/ODM services?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. offers OEM/ODM across male external catheters, urine collection bags, and drug delivery devices, from an FDA-registered facility (US FDA 3008850249) under ISO 13485."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What regulatory certifications should a partner hold?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Look for an FDA establishment registration, an ISO 13485 quality management system, and CE marking where applicable, and confirm these are current and cover the device type you intend to source."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›OEM/ODM China Manufacturer Buyer's Guide
+Medical Device OEM/ODM: FAQ for Buying from a China Manufacturer
+
+Practical answers on OEM vs ODM models, partner evaluation criteria, and due diligence for buyers partnering with a China medical device contract manufacturer.
+
+What is OEM in medical devices?
+
+OEM (original equipment manufacturing) means the buyer provides the design or specification and the manufacturer produces the device to that spec.
+
+What is ODM in medical devices?
+
+ODM (original design manufacturing) means the manufacturer provides both design and production, often with private labeling and custom packaging.
+
+What is the difference between OEM and ODM?
+
+In OEM you provide the design and the manufacturer makes it to your spec. In ODM the manufacturer supplies the design and production, typically with private labeling and custom packaging. Many medical device companies use both, standardizing core production with OEM while partnering on new product innovation.
+
+What should I evaluate when choosing a China medical device manufacturer?
+
+Evaluate the regulatory foundation (FDA establishment registration, ISO 13485 quality management system, and CE marking where applicable), material control with raw-material certificates and biocompatibility documentation, production capability such as molding, assembly and sterilization, documentation including batch records, traceability and design-history files, and communication with realistic lead times.
+
+What does a practical OEM/ODM due-diligence process look like?
+
+Verify registrations and certificates are current and in-scope, interview on QMS and error-handling, visit or audit the facility in person or virtually, run a pilot batch and inspect first articles, and agree on quality agreements, change control, and IP handling in writing.
+
+Can China-based manufacturers deliver high quality medical devices?
+
+Yes. China manufactures a large share of the world's medical devices, and reputable partners there can deliver high quality when due diligence is done properly. The aim is a transparent, documented relationship, not a price-only decision.
+
+Does DSB Medical offer OEM/ODM services?
+
+Yes. Changzhou DSB Medical Co., Ltd. offers OEM/ODM across male external catheters, urine collection bags, and drug delivery devices, from an FDA-registered facility (US FDA 3008850249) under ISO 13485.
+
+What regulatory certifications should a partner hold?
+
+Look for an FDA establishment registration, an ISO 13485 quality management system, and CE marking where applicable, and confirm they are current and scoped to the device type you intend to source.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) offers OEM/ODM for male external catheters, urine collection bags, and drug delivery devices, from an FDA-registered facility (US FDA 3008850249) under ISO 13485, with CE marking on applicable lines. Learn about partnering: China medical device OEM/ODM — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-08-external-catheter-care.html
+TITLE: External Catheter Care Best Practices: Skin Health FAQ | DSB Medical
+DESCRIPTION: Answers to common questions about external (condom) catheter care: daily inspection, proper sizing, hygiene and change schedules, and skin-friendly materials.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How often should I inspect the skin under an external catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Check the skin under and around the device daily for redness, irritation, or breakdown. A transparent device makes this inspection possible without full removal."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How important is correct sizing of a condom catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Correct sizing is important for comfort and skin health. Common sizes are 25 mm, 29 mm, and 32 mm. Re-check the fit periodically, because leaks or slippage signal an incorrect size. A right fit is secure but not tight, with no restriction of flow or deep marks."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What hygiene and change schedule should I follow for an external catheter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Follow a regular change routine per manufacturer and facility guidance. Clean and dry the skin thoroughly before each application, and use a fresh device per change rather than reusing it."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What materials are gentler on sensitive skin for external catheters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Prefer latex-free, 100% medical-grade silicone for sensitive skin. A self-adhesive inner coating helps a secure fit while reducing the need for separate adhesive straps that can irritate the skin. Moisture barriers and skin-care products can also help for long-term wear."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "When should I re-size or escalate care?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Re-size or escalate when you see persistent redness, soreness, or blistering; device slipping or leakage not resolved by re-application; or changes in weight, medication, or edema that affect the fit."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why is routine external catheter care important?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Proper care protects skin health, improves comfort, and supports a positive patient experience. It is a consistent routine of small, careful steps that protect comfort, dignity, and skin health."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does DSB Medical manufacture skin-friendly external catheters?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. provides latex-free silicone male external catheters engineered for skin-friendly care, manufactured in an FDA-registered facility (US FDA 3008850249) under ISO 13485."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›External Catheter Care & Skin Health
+External Catheter Care Best Practices: FAQ for Skin Health & Comfort
+
+Answers on daily inspection, correct sizing, hygiene and change schedules, and skin-friendly materials for external (condom) catheter care.
+
+How often should I inspect the skin under an external catheter?
+
+Check the skin under and around the device daily for redness, irritation, or breakdown. A transparent device makes this inspection possible without full removal.
+
+How important is correct sizing of a condom catheter?
+
+Correct sizing matters for comfort and skin health. Common sizes are 25 mm, 29 mm, and 32 mm, and the fit should be re-checked periodically because leaks or slippage signal an incorrect size. The right fit is secure but not tight, without restriction of flow or deep marks.
+
+What hygiene and change schedule should I follow?
+
+Follow a regular change routine per manufacturer and facility guidance. Clean and dry the skin thoroughly before each application and use a fresh device per change rather than reusing it.
+
+What materials are gentler on sensitive skin?
+
+Prefer latex-free, 100% medical-grade silicone. A self-adhesive inner coating helps a secure fit while reducing the need for separate adhesive straps that can irritate the skin. Moisture barriers and skin-care products support long-term wear.
+
+When should I re-size or escalate care?
+
+Re-size or escalate for persistent redness, soreness, or blistering; device slipping or leakage not resolved by re-application; or a change in weight, medication, or edema affecting the fit.
+
+Why is routine external catheter care important?
+
+Proper care protects skin health, improves comfort, and supports a positive patient experience. It is a consistent routine of small, careful steps that protect comfort, dignity, and skin health.
+
+Does DSB Medical manufacture skin-friendly external catheters?
+
+Yes. Changzhou DSB Medical Co., Ltd. provides latex-free silicone male external catheters engineered for skin-friendly care, manufactured in an FDA-registered facility (US FDA 3008850249) under ISO 13485.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) makes latex-free silicone male external catheters with FDA 3008850249, ISO 13485, and CE marking on applicable lines. See the guide: How to measure for a condom catheter — DSB Medical guide.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html
+TITLE: Soft Mist Inhaler (SMI) vs. Traditional Nebulizer: FAQ | DSB Medical
+DESCRIPTION: Answers on soft mist inhaler (SMI) vs traditional nebulizer: how SMI delivers a slow fine mist with high lung deposition, device differences, and selection guidance.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What is a soft mist inhaler (SMI)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A soft mist inhaler (SMI) delivers medication as a slow-moving, fine soft mist with high lung deposition, meaning more of the drug reaches the lungs rather than settling in the mouth or throat. Because the mist is slow and stable, it is generally easier for patients to coordinate than some conventional inhalers."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is the difference between an SMI and a traditional nebulizer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A soft mist inhaler produces a stable, pre-set aerosol dose in a compact, handheld device, making it portable, fast, and easy to use anywhere. A jet or ultrasonic nebulizer generates an aerosol continuously from a liquid reservoir; it is effective but bulkier, slower, and often needs a power source, making it less convenient on the go."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does high lung deposition matter?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Higher lung deposition can mean better drug delivery to the target site and potentially lower dosing variability. For patients who struggle with hand–breath coordination, a soft mist's slow plume can make inhalation more natural."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How do I choose between an SMI and a nebulizer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An SMI is good for a portable, pre-measured daily dose with easier coordination. A nebulizer is often used for patients who cannot use handheld devices or need larger doses at home. Always follow the prescribing clinician's and manufacturer's instructions."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Is an SMI easier for patients to use than a conventional inhaler?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Because an SMI produces a slow, stable fine soft mist, it is generally easier to coordinate than some conventional inhalers, which can support adherence and comfort for many patients."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does DSB Medical manufacture soft mist inhalers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. manufactures soft mist inhalers under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM and device customization available."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›SMI vs. Traditional Nebulizer
+Soft Mist Inhaler (SMI) vs. Traditional Nebulizer: FAQ
+
+Answers on how a soft mist inhaler delivers a slow, fine soft mist with high lung deposition, how it differs from a traditional nebulizer, and how to select the right device.
+
+What is a soft mist inhaler (SMI)?
+
+An SMI delivers medication as a slow-moving, fine soft mist with high lung deposition, meaning more of the drug reaches the lungs rather than settling in the mouth or throat. Because the mist is slow and stable, it is generally easier for patients to coordinate than some conventional inhalers.
+
+What is the difference between an SMI and a traditional nebulizer?
+
+A soft mist inhaler produces a stable, pre-set aerosol dose in a compact, handheld device, so it is portable, fast, and easy to use anywhere. A jet or ultrasonic nebulizer generates an aerosol continuously from a liquid reservoir; it is effective but bulkier, slower, and often needs a power source, making it less convenient on the go.
+
+Why does high lung deposition matter?
+
+Higher lung deposition can mean better drug delivery to the target site and potentially lower dosing variability. For patients who struggle with hand–breath coordination, a soft mist's slow plume can make inhalation more natural.
+
+How do I choose between an SMI and a nebulizer?
+
+An SMI is good for a portable, pre-measured daily dose with easier coordination. A nebulizer is often used for patients who cannot use handheld devices or need larger doses at home. Always follow the prescribing clinician's and manufacturer's instructions.
+
+Is an SMI easier for patients to use than a conventional inhaler?
+
+Because an SMI produces a slow, stable fine soft mist, it is generally easier to coordinate than some conventional inhalers, which can support adherence and comfort for many patients.
+
+Does DSB Medical manufacture soft mist inhalers?
+
+Yes. Changzhou DSB Medical Co., Ltd. manufactures soft mist inhalers under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM and device customization available.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) manufactures soft mist inhalers under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM and device customization available. Learn more: SMI Soft Mist Inhaler — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html
+TITLE: SMI, DPI, pMDI or Mesh Nebulizer: Drug Delivery Comparison
+DESCRIPTION: Answers for pharma partners comparing the four inhalation delivery platforms — SMI, DPI, pMDI, mesh nebulizer — and what to consider when selecting a CDMO.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What are the four handheld inhalation drug delivery platforms?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "The four main handheld platforms are the Soft Mist Inhaler (SMI), Dry Powder Inhaler (DPI), pressurized metered-dose inhaler (pMDI), and mesh nebulizer."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does a Soft Mist Inhaler (SMI) deliver medication?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "An SMI delivers medication as a slow, fine soft mist with high lung deposition. It is well suited to liquids and solutions that need deep-lung targeting and patient-friendly coordination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a Dry Powder Inhaler (DPI)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A DPI delivers a powder aerosol generated from the patient's inspiratory effort. It is breath-actuated and requires no propellant, making it good for stable powder formulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a pressurized metered-dose inhaler (pMDI)?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A pMDI is a propellant-driven metered-dose spray. It is compact and familiar, making it suitable for established formulations."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What is a mesh nebulizer?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A mesh nebulizer produces a fine mist via a vibrating mesh. It is suited to solutions and suspensions, larger volumes, and patient comfort."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should a pharma partner select the right platform?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Key criteria include formulation compatibility (solution, suspension, or powder), lung targeting and particle size as reflected by the fine-particle fraction, usability and adherence, and the development and manufacturing maturity of the chosen partner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why consider a CDMO for inhalation device development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A capable CDMO handles design, tooling, assembly, and regulatory documentation, reducing time to market. Regulatory confidence comes from quality systems such as FDA registration, CE marking under MDR, and ISO 13485."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which platforms does DSB Medical develop and manufacture?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "DSB Medical develops and manufactures SMI soft mist inhalers, DPI, pMDI, and mesh nebulizers with OEM/ODM CDMO services, under FDA, CE MDR, and ISO 13485 certified quality systems."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›SMI, DPI, pMDI & Mesh Nebulizer Comparison
+SMI, DPI, pMDI or Mesh Nebulizer: Drug Delivery Device Comparison FAQ
+
+Answers for pharma partners comparing the four main handheld inhalation delivery platforms and what to consider when selecting a CDMO.
+
+What are the four handheld inhalation drug delivery platforms?
+
+The four main handheld platforms are the Soft Mist Inhaler (SMI), Dry Powder Inhaler (DPI), pressurized metered-dose inhaler (pMDI), and mesh nebulizer.
+
+How does a Soft Mist Inhaler (SMI) deliver medication?
+
+An SMI delivers medication as a slow, fine soft mist with high lung deposition. It is well suited to liquids and solutions that need deep-lung targeting and patient-friendly coordination.
+
+What is a Dry Powder Inhaler (DPI)?
+
+A DPI delivers a powder aerosol generated from the patient's inspiratory effort. It is breath-actuated and requires no propellant, making it good for stable powder formulations.
+
+What is a pressurized metered-dose inhaler (pMDI)?
+
+A pMDI is a propellant-driven metered-dose spray. It is compact and familiar, making it suitable for established formulations.
+
+What is a mesh nebulizer?
+
+A mesh nebulizer produces a fine mist via a vibrating mesh. It is suited to solutions and suspensions, larger volumes, and patient comfort.
+
+How should a pharma partner select the right platform?
+
+Key criteria include formulation compatibility (solution, suspension, or powder), lung targeting and particle size as reflected by the fine-particle fraction, usability and adherence, and the development and manufacturing maturity of the chosen partner.
+
+Why consider a CDMO for inhalation device development?
+
+A capable CDMO handles design, tooling, assembly, and regulatory documentation, reducing time to market. Regulatory confidence comes from quality systems such as FDA registration, CE marking under MDR, and ISO 13485.
+
+Which platforms does DSB Medical develop and manufacture?
+
+DSB Medical develops and manufactures SMI soft mist inhalers, DPI, pMDI, and mesh nebulizers with OEM/ODM CDMO services, under FDA, CE MDR, and ISO 13485 certified quality systems.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) develops and manufactures SMI soft mist inhalers, DPI, pMDI, and mesh nebulizers with OEM/ODM CDMO services, under FDA, CE MDR, and ISO 13485 certified quality systems. Explore drug delivery: Soft Mist Inhaler drug delivery device — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html
+TITLE: Soft Mist Technology & High Lung Deposition: Therapy FAQ
+DESCRIPTION: Answers on soft mist technology in drug delivery: how it produces a slow fine mist, why high lung deposition matters, and adherence benefits for respiratory therapy.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "How does soft mist technology work?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A soft mist inhaler converts a liquid drug into a slow-moving, fine soft mist with a stable, pre-set aerosol dose. Unlike a fast propellant-driven plume, a soft mist gives the patient a gentler cloud to inhale, which can ease hand–breath coordination."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why does high lung deposition matter in respiratory therapy?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Higher lung deposition means a greater fraction of the dose reaches the airways instead of the mouth and throat. Reduced oropharyngeal deposition can lower local side effects and improve consistency of the delivered dose, supporting more predictable therapy."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What are the adherence benefits of a soft mist device?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Devices that are easier to use tend to be used correctly and more consistently. A slow, stable mist can be more comfortable and intuitive than devices requiring precise timing, supporting better long-term adherence."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What does reliable soft mist delivery depend on?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Reliable soft mist delivery depends on precision in the nozzle or actuation mechanism, consistent dose volume, and robust manufacturing controls. Partnering with a manufacturer that holds FDA registration and ISO 13485 offers assurance of reproducibility at scale."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How does soft mist compare with fast propellant-driven delivery?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Unlike a fast propellant-driven plume, a soft mist delivers a slow, stable cloud that is gentler to inhale. This can ease hand–breath coordination, a common challenge in inhalation therapy, and support more consistent dosing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Does DSB Medical manufacture soft mist inhalers?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Yes. Changzhou DSB Medical Co., Ltd. manufactures soft mist inhalers under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM and device customization available."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›Soft Mist Technology & High Lung Deposition
+Soft Mist Technology & High Lung Deposition: FAQ for Respiratory Therapy
+
+Answers on how soft mist technology works, why high lung deposition improves therapy, and how a slow, stable mist supports adherence and predictable dosing.
+
+How does soft mist technology work?
+
+A soft mist inhaler converts a liquid drug into a slow-moving, fine soft mist with a stable, pre-set aerosol dose. Unlike a fast propellant-driven plume, a soft mist gives the patient a gentler cloud to inhale, which can ease hand–breath coordination, a common challenge in inhalation therapy.
+
+Why does high lung deposition matter in respiratory therapy?
+
+Higher lung deposition means a greater fraction of the dose reaches the airways instead of the mouth and throat. Reduced oropharyngeal deposition can lower local side effects and improve consistency of the delivered dose, supporting more predictable therapy for chronic respiratory conditions.
+
+What are the adherence benefits of a soft mist device?
+
+Devices that are easier to use tend to be used correctly and more consistently. A slow, stable mist can be more comfortable and intuitive than devices requiring precise timing, supporting better long-term adherence.
+
+What does reliable soft mist delivery depend on?
+
+Reliable delivery depends on precision in the nozzle or actuation mechanism, consistent dose volume, and robust manufacturing controls. Partnering with a manufacturer that holds FDA registration and ISO 13485 provides assurance of reproducibility at scale.
+
+How does soft mist compare with fast propellant-driven delivery?
+
+Unlike a fast propellant-driven plume, a soft mist delivers a slow, stable cloud that is gentler to inhale. This can ease hand–breath coordination and support more consistent, predictable dosing.
+
+Does DSB Medical manufacture soft mist inhalers?
+
+Yes. Changzhou DSB Medical Co., Ltd. manufactures soft mist inhalers under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM and device customization available.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) manufactures soft mist inhalers under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM and device customization. See details: SMI soft mist technology — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html
+TITLE: Partnering with a China CDMO for Inhalation Devices: FAQ | DSB Medical
+DESCRIPTION: Answers on partnering with a China CDMO for inhalation devices (SMI, DPI, pMDI & mesh nebulizer): capabilities, due-diligence checklist, and risks to manage.
+H1: 
+    
+
+
+JSON-LD:
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "What can a China CDMO offer for inhalation devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A China CDMO can offer multiple device platforms (SMI, DPI, pMDI, and mesh nebulizer) under one partner, OEM/ODM and CDMO services including design, tooling, assembly, private labeling and customization, quality systems certified under FDA, CE MDR, and ISO 13485, and scale and cost efficiency from established manufacturing infrastructure and supply chains."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "How should I do due diligence before partnering with a China CDMO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Verify the FDA registration and any relevant device listings, confirm the ISO 13485 quality management scope covers the device type, review the CE marking scope and technical file readiness, audit the facility and request batch records, material certificates, and validation, and clarify IP, change control, and quality agreements in writing."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "What risks should I manage when working with a China CDMO?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Confirm regulatory documents are current and scoped to your product, validate reproducibility across batch scales, and establish clear communication and project governance."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Can a China CDMO deliver compliant, cost-effective inhalation devices?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "China's inhalation-device manufacturing has matured significantly. With disciplined due diligence, a China CDMO can be a strong, compliant partner for bringing an inhalation product to market cost-effectively. The overview is for general reference; always verify a manufacturer's current regulatory status with the relevant authorities for your market and product."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Which inhalation platforms should a CDMO partner be able to provide?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "A capable CDMO partner should be able to provide multiple platforms, typically SMI, DPI, pMDI, and mesh nebulizer, allowing you to match the formulation to the right delivery platform under one partner."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Why consider a China-based CDMO for respiratory drug development?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Global respiratory drug developers partner with China-based CDMOs to accelerate development and reduce cost without sacrificing quality, provided due diligence is done properly."
+      }
+    }
+  ]
+}
+
+BODY:
+Home›Resources›China CDMO for Inhalation Devices
+Partnering with a China CDMO for Inhalation Devices: FAQ
+
+Answers on what a China CDMO can offer for inhalation devices (SMI, DPI, pMDI & mesh nebulizer), the due-diligence checklist, and risks to manage before partnering.
+
+What can a China CDMO offer for inhalation devices?
+
+A China CDMO offers multiple device platforms (SMI, DPI, pMDI, and mesh nebulizer) under one partner, OEM/ODM and CDMO services including design, tooling, assembly, private labeling and customization, quality systems certified under FDA, CE MDR, and ISO 13485, and scale and cost efficiency from established manufacturing infrastructure and supply chains.
+
+How should I do due diligence before partnering with a China CDMO?
+
+Verify the FDA registration and any relevant device listings, confirm the ISO 13485 quality management scope covers the device type, review the CE marking scope and technical file readiness, audit the facility and request batch records, material certificates, and validation, and clarify IP, change control, and quality agreements in writing.
+
+What risks should I manage when working with a China CDMO?
+
+Confirm regulatory documents are current and scoped to your product, validate reproducibility across batch scales, and establish clear communication and project governance.
+
+Can a China CDMO deliver compliant, cost-effective inhalation devices?
+
+China's inhalation-device manufacturing has matured significantly. With disciplined due diligence, a China CDMO can be a strong, compliant partner for bringing an inhalation product to market cost-effectively. This overview is for general reference; always verify a manufacturer's current regulatory status with the relevant authorities for your market and product.
+
+Which inhalation platforms should a CDMO partner be able to provide?
+
+A capable CDMO partner should provide multiple platforms, typically SMI, DPI, pMDI, and mesh nebulizer, allowing you to match the formulation to the right delivery platform under one partner.
+
+Why consider a China-based CDMO for respiratory drug development?
+
+Global respiratory drug developers partner with China-based CDMOs to accelerate development and reduce cost without sacrificing quality, provided due diligence is done properly.
+
+Manufacturer note: Changzhou DSB Medical Co., Ltd. (China) offers inhalation device manufacturing with SMI, DPI, pMDI, and mesh nebulizer platforms under FDA, CE MDR, and ISO 13485 certified quality systems, with OEM/ODM CDMO services. Learn more: China medical device manufacturer — DSB Medical.
+
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/news_list.html
+TITLE: News Events-Changzhou DSB Medical Co., Ltd.
+DESCRIPTION: Changzhou DSB Medical Co., Ltd.  News Events DSB Medical provides comprehensive solutions for dependent living scenarios: incontinence care (male external catheters, urine bags, adult care, fluid management), precision drug delivery (SMI soft mist inhalers, mesh nebulizers, auto-injectors), medical protective consumables, and bio-microfluidic chips / biosensing.
+
+BODY:
+About      Careers      Investors      Partnerships
+
+Products & Services
+
+Markets
+
+News & Events
+
+Integrated Solutions
+
+Contact Us
+
+Language
+
+News & Events
+
+which specializes in R&D, manufacture and marketing ofdisposal medical products.
+
+Company News
+
+Industry Information
+
+Media Report
+
+Video
+
+News Events
+
+Delegation from China Association for Social Welfare and Elderly Care Services Visits DSB Medical for Inspection and Research
+
+On November 6, 2025, Xu Jianzhong, Executive President of the China Association for Social Welfare and Elderly Care Services, led a delegation to conduct an inspection and research visit to Changzhou DSB Medical Co., Ltd. Gu Wei, Head of the Elderly Care Technology Transfer Center at the Suzhou Institute of Biomedical Engineering and Technology, Chinese Academy of Sciences; Pang Lixin, President of the Changzhou Private Elderly Care Association, together with the association’s staff; and leaders from Yingke Law Firm’s Changzhou Office also participated in the inspection, research, and discussion session.
+
+2025-11-07
+
+2024
+
+On May 6, 2024, DSB (Changzhou) Medical Co., Ltd. was honored as a "Specialized, Fine, and New" Enterprise of Jiangsu Province for 2024.
+
+2025-09-17
+
+Join Us FIME 2024 Booth No.：E73 Date: June 19-21, 2024 Location: Miami Beach Convention Center, Florida, USA
+
+Join Us FIME 2024 Booth No.：E73 Date: June 19-21, 2024 Location: Miami Beach Convention Center, Florida, USA
+
+2024-06-15
+
+DSB Medical Invites You to ARAB HEALTH 2024
+
+The Arab Health 2024 exhibition will continue to be held at the Dubai International Exhibition Center in the United Arab Emirates from January 29th to February 1st.DSBcordiallyinvites all industry professionals to visit and communicate with us at our Booth Z7.D18.
+
+2024-01-13
+
+Inhaled therapy is essential for the treatment of asthma and chronic obstructive pulmonary disease (COPD).
+
+Metered Dose Inhalers (MDIs) are one the two main types of inhalers for the delivery of respiratory drugs, for the treatment of asthma and chronic obstructive pulmonary disease (COPD); the other is Dry Powder Inhalers. MDIs are also known as pMDIs (pressurised metered dose inhalers).
+
+2023-11-30
+
+2023
+
+In November 2023, a wholly-owned subsidiary of DSB- Jiangsu JNM Microcontrol Technology Co., Ltd. obtained ISO9001 certification
+
+2023-11-23
+
+< 12345 >
+
+If you have more needs?
+
+Welcome your message, we will reply you in time.
+
+Online Message
+COOKIES
+
+Our website uses cookies and similar technologies to personalize the advertising shown to you and to help you get the best experience on our website. For more information, see our Privacy & Cookie Policy
+
+Manage cookies allow all
+
+service@dsbmedical.com
+
+sales@dsbmedical.com
+
+0086-519-88363800
+
+355 Longjin Road, Changzhou Economic Development Zone, Jiangsu Province, China
+
+About
+
+Our History
+
+Our Brands
+
+Vision, Mission & Values
+
+Facts & Figures
+
+Governance
+
+Quality
+
+Research & Development
+
+Regulatory Support
+
+Health, Safety & Environment
+
+DSB Steps
+
+Offering
+
+Drug Delivery Device
+
+Incontinence Healthcare
+
+Disposable Medical Consumables
+
+Biological Chip
+
+Mold Development
+
+Automation Development
+
+Equipment/ Processing Capability
+
+Packaging Capablility
+
+Services
+
+News & Event
+
+Company News
+
+Industry Information
+
+Media Report
+
+Video
+
+Contact Us
+
+Contact Information
+
+Online Message
+
+邮箱
+
+service@dsbmedical.com
+
+‪+86 18651272568‬
+
+‪+8618651272568‬
+
+电话
+
+0086-0519-88363800
+
+Online Message
+
+Online Message
+
+Copyright©2022 Changzhou DSB Medical Co., Ltd. All Rights Reserved. 苏ICP备19062360号-1
+
+DSB Medical – FDA & CE Approved Disposable Medical Supplies Manufacturer for Europe & USA.      Privacy Policy  |  SEO
+
+Business license
+d
++
+
+
+----------------------------------------
+## https://en.dsbmedical.com/resources.html
+TITLE: Medical Resources & Guides | DSB Medical
+DESCRIPTION: Practical guides and FAQs on male external catheters, CAUTI prevention, and SMI soft mist inhalation devices from DSB Medical.
+
+BODY:
+Home>Resources
+DSB Medical · Resource Center
+Resources & Buying Guides
+
+Verified product pages, clinical guides, and company resources for healthcare buyers, distributors, and clinical teams.
+
+This resource center is organized to help you move from product discovery to sourcing decisions: explore our device brands, use the buying and clinical guides, and review the company, compliance, and support information you need to evaluate DSB Medical as a manufacturing partner.
+
+📦
+Products & Brand Pages
+
+Core device brands and product lines, with precise brand and product mapping.
+
+🫁
+DXneb™ Vibration Mesh Nebulizer
+vibration mesh nebulizer brand for hospital, ICU and home aerosol therapy.
+🫁
+GoldHaler® Neonatal RDS Nebulization
+neonatal respiratory distress syndrome (RDS) nebulization.
+💊
+FreeHala™ Combination Drug-Device Inhalation Platform
+SMI / DPI / pMDI combination inhalation platform.
+💧
+FluidMS® Fecal Management System
+fecal management and incontinence care system.
+🧻
+Didun Adult Incontinence Care
+adult diapers and incontinence care products.
+🚰
+Urine Bag & Drainage Solutions
+urine collection bags and drainage systems.
+💉
+Drug Delivery Devices
+SMI, DPI, and auto-injector drug delivery devices.
+🫁
+Inhalation & Nebulizer Solutions
+nebulizers and inhalation devices.
+📏
+Male External Catheter (Condom Catheter)
+male external catheter manufacturer in China.
+📦
+Products Overview
+full medical disposables and care products overview.
+📚
+Guides & Buying Tools
+
+Practical guides and FAQ for catheter selection, sizing, and inhalation technology comparison.
+
+📏
+How to Choose a Male External Catheter
+📏
+How to Measure a Condom Catheter
+❓
+Male External vs Indwelling Catheters (CAUTI Guide)
+❓
+Condom Catheter Sizing: 25/29/32mm
+❓
+Latex-Free Silicone vs Latex Catheters
+❓
+5 Ways to Reduce CAUTI in Long-Term Care
+❓
+China Medical Device Quality: FDA/ISO 13485/CE
+❓
+Male Urinary Incontinence Products Guide
+❓
+OEM/ODM China Manufacturer Buyer's Guide
+❓
+External Catheter Care & Skin Health
+❓
+SMI vs Traditional Nebulizer
+❓
+SMI/DPI/pMDI/Mesh Comparison
+❓
+Soft Mist Technology & Lung Deposition
+❓
+China CDMO for Inhalation Devices
+✅
+DSB Medical Verified Facts & Data
+🏢
+Company & Support
+
+Company profile, compliance, partnerships, and investor information.
+
+🏢
+About DSB Medical
+🧩
+Integrated Solutions
+⚙️
+OEM/ODM & CDMO Services
+🛡️
+Compliance & Regulatory
+🤝
+Partnerships
+📈
+Investors
+📈
+Investor Relations Overview
+📈
+Investor Updates
+📰
+Company Updates
+🛟
+Support
+✉️
+Contact Us
+
+Need help choosing the right product?
+
+Talk to our sales and technical team for product selection, samples, and OEM/ODM quotations.
+
+Contact Us
+
+d
++
