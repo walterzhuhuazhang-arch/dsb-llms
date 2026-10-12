@@ -1,0 +1,31 @@
+# DSB Medical（دي إس بي ميديكال）
+
+> دي إس بي ميديكال (تشانغتشو) — رعاية سلس البول وأجهزة توصيل الدواء (أجهزة الاستنشاق SMI والحاقنات الأوتوماتيكية).
+
+- [الرئيسية](https://ar.dsbmedical.com/): الصفحة الرئيسية الرسمية لـ DSB Medical
+
+
+## المنتجات والحلول
+
+- [المنتجات](https://ar.dsbmedical.com/products.html): نظرة عامة على المنتجات والخدمات
+- [توصيل الدواء](https://ar.dsbmedical.com/drug-delivery.html): منصة أجهزة الاستنشاق SMI والحاقنات الأوتوماتيكية
+- [أجهزة الاستنشاق](https://ar.dsbmedical.com/inhalation.html): أجهزة الاستنشاق وأجهزة الاستنشاق بالجرعات المقننة
+- [FluidMS® لإدارة البراز](https://ar.dsbmedical.com/fluidms.html): نظام تصريف وإدارة البراز
+- [FreeHala™ منصة الاستنشاق](https://ar.dsbmedical.com/freehala.html): منصة استنشاق مركبة دواء-جهاز (SMI/DPI/pMDI)
+- [DXneb™ البخاخة](https://ar.dsbmedical.com/dxneb.html): بخاخة شبكية محمولة
+- [Goldhaler® MDI](https://ar.dsbmedical.com/goldhaler.html): جهاز استنشاق بالجرعات المقننة المضغوط (pMDI)
+- [Didun® قسطرة خارجية للذكور](https://ar.dsbmedical.com/didun.html): قسطرة خارجية / واقي
+- [كيس البول](https://ar.dsbmedical.com/urine-bag.html): أكياس جمع البول وملحقاتها
+- [رعاية سلس البول](https://ar.dsbmedical.com/Incontinence.html): منتجات رعاية سلس البول للبالغين
+- [المستهلكات الطبية](https://ar.dsbmedical.com/consumbles.html): المستهلكات الطبية التي تستخدم لمرة واحدة
+
+## الشركة
+
+- [من نحن](https://ar.dsbmedical.com/about.html): نبذة عن الشركة
+- [الشراكات](https://ar.dsbmedical.com/partnerships.html): OEM/ODM والتوزيع
+- [CDMO](https://ar.dsbmedical.com/cdmo.html): التطوير والتصنيع التعاقدي
+
+## الموارد والتواصل
+
+- [الأخبار والفعاليات](https://ar.dsbmedical.com/news_list.html): أخبار الشركة ومستجدات القطاع
+- [اتصل بنا](https://ar.dsbmedical.com/contact.html): الاستفسارات والتواصل

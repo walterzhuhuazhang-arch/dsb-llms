@@ -1,0 +1,58 @@
+# DSB Medical（دي إس بي ميديكال）
+
+> دي إس بي ميديكال (تشانغتشو) — رعاية سلس البول وأجهزة توصيل الدواء (أجهزة الاستنشاق SMI والحاقنات الأوتوماتيكية).
+
+- [الرئيسية](https://ar.dsbmedical.com/): الصفحة الرئيسية الرسمية لـ DSB Medical
+
+
+## المنتجات والحلول
+
+- [المنتجات](https://ar.dsbmedical.com/products.html): نظرة عامة على المنتجات والخدمات
+- [توصيل الدواء](https://ar.dsbmedical.com/drug-delivery.html): منصة أجهزة الاستنشاق SMI والحاقنات الأوتوماتيكية
+- [أجهزة الاستنشاق](https://ar.dsbmedical.com/inhalation.html): أجهزة الاستنشاق وأجهزة الاستنشاق بالجرعات المقننة
+- [FluidMS® لإدارة البراز](https://ar.dsbmedical.com/fluidms.html): نظام تصريف وإدارة البراز
+- [FreeHala™ منصة الاستنشاق](https://ar.dsbmedical.com/freehala.html): منصة استنشاق مركبة دواء-جهاز (SMI/DPI/pMDI)
+- [DXneb™ البخاخة](https://ar.dsbmedical.com/dxneb.html): بخاخة شبكية محمولة
+- [Goldhaler® MDI](https://ar.dsbmedical.com/goldhaler.html): جهاز استنشاق بالجرعات المقننة المضغوط (pMDI)
+- [Didun® قسطرة خارجية للذكور](https://ar.dsbmedical.com/didun.html): قسطرة خارجية / واقي
+- [كيس البول](https://ar.dsbmedical.com/urine-bag.html): أكياس جمع البول وملحقاتها
+- [رعاية سلس البول](https://ar.dsbmedical.com/Incontinence.html): منتجات رعاية سلس البول للبالغين
+- [المستهلكات الطبية](https://ar.dsbmedical.com/consumbles.html): المستهلكات الطبية التي تستخدم لمرة واحدة
+- [مستهلكات العناية أحادية الاستخدام](https://ar.dsbmedical.com/Disposable1.html): مستهلكات العناية والتصريف أحادية الاستخدام
+- [القوالب والأدوات](https://ar.dsbmedical.com/Mold.html): قوالب حقن دقيقة وتخصيص
+- [الرقاقة الحيوية](https://ar.dsbmedical.com/chip.html): رقائق الموائع الدقيقة ومستشعرات RFID الحيوية
+- [حلول المستحضرات الحيوية](https://ar.dsbmedical.com/biologic.html): تعبئة وتوصيل المستحضرات الحيوية
+- [حلول مضادات التخثر](https://ar.dsbmedical.com/anticoaugulants.html): حلول سوق مضادات التخثر
+
+## الشركة
+
+- [من نحن](https://ar.dsbmedical.com/about.html): نبذة عن الشركة
+- [العلامة التجارية](https://ar.dsbmedical.com/brand.html): العلامة التجارية والتعريف بالشركة
+- [الجودة والامتثال](https://ar.dsbmedical.com/quality.html): معايير الجودة والامتثال التنظيمي
+- [الدعم التنظيمي](https://ar.dsbmedical.com/support.html): الدعم التنظيمي والفني
+- [الشراكات](https://ar.dsbmedical.com/partnerships.html): OEM/ODM والتوزيع
+- [CDMO](https://ar.dsbmedical.com/cdmo.html): التطوير والتصنيع التعاقدي
+- [الامتثال](https://ar.dsbmedical.com/compliance.html): معلومات الامتثال والشهادات
+- [الوظائف](https://ar.dsbmedical.com/careers.html): انضم إلى DSB Medical
+- [المستثمرون](https://ar.dsbmedical.com/investors.html): علاقات المستثمرين
+
+## الموارد والتواصل
+
+- [الأخبار والفعاليات](https://ar.dsbmedical.com/news_list.html): أخبار الشركة ومستجدات القطاع
+- [الموارد](https://ar.dsbmedical.com/resources.html): موارد المنتجات والحلول
+- [اتصل بنا](https://ar.dsbmedical.com/contact.html): الاستفسارات والتواصل
+
+## FAQ
+
+- [faq-01-male-external-vs-indwelling.html](https://ar.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
+- [faq-02-condom-catheter-sizing.html](https://ar.dsbmedical.com/faq-02-condom-catheter-sizing.html)
+- [faq-03-latex-free-silicone-vs-latex.html](https://ar.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
+- [faq-04-reduce-cauti-5-ways.html](https://ar.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
+- [faq-05-china-medical-device-quality.html](https://ar.dsbmedical.com/faq-05-china-medical-device-quality.html)
+- [faq-06-male-urinary-incontinence-guide.html](https://ar.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
+- [faq-07-oem-odm-buyers-guide.html](https://ar.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
+- [faq-08-external-catheter-care.html](https://ar.dsbmedical.com/faq-08-external-catheter-care.html)
+- [faq-09-smi-vs-traditional-nebulizer.html](https://ar.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
+- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://ar.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
+- [faq-11-soft-mist-high-lung-deposition.html](https://ar.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
+- [faq-12-china-cdmo-inhalation-devices.html](https://ar.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)

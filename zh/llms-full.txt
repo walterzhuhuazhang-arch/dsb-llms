@@ -1,0 +1,58 @@
+# 帝斯博医疗（DSB Medical）
+
+> 常州帝斯博医疗，专注失禁护理与药物递送装置（SMI 吸入器、自动注射器）。
+
+- [首页](https://www.dsbmedical.com/): 帝斯博医疗官网首页
+
+
+## 产品与解决方案
+
+- [产品中心](https://www.dsbmedical.com/products.html): 产品与服务总览
+- [药物递送装置](https://www.dsbmedical.com/drug-delivery.html): SMI 软雾吸入器与自动注射器平台
+- [吸入装置](https://www.dsbmedical.com/inhalation.html): 吸入装置与定量吸入器
+- [FluidMS® 大便管理系统](https://www.dsbmedical.com/fluidms.html): 大便引流与粪便管理系统
+- [FreeHala™ 吸入平台](https://www.dsbmedical.com/freehala.html): 药械组合吸入平台（SMI/DPI/pMDI）
+- [DXneb™ 雾化器](https://www.dsbmedical.com/dxneb.html): 便携式网式雾化器
+- [Goldhaler® 定量吸入器](https://www.dsbmedical.com/goldhaler.html): pMDI 压力定量吸入器
+- [帝盾® 男用导尿套](https://www.dsbmedical.com/didun.html): 外用导尿套/体外导尿装置
+- [一次性尿袋](https://www.dsbmedical.com/urine-bag.html): 尿液收集袋与配套
+- [失禁护理](https://www.dsbmedical.com/Incontinence.html): 成人失禁护理产品
+- [一次性医用耗材](https://www.dsbmedical.com/consumbles.html): 综合医用耗材
+- [一次性护理耗材](https://www.dsbmedical.com/Disposable1.html): 一次性护理/引流耗材
+- [模具定制](https://www.dsbmedical.com/Mold.html): 精密注塑模具与定制
+- [生物芯片](https://www.dsbmedical.com/chip.html): 微流控芯片与 RFID 生物传感器
+- [生物药解决方案](https://www.dsbmedical.com/biologic.html): 生物药包装与递送
+- [抗凝市场方案](https://www.dsbmedical.com/anticoaugulants.html): 抗凝产品综合解决方案
+
+## 关于公司
+
+- [关于我们](https://www.dsbmedical.com/about.html): 公司简介
+- [品牌理念](https://www.dsbmedical.com/brand.html): 品牌与公司介绍
+- [质量与认证](https://www.dsbmedical.com/quality.html): 质量标准与法规合规
+- [法规支持](https://www.dsbmedical.com/support.html): 法规与技术支持
+- [合作/经销](https://www.dsbmedical.com/partnerships.html): OEM/ODM 与经销合作
+- [CDMO 服务](https://www.dsbmedical.com/cdmo.html): 合同研发生产服务
+- [合规](https://www.dsbmedical.com/compliance.html): 合规与认证信息
+- [招贤纳士](https://www.dsbmedical.com/careers.html): 加入帝斯博
+- [投资者关系](https://www.dsbmedical.com/investors.html): 投资者信息
+
+## 资源与联系
+
+- [新闻与活动](https://www.dsbmedical.com/news_list.html): 企业新闻与行业资讯
+- [资源中心](https://www.dsbmedical.com/resources.html): 产品与解决方案资源
+- [联系我们](https://www.dsbmedical.com/contact.html): 询价与联系
+
+## FAQ
+
+- [faq-01-male-external-vs-indwelling.html](https://www.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
+- [faq-02-condom-catheter-sizing.html](https://www.dsbmedical.com/faq-02-condom-catheter-sizing.html)
+- [faq-03-latex-free-silicone-vs-latex.html](https://www.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
+- [faq-04-reduce-cauti-5-ways.html](https://www.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
+- [faq-05-china-medical-device-quality.html](https://www.dsbmedical.com/faq-05-china-medical-device-quality.html)
+- [faq-06-male-urinary-incontinence-guide.html](https://www.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
+- [faq-07-oem-odm-buyers-guide.html](https://www.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
+- [faq-08-external-catheter-care.html](https://www.dsbmedical.com/faq-08-external-catheter-care.html)
+- [faq-09-smi-vs-traditional-nebulizer.html](https://www.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
+- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://www.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
+- [faq-11-soft-mist-high-lung-deposition.html](https://www.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
+- [faq-12-china-cdmo-inhalation-devices.html](https://www.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)

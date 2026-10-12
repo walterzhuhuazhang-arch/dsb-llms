@@ -1,0 +1,58 @@
+# DSB Medical
+
+> DSB Medical (Changzhou) — cuidado de la incontinencia y dispositivos de administración de fármacos (inhaladores SMI, autoinyectores).
+
+- [Inicio](https://es.dsbmedical.com/): Página principal oficial de DSB Medical
+
+
+## Productos y soluciones
+
+- [Productos](https://es.dsbmedical.com/products.html): Resumen de productos y servicios
+- [Administración de fármacos](https://es.dsbmedical.com/drug-delivery.html): Plataforma de inhaladores SMI y autoinyectores
+- [Dispositivos de inhalación](https://es.dsbmedical.com/inhalation.html): Dispositivos de inhalación e inhaladores dosificadores
+- [FluidMS® Gestión fecal](https://es.dsbmedical.com/fluidms.html): Sistema de drenaje y gestión fecal
+- [FreeHala™ Plataforma de inhalación](https://es.dsbmedical.com/freehala.html): Plataforma combinada fármaco-dispositivo (SMI/DPI/pMDI)
+- [DXneb™ Nebulizador](https://es.dsbmedical.com/dxneb.html): Nebulizador de malla portátil
+- [Goldhaler® MDI](https://es.dsbmedical.com/goldhaler.html): Inhalador de dosis medida presurizado (pMDI)
+- [Didun® Catéter externo masculino](https://es.dsbmedical.com/didun.html): Catéter externo / preservativo
+- [Bolsa de orina](https://es.dsbmedical.com/urine-bag.html): Bolsas de recogida de orina y accesorios
+- [Cuidado de la incontinencia](https://es.dsbmedical.com/Incontinence.html): Productos para la incontinencia en adultos
+- [Consumibles médicos](https://es.dsbmedical.com/consumbles.html): Consumibles médicos desechables
+- [Consumibles desechables](https://es.dsbmedical.com/Disposable1.html): Consumibles de cuidado y drenaje de un solo uso
+- [Moldes y utillaje](https://es.dsbmedical.com/Mold.html): Moldes de inyección de precisión y personalización
+- [Biochip](https://es.dsbmedical.com/chip.html): Chips microfluídicos y biosensores RFID
+- [Soluciones biológicas](https://es.dsbmedical.com/biologic.html): Envasado y administración de biológicos
+- [Soluciones de anticoagulación](https://es.dsbmedical.com/anticoaugulants.html): Soluciones para el mercado de anticoagulantes
+
+## Empresa
+
+- [Sobre nosotros](https://es.dsbmedical.com/about.html): Perfil de la empresa
+- [Marca](https://es.dsbmedical.com/brand.html): Marca y presentación de la empresa
+- [Calidad y cumplimiento](https://es.dsbmedical.com/quality.html): Estándares de calidad y cumplimiento normativo
+- [Soporte regulatorio](https://es.dsbmedical.com/support.html): Soporte regulatorio y técnico
+- [Alianzas](https://es.dsbmedical.com/partnerships.html): OEM/ODM y distribución
+- [CDMO](https://es.dsbmedical.com/cdmo.html): Desarrollo y fabricación por contrato
+- [Cumplimiento](https://es.dsbmedical.com/compliance.html): Información de cumplimiento y certificación
+- [Empleo](https://es.dsbmedical.com/careers.html): Únase a DSB Medical
+- [Inversores](https://es.dsbmedical.com/investors.html): Relación con inversores
+
+## Recursos y contacto
+
+- [Noticias y eventos](https://es.dsbmedical.com/news_list.html): Noticias de la empresa y del sector
+- [Recursos](https://es.dsbmedical.com/resources.html): Recursos de productos y soluciones
+- [Contacto](https://es.dsbmedical.com/contact.html): Consultas y contacto
+
+## FAQ
+
+- [faq-01-male-external-vs-indwelling.html](https://es.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
+- [faq-02-condom-catheter-sizing.html](https://es.dsbmedical.com/faq-02-condom-catheter-sizing.html)
+- [faq-03-latex-free-silicone-vs-latex.html](https://es.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
+- [faq-04-reduce-cauti-5-ways.html](https://es.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
+- [faq-05-china-medical-device-quality.html](https://es.dsbmedical.com/faq-05-china-medical-device-quality.html)
+- [faq-06-male-urinary-incontinence-guide.html](https://es.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
+- [faq-07-oem-odm-buyers-guide.html](https://es.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
+- [faq-08-external-catheter-care.html](https://es.dsbmedical.com/faq-08-external-catheter-care.html)
+- [faq-09-smi-vs-traditional-nebulizer.html](https://es.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
+- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://es.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
+- [faq-11-soft-mist-high-lung-deposition.html](https://es.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
+- [faq-12-china-cdmo-inhalation-devices.html](https://es.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)

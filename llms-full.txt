@@ -1,0 +1,56 @@
+# DSB Medical
+
+> Changzhou DSB Medical — incontinence care and drug-delivery devices (SMI inhalers, auto-injectors).
+
+## Products & Solutions
+
+- [Products](https://en.dsbmedical.com/products.html): Products and services overview
+- [Drug Delivery](https://en.dsbmedical.com/drug-delivery.html): SMI soft-mist inhalers and auto-injectors
+- [Inhalation Devices](https://en.dsbmedical.com/inhalation.html): Inhalation devices and metered-dose inhalers
+- [FluidMS® Fecal Management](https://en.dsbmedical.com/fluidms.html): Fecal drainage and management system
+- [FreeHala™ Inhalation Platform](https://en.dsbmedical.com/freehala.html): Drug-device combination inhalation platform (SMI/DPI/pMDI)
+- [DXneb™ Nebulizer](https://en.dsbmedical.com/dxneb.html): Portable mesh nebulizer
+- [Goldhaler® MDI](https://en.dsbmedical.com/goldhaler.html): Pressurised metered-dose inhaler (pMDI)
+- [Didun® Male External Catheter](https://en.dsbmedical.com/didun.html): External/condom catheter
+- [Urine Bag](https://en.dsbmedical.com/urine-bag.html): Urine collection bags and accessories
+- [Incontinence Care](https://en.dsbmedical.com/Incontinence.html): Adult incontinence care products
+- [Medical Consumables](https://en.dsbmedical.com/Consumables.html): Comprehensive medical consumables
+- [Disposable Care Consumables](https://en.dsbmedical.com/Disposable1.html): Single-use care and drainage consumables
+- [Mold & Tooling](https://en.dsbmedical.com/Mold.html): Precision injection molds and customization
+- [Biochip](https://en.dsbmedical.com/chip.html): Microfluidic chips and RFID biosensors
+- [Biologics Solutions](https://en.dsbmedical.com/biologic.html): Biologics packaging and delivery
+- [Anticoagulation Solutions](https://en.dsbmedical.com/anticoagulants.html): Anticoagulant market solutions
+
+## Company
+
+- [About Us](https://en.dsbmedical.com/about.html): Company profile
+- [Brand](https://en.dsbmedical.com/brand.html): Brand and company introduction
+- [Quality & Compliance](https://en.dsbmedical.com/quality.html): Quality standards and regulatory compliance
+- [Regulatory Support](https://en.dsbmedical.com/support.html): Regulatory and technical support
+- [Partnerships](https://en.dsbmedical.com/partnerships.html): OEM/ODM and distribution
+- [CDMO](https://en.dsbmedical.com/cdmo.html): Contract development and manufacturing
+- [Compliance](https://en.dsbmedical.com/compliance.html): Compliance and certification information
+- [Careers](https://en.dsbmedical.com/careers.html): Join DSB Medical
+- [Investors](https://en.dsbmedical.com/investors.html): Investor relations
+
+## Resources & Contact
+
+- [Home](https://en.dsbmedical.com/): DSB Medical official homepage
+- [News & Events](https://en.dsbmedical.com/news_list.html): Company news and industry updates
+- [Resources](https://en.dsbmedical.com/resources.html): Product and solution resources
+- [Contact](https://en.dsbmedical.com/contact.html): Inquiries and contact
+
+## FAQ
+
+- [faq-01-male-external-vs-indwelling.html](https://en.dsbmedical.com/faq-01-male-external-vs-indwelling.html)
+- [faq-02-condom-catheter-sizing.html](https://en.dsbmedical.com/faq-02-condom-catheter-sizing.html)
+- [faq-03-latex-free-silicone-vs-latex.html](https://en.dsbmedical.com/faq-03-latex-free-silicone-vs-latex.html)
+- [faq-04-reduce-cauti-5-ways.html](https://en.dsbmedical.com/faq-04-reduce-cauti-5-ways.html)
+- [faq-05-china-medical-device-quality.html](https://en.dsbmedical.com/faq-05-china-medical-device-quality.html)
+- [faq-06-male-urinary-incontinence-guide.html](https://en.dsbmedical.com/faq-06-male-urinary-incontinence-guide.html)
+- [faq-07-oem-odm-buyers-guide.html](https://en.dsbmedical.com/faq-07-oem-odm-buyers-guide.html)
+- [faq-08-external-catheter-care.html](https://en.dsbmedical.com/faq-08-external-catheter-care.html)
+- [faq-09-smi-vs-traditional-nebulizer.html](https://en.dsbmedical.com/faq-09-smi-vs-traditional-nebulizer.html)
+- [faq-10-smi-dpi-pmdi-mesh-compare.html](https://en.dsbmedical.com/faq-10-smi-dpi-pmdi-mesh-compare.html)
+- [faq-11-soft-mist-high-lung-deposition.html](https://en.dsbmedical.com/faq-11-soft-mist-high-lung-deposition.html)
+- [faq-12-china-cdmo-inhalation-devices.html](https://en.dsbmedical.com/faq-12-china-cdmo-inhalation-devices.html)

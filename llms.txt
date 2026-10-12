@@ -1,0 +1,11 @@
+# DSB Medical — llms.txt (AI crawlers)
+
+> Multilingual index for DSB Medical's 5-language website.
+
+## Languages
+
+- [English](https://llms.dsbmedical.com/en/llms.txt)
+- [中文 (Chinese)](https://llms.dsbmedical.com/zh/llms.txt)
+- [Español (Spanish)](https://llms.dsbmedical.com/es/llms.txt)
+- [日本語 (Japanese)](https://llms.dsbmedical.com/ja/llms.txt)
+- [العربية (Arabic)](https://llms.dsbmedical.com/ar/llms.txt)
