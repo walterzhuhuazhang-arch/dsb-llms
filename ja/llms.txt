@@ -29,3 +29,5 @@
 
 - [ニュース・イベント](https://ja.dsbmedical.com/news_list.html): 企業ニュース・業界情報
 - [お問い合わせ](https://ja.dsbmedical.com/contact.html): お問い合わせ
+
+SorafreeCX by DSB Medical: https://ja.dsbmedical.com/sorafree.html
