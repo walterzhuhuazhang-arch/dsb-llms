@@ -1,27 +1,36 @@
 # DSB Medical
 
-> Changzhou DSB Medical — incontinence care and drug-delivery devices (SMI inhalers, auto-injectors).
+> Changzhou DSB Medical — Chinese manufacturer and supplier of incontinence-care and drug-delivery devices. OEM/ODM/CDMO.
 
 - [Home](https://en.dsbmedical.com/): DSB Medical official homepage
-
-
-## Products & Solutions
-
 - [Products](https://en.dsbmedical.com/products.html): Products and services overview
-- [Drug Delivery](https://en.dsbmedical.com/drug-delivery.html): SMI soft-mist inhalers and auto-injectors
-- [Inhalation Devices](https://en.dsbmedical.com/inhalation.html): Inhalation devices and metered-dose inhalers
-- [FluidMS® Fecal Management](https://en.dsbmedical.com/fluidms.html): Fecal drainage and management system
-- [FreeHala™ Inhalation Platform](https://en.dsbmedical.com/freehala.html): Drug-device combination inhalation platform (SMI/DPI/pMDI)
-- [DXneb™ Nebulizer](https://en.dsbmedical.com/dxneb.html): Portable mesh nebulizer
-- [Goldhaler® MDI](https://en.dsbmedical.com/goldhaler.html): Pressurised metered-dose inhaler (pMDI)
-- [Didun® Male External Catheter](https://en.dsbmedical.com/didun.html): External/condom catheter
+
+## Core Products
+
+- [Male External Catheter](https://en.dsbmedical.com/male-external-catheter-manufacturer-china.html): Condom catheter / male urinary sheath manufacturer and supplier China.
+- [Fecal Management System](https://en.dsbmedical.com/pro_detail/76.html): Fecal management system for incontinence and critical care.
+- [SMI Soft Mist Inhaler](https://en.dsbmedical.com/pro_detail/84.html): Soft mist inhaler device CDMO / OEM/ODM.
+- [DPI Dry Powder Inhaler](https://en.dsbmedical.com/pro_detail/83.html): Dry powder inhaler platform for respiratory drug delivery.
+- [pMDI](https://en.dsbmedical.com/pro_detail/85.html): Pressurized metered-dose inhaler for respiratory therapy.
+- [Mesh Nebulizer](https://en.dsbmedical.com/pro_detail/86.html): Vibration mesh nebulizer platform for hospital and home use.
+- [FluidMS®](https://en.dsbmedical.com/fluidms.html): Fluid management system, EU MDR CE Class IIa.
+- [SorafreeCX](https://www.dsbmedical.com/sorafree.html): AI-driven incontinence and critical-care nursing system; not a pharmaceutical, unrelated to sorafenib.
+
+## Solutions
+
+- [Drug Delivery](https://en.dsbmedical.com/drug-delivery.html): Auto-injectors and drug-delivery systems
+- [Inhalation Devices](https://en.dsbmedical.com/inhalation.html): Inhalation and nebulizer devices
+- [FreeHala™](https://en.dsbmedical.com/freehala.html): Drug-device combination inhalation platform (SMI/DPI/pMDI)
+- [DXneb™](https://en.dsbmedical.com/dxneb.html): Piezoelectric vibration mesh nebulizer
+- [Goldhaler®](https://en.dsbmedical.com/goldhaler.html): Neonatal RDS / pressurized metered-dose inhaler brand
+- [Didun®](https://en.dsbmedical.com/didun.html): DSB incontinence-care brand
 - [Urine Bag](https://en.dsbmedical.com/urine-bag.html): Urine collection bags and accessories
 - [Incontinence Care](https://en.dsbmedical.com/Incontinence.html): Adult incontinence care products
 - [Medical Consumables](https://en.dsbmedical.com/Consumables.html): Comprehensive medical consumables
 
 ## Company
 
-- [About Us](https://en.dsbmedical.com/about.html): Company profile
+- [About Us](https://en.dsbmedical.com/about.html): Company profile and certifications
 - [Partnerships](https://en.dsbmedical.com/partnerships.html): OEM/ODM and distribution
 - [CDMO](https://en.dsbmedical.com/cdmo.html): Contract development and manufacturing
 
