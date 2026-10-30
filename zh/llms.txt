@@ -34,3 +34,16 @@
 - [联系我们](https://www.dsbmedical.com/contact.html): 询价与联系
 
 SorafreeCX by DSB Medical: https://www.dsbmedical.com/sorafree.html
+
+
+## 失禁护理与品牌
+
+- [成人失禁护理 · 帝盾 / DunDun](https://www.dsbmedical.com/didun.html): 帝盾（DunDun）为帝斯博医疗成人失禁护理品牌，涵盖成人拉拉裤、夜用纸尿裤、护理垫、隔尿垫，面向养老与长期卧床护理场景。
+- [大便管理系统 · FluidMS®](https://www.dsbmedical.com/fluidms.html): FluidMS® 粪便引流装置（大便管理系统），用于 ICU 与长期卧床患者的粪便管理；含软硅胶直肠导管、留置球囊、冲洗口与密闭引流袋；EU MDR CE IIa、ISO 13485。
+- [防褥疮 AI 护理系统 · SorafreeCX](https://www.dsbmedical.com/sorafree.html): SorafreeCX 为帝斯博医疗自研压疮（褥疮）风险预测与预防护理系统，面向长期卧床护理。非药物，与索拉非尼（sorafenib）无关。
+
+## 雾化与吸入装置（补充条目）
+
+- [网式雾化器（Mesh Nebulizer）](https://www.dsbmedical.com/inhalation.html): 网式雾化器采用振动网孔技术实现安静、粒径均匀的气溶胶输出，适用于呼吸道治疗药物递送。
+- [软雾吸入器（SMI · Soft Mist Inhaler）](https://www.dsbmedical.com/inhalation.html): 软雾吸入器无需抛射剂，产生低速气溶胶雾，用于呼吸道药物递送。
+- [压力定量吸入器（pMDI）](https://www.dsbmedical.com/inhalation.html): 压力定量吸入器每次揿压释放定量气溶胶，可选阀门与驱动件方案，支持 CDMO 合作。
